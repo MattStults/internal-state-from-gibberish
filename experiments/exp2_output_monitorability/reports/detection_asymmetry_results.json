@@ -1,0 +1,207 @@
+{
+ "question": "detection (was this stream conditioned at all?) vs identification (which concept?): per-token mean-over-12-contexts lift vs the arm neutral, conditioned streams vs the generator's s0 streams",
+ "arm": "secret_word",
+ "statistic": "nats/token, eos-free length",
+ "first_measured": "2026-07-14 (post-70B review); frozen by this script",
+ "cells": {
+  "qwen2.5-1.5b__qwen2.5-1.5b": {
+   "cond_pt_mean": 0.017743630295137133,
+   "cond_pt_sd": 0.030629998119440834,
+   "neutral_pt_mean": 0.008747708239009139,
+   "neutral_pt_sd": 0.023675025593357556,
+   "separation_pt": 0.008995922056127995,
+   "separation_d": 0.3286266679092164,
+   "n_cond": 688,
+   "n_neutral": 55,
+   "diagonal": true
+  },
+  "qwen2.5-1.5b__qwen2.5-3b": {
+   "cond_pt_mean": 0.04253833781252525,
+   "cond_pt_sd": 0.039548073383508194,
+   "neutral_pt_mean": 0.03879033607157154,
+   "neutral_pt_sd": 0.05137549271078517,
+   "separation_pt": 0.003748001740953709,
+   "separation_d": 0.08175413018267721,
+   "n_cond": 757,
+   "n_neutral": 63,
+   "diagonal": false
+  },
+  "qwen2.5-1.5b__qwen2.5-7b": {
+   "cond_pt_mean": 0.018773948382273548,
+   "cond_pt_sd": 0.026024316736465745,
+   "neutral_pt_mean": 0.018706353156283936,
+   "neutral_pt_sd": 0.02455632262947188,
+   "separation_pt": 6.75952259896126e-05,
+   "separation_d": 0.0026716457606923796,
+   "n_cond": 495,
+   "n_neutral": 39,
+   "diagonal": false
+  },
+  "qwen2.5-3b__qwen2.5-1.5b": {
+   "cond_pt_mean": 0.05006194104885319,
+   "cond_pt_sd": 0.05822064068518988,
+   "neutral_pt_mean": 0.050835567042220905,
+   "neutral_pt_sd": 0.042078872161042245,
+   "separation_pt": -0.0007736259933677145,
+   "separation_d": -0.015230341790070257,
+   "n_cond": 688,
+   "n_neutral": 55,
+   "diagonal": false
+  },
+  "qwen2.5-3b__qwen2.5-3b": {
+   "cond_pt_mean": 0.012100171702831702,
+   "cond_pt_sd": 0.06194906179742461,
+   "neutral_pt_mean": -0.034131419130931887,
+   "neutral_pt_sd": 0.051247512101503065,
+   "separation_pt": 0.04623159083376359,
+   "separation_d": 0.8132112378721291,
+   "n_cond": 757,
+   "n_neutral": 63,
+   "diagonal": true
+  },
+  "qwen2.5-3b__qwen2.5-7b": {
+   "cond_pt_mean": 0.007793370205933959,
+   "cond_pt_sd": 0.026957195310840558,
+   "neutral_pt_mean": 0.022843268045062967,
+   "neutral_pt_sd": 0.030760516769166156,
+   "separation_pt": -0.015049897839129009,
+   "separation_d": -0.5203716030637215,
+   "n_cond": 495,
+   "n_neutral": 39,
+   "diagonal": false
+  },
+  "qwen2.5-7b__qwen2.5-1.5b": {
+   "cond_pt_mean": -0.02551647592595411,
+   "cond_pt_sd": 0.07876865055986867,
+   "neutral_pt_mean": -0.0032224447051797814,
+   "neutral_pt_sd": 0.05979971603320389,
+   "separation_pt": -0.022294031220774328,
+   "separation_d": -0.3188033917099289,
+   "n_cond": 688,
+   "n_neutral": 55,
+   "diagonal": false
+  },
+  "qwen2.5-7b__qwen2.5-3b": {
+   "cond_pt_mean": -0.014111715064972184,
+   "cond_pt_sd": 0.07943816575845626,
+   "neutral_pt_mean": -0.01257860790977738,
+   "neutral_pt_sd": 0.09530613508827623,
+   "separation_pt": -0.0015331071551948038,
+   "separation_d": -0.0174749627697378,
+   "n_cond": 757,
+   "n_neutral": 63,
+   "diagonal": false
+  },
+  "qwen2.5-7b__qwen2.5-7b": {
+   "cond_pt_mean": 0.010390640739102336,
+   "cond_pt_sd": 0.04145686747239105,
+   "neutral_pt_mean": -0.01194065273915545,
+   "neutral_pt_sd": 0.02703789312598909,
+   "separation_pt": 0.022331293478257786,
+   "separation_d": 0.6380734807216925,
+   "n_cond": 495,
+   "n_neutral": 39,
+   "diagonal": true
+  },
+  "falcon3-1b__qwen2.5-1.5b": {
+   "cond_pt_mean": 0.0024394087888403564,
+   "cond_pt_sd": 0.024971755042748532,
+   "neutral_pt_mean": 0.0014125402715601133,
+   "neutral_pt_sd": 0.0218989686648373,
+   "separation_pt": 0.0010268685172802432,
+   "separation_d": 0.04372319473781515,
+   "n_cond": 688,
+   "n_neutral": 55,
+   "diagonal": false
+  },
+  "falcon3-1b__qwen2.5-3b": {
+   "cond_pt_mean": 0.00303633319453365,
+   "cond_pt_sd": 0.029802474776221763,
+   "neutral_pt_mean": 0.004706056667972726,
+   "neutral_pt_sd": 0.03068969481310894,
+   "separation_pt": -0.0016697234734390758,
+   "separation_d": -0.055198678608444414,
+   "n_cond": 757,
+   "n_neutral": 63,
+   "diagonal": false
+  },
+  "falcon3-1b__qwen2.5-7b": {
+   "cond_pt_mean": 0.003299516686004888,
+   "cond_pt_sd": 0.01368647034309278,
+   "neutral_pt_mean": 0.0063364762363185625,
+   "neutral_pt_sd": 0.011606707791867505,
+   "separation_pt": -0.0030369595503136745,
+   "separation_d": -0.23933288500370306,
+   "n_cond": 495,
+   "n_neutral": 39,
+   "diagonal": false
+  },
+  "falcon3-3b__qwen2.5-1.5b": {
+   "cond_pt_mean": -0.031424752696638136,
+   "cond_pt_sd": 0.0380822149465311,
+   "neutral_pt_mean": -0.02440003985766581,
+   "neutral_pt_sd": 0.03900959925617422,
+   "separation_pt": -0.007024712838972328,
+   "separation_d": -0.1822295839970877,
+   "n_cond": 688,
+   "n_neutral": 55,
+   "diagonal": false
+  },
+  "falcon3-3b__qwen2.5-3b": {
+   "cond_pt_mean": -0.016426966869945988,
+   "cond_pt_sd": 0.0442120272415572,
+   "neutral_pt_mean": -0.008096477471590507,
+   "neutral_pt_sd": 0.04396602791755895,
+   "separation_pt": -0.00833048939835548,
+   "separation_d": -0.1889462625464022,
+   "n_cond": 757,
+   "n_neutral": 63,
+   "diagonal": false
+  },
+  "falcon3-3b__qwen2.5-7b": {
+   "cond_pt_mean": -0.025728220964179472,
+   "cond_pt_sd": 0.022373433121056354,
+   "neutral_pt_mean": -0.02837409731657705,
+   "neutral_pt_sd": 0.02573087676436752,
+   "separation_pt": 0.0026458763523975783,
+   "separation_d": 0.10973882845143414,
+   "n_cond": 495,
+   "n_neutral": 39,
+   "diagonal": false
+  },
+  "falcon3-7b__qwen2.5-1.5b": {
+   "cond_pt_mean": -0.028624605274328644,
+   "cond_pt_sd": 0.032468155830650804,
+   "neutral_pt_mean": -0.028443053428754476,
+   "neutral_pt_sd": 0.036723348975676494,
+   "separation_pt": -0.00018155184557416826,
+   "separation_d": -0.005237911598279001,
+   "n_cond": 688,
+   "n_neutral": 55,
+   "diagonal": false
+  },
+  "falcon3-7b__qwen2.5-3b": {
+   "cond_pt_mean": -0.019415568192366794,
+   "cond_pt_sd": 0.033001390179368865,
+   "neutral_pt_mean": -0.014853853740593687,
+   "neutral_pt_sd": 0.03976903390375379,
+   "separation_pt": -0.0045617144517731065,
+   "separation_d": -0.12483407805720032,
+   "n_cond": 757,
+   "n_neutral": 63,
+   "diagonal": false
+  },
+  "falcon3-7b__qwen2.5-7b": {
+   "cond_pt_mean": -0.00897857684504978,
+   "cond_pt_sd": 0.014630844560794023,
+   "neutral_pt_mean": -0.006603997041272045,
+   "neutral_pt_sd": 0.015064594063595907,
+   "separation_pt": -0.0023745798037777353,
+   "separation_d": -0.1599118681240814,
+   "n_cond": 495,
+   "n_neutral": 39,
+   "diagonal": false
+  }
+ },
+ "reading": "only diagonal (reader==generator) cells separate conditioned from unconditioned streams; cross-model cells show ~no or wrong-sign separation -- detection, like identification, is generator-privileged on word-free secret_word streams"
+}

@@ -1,0 +1,21 @@
+title: How much can you learn about a model's state from pure gibberish?
+description: >-
+  Experiments on whether a monitor can recover a concept a model is carrying
+  from its word-free output, who can read it, and how it scales — Qwen2.5
+  1.5B/3B/7B/14B and a cross-family Llama-3.3-70B point.
+theme: minima
+# Minima's stock header builds a nav from every markdown page in the repo, which
+# turns all our experiment reports into "word-salad" nav links. NOTE: setting
+# `header_pages: []` does NOT fix it -- minima uses `header_pages | default:
+# site.pages`, and Liquid's `default` filter treats an empty list as unset, so it
+# falls back to listing every page. We instead override _includes/header.html to
+# drop the page-nav entirely; the site title still links home.
+# Keep the Pages build lean: serve the post + its figures + the repo docs,
+# not the data dumps or virtualenvs.
+exclude:
+  - runs/
+  - .venv/
+  - .venv-driver/
+  - "**/__pycache__/"
+  - "**/*.pt"
+  - "**/*.jsonl"

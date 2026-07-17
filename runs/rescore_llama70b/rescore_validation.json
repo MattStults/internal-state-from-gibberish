@@ -1,0 +1,92 @@
+{
+  "ok": true,
+  "n_streams": 3,
+  "n_requests": 6,
+  "per_stream": [
+    {
+      "stream_idx": 0,
+      "arm": "evoked",
+      "concept": "anger",
+      "special_tokens": {
+        "ok": true,
+        "reason": null,
+        "present_in_text": {
+          "<|start_header_id|>": true,
+          "<|end_header_id|>": true,
+          "<|eot_id|>": true
+        },
+        "parsed_as_single_token": {
+          "<|start_header_id|>": true,
+          "<|end_header_id|>": true,
+          "<|eot_id|>": true
+        }
+      },
+      "span_findable": true,
+      "ll_plausible": {
+        "ok": true,
+        "reason": null,
+        "n": 201,
+        "mean": -1.8047749454676612,
+        "var": 3.286100971615408
+      },
+      "ok": true
+    },
+    {
+      "stream_idx": 1,
+      "arm": "evoked",
+      "concept": "anger",
+      "special_tokens": {
+        "ok": true,
+        "reason": null,
+        "present_in_text": {
+          "<|start_header_id|>": true,
+          "<|end_header_id|>": true,
+          "<|eot_id|>": true
+        },
+        "parsed_as_single_token": {
+          "<|start_header_id|>": true,
+          "<|end_header_id|>": true,
+          "<|eot_id|>": true
+        }
+      },
+      "span_findable": true,
+      "ll_plausible": {
+        "ok": true,
+        "reason": null,
+        "n": 199,
+        "mean": -1.6216021420777003,
+        "var": 14.911676928804267
+      },
+      "ok": true
+    },
+    {
+      "stream_idx": 2,
+      "arm": "evoked",
+      "concept": "anger",
+      "special_tokens": {
+        "ok": true,
+        "reason": null,
+        "present_in_text": {
+          "<|start_header_id|>": true,
+          "<|end_header_id|>": true,
+          "<|eot_id|>": true
+        },
+        "parsed_as_single_token": {
+          "<|start_header_id|>": true,
+          "<|end_header_id|>": true,
+          "<|eot_id|>": true
+        }
+      },
+      "span_findable": true,
+      "ll_plausible": {
+        "ok": true,
+        "reason": null,
+        "n": 200,
+        "mean": -1.0844166153278838,
+        "var": 2.5983817870013017
+      },
+      "ok": true
+    }
+  ],
+  "note": "GATE: special tokens must round-trip as SINGLE tokens (a literal-tokenizing endpoint reproduces the marker STRINGS but not the TOKENS) and matched-context per-token LL must be finite/non-degenerate. On failure config A is dead: fall back to config B (vLLM token ids)."
+}

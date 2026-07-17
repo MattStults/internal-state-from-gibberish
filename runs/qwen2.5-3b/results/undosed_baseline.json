@@ -1,0 +1,18 @@
+{
+  "mild": {
+    "n": 20,
+    "mean_word_rate": 0.005357142857142857,
+    "median_word_rate": 0.0,
+    "streams_all_nonword": 19,
+    "mean_alpha_runs_per_stream": 9.5,
+    "mean_alpha_char_frac": 0.9115755328586481
+  },
+  "strong": {
+    "n": 20,
+    "mean_word_rate": 0.0,
+    "median_word_rate": 0.0,
+    "streams_all_nonword": 20,
+    "mean_alpha_runs_per_stream": 0.95,
+    "mean_alpha_char_frac": 0.9352033135060658
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "peek_n": 5,
+  "streams_scored": 180,
+  "streams_available": 810,
+  "note": "Amendment-6 instrument-feasibility peek (NOT the confirmatory full sweep). Interpret a null as instrument-inconclusive, not as a 70B no-channel result."
+}

@@ -1,0 +1,22 @@
+{
+  "model": "Qwen/Qwen2.5-3B-Instruct",
+  "hf_revision": "aa8e72537993ba99e69dfaafa59ed015b17504d1",
+  "extraction": "diff_of_means (concept - neutral), RAW un-normalized (blog convention)",
+  "concept": "silence",
+  "layers_extracted": [
+    14,
+    18,
+    22,
+    26
+  ],
+  "selected_layer": 14,
+  "selected_strength": 32,
+  "selected_eff_mag": 103.0,
+  "concept_vector_norm": 3.22,
+  "selected_rnorm": 177.7,
+  "selected_lift": 17.0,
+  "prompt_set_sha": "6b482c72fadab0a5",
+  "vector_normalized": false,
+  "ts": "2026-06-24T21:21:45",
+  "note": "No Qwen2.5-3B SAE on Neuronpedia -> no cosine cross-check at 3B. If escalated to Qwen2.5-7B-IT, cross-check vs the layer-20 resid SAE."
+}

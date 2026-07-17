@@ -1,0 +1,15 @@
+{
+  "calibrate_s": 0.0,
+  "generate_s": 642.0,
+  "read_s": 513.4,
+  "read_acts_s": 104.0,
+  "read_cuts_s": 393.2,
+  "n_read_forwards": 10109,
+  "n_gen_calls": 36,
+  "n_streams_read": 1275,
+  "n_read_calls": 2105,
+  "read_ms_per_stream": 402.7,
+  "read_frac": 0.444,
+  "read_cuts_frac": 0.766,
+  "read_forwards_per_stream": 7.9
+}

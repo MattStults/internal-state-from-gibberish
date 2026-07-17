@@ -1,0 +1,365 @@
+{
+ "amendment": "Amendment 6 (POST-DATA, 2026-07-13): amended char-surface control, triggered by the 3B char-control failure (lr_scale_grid_prereg.md)",
+ "old_rule": "Amendment 5 (frozen, 3 seeds): pass iff |char mean| <= 2 sd",
+ "new_rule": "Amendment 6 (POST-DATA 2026-07-13, 10 seeds): FAIL iff (mean - 2*sd) > 0 OR mean >= max(0.02, 0.1 * LR bits_mean); PASS otherwise; None stays None (pending, disclosed)",
+ "note": "The frozen Amendment-5 3-seed verdicts stay on the books (lr_grid_results.json, unmodified); this artifact reports both side by side. The position control is unchanged by Amendment 6.",
+ "cells": {
+  "secret_word@qwen2.5-1.5b": {
+   "lr_bits": 0.16277783751663355,
+   "old": {
+    "mean": -0.003199951677369602,
+    "sd": 0.010168624821316126,
+    "passed": true,
+    "rule": "Amendment 5 (frozen, 3 seeds): pass iff |char mean| <= 2 sd"
+   },
+   "new": {
+    "mean": -0.006083475384336623,
+    "sd": 0.008035263585116552,
+    "per_seed": [
+     -0.005240993392868543,
+     0.01014846468901176,
+     -0.014507326328251136,
+     -0.007940100533659677,
+     -0.005791270542530036,
+     0.0025215325554470702,
+     0.0007621395406469667,
+     -0.011532355045636322,
+     -0.012349452555551643,
+     -0.01690539222997467
+    ],
+    "n": 24,
+    "seeds": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
+    "passed": true,
+    "stat_positive_lower": -0.022154002554569726,
+    "materiality_threshold": 0.02,
+    "rule": "Amendment 6 (POST-DATA 2026-07-13, 10 seeds): FAIL iff (mean - 2*sd) > 0 OR mean >= max(0.02, 0.1 * LR bits_mean); PASS otherwise; None stays None (pending, disclosed)"
+   },
+   "position": {
+    "share": 0.25215518584809316,
+    "passed": true
+   },
+   "label_old": null,
+   "label_new": null,
+   "label_changes": false,
+   "reader": "qwen2.5-1.5b",
+   "bundle": "runs/_ind/qwen2.5-1.5b/data/qwen2.5-1.5b-secret_word.pt"
+  },
+  "secret_sustain@qwen2.5-1.5b": {
+   "lr_bits": 0.12153397077161579,
+   "old": {
+    "mean": -0.011206895775221751,
+    "sd": 0.006270762864360759,
+    "passed": true,
+    "rule": "Amendment 5 (frozen, 3 seeds): pass iff |char mean| <= 2 sd"
+   },
+   "new": {
+    "mean": -0.009204965229299322,
+    "sd": 0.009233371171998078,
+    "per_seed": [
+     -0.0065627712577756014,
+     -0.006986192490887166,
+     -0.0200717235770016,
+     -0.01064677291905003,
+     -0.0226161679458885,
+     -0.008934609430770735,
+     -0.011510312235125664,
+     -0.014394991828023063,
+     -0.002711138636651622,
+     0.012385028028180756
+    ],
+    "n": 24,
+    "seeds": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
+    "passed": true,
+    "stat_positive_lower": -0.027671707573295477,
+    "materiality_threshold": 0.02,
+    "rule": "Amendment 6 (POST-DATA 2026-07-13, 10 seeds): FAIL iff (mean - 2*sd) > 0 OR mean >= max(0.02, 0.1 * LR bits_mean); PASS otherwise; None stays None (pending, disclosed)"
+   },
+   "position": {
+    "share": 0.4493291760884215,
+    "passed": true
+   },
+   "label_old": null,
+   "label_new": null,
+   "label_changes": false,
+   "reader": "qwen2.5-1.5b",
+   "bundle": "runs/lr_grid_box/_ind/qwen2.5-1.5b/data/qwen2.5-1.5b-secret_sustain.pt"
+  },
+  "secret_word@qwen2.5-3b": {
+   "lr_bits": 0.19128675553834662,
+   "old": {
+    "mean": -0.011810917676797317,
+    "sd": 0.002314422555673831,
+    "passed": false,
+    "rule": "Amendment 5 (frozen, 3 seeds): pass iff |char mean| <= 2 sd"
+   },
+   "new": {
+    "mean": -0.004818210345970408,
+    "sd": 0.017500653897438163,
+    "per_seed": [
+     -0.01505939433263137,
+     -0.010533633541357279,
+     -0.009839725156400192,
+     -0.027167033191787926,
+     0.024410481669861817,
+     -0.011772662795793476,
+     -0.009264764097821843,
+     -0.01194080524598995,
+     0.03264949735075007,
+     -0.009664064118533933
+    ],
+    "n": 24,
+    "seeds": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
+    "passed": true,
+    "stat_positive_lower": -0.039819518140846735,
+    "materiality_threshold": 0.02,
+    "rule": "Amendment 6 (POST-DATA 2026-07-13, 10 seeds): FAIL iff (mean - 2*sd) > 0 OR mean >= max(0.02, 0.1 * LR bits_mean); PASS otherwise; None stays None (pending, disclosed)"
+   },
+   "position": {
+    "share": 0.49116846299398453,
+    "passed": true
+   },
+   "label_old": "positive, mechanism-confounded",
+   "label_new": null,
+   "label_changes": true,
+   "reader": "qwen2.5-3b",
+   "bundle": "runs/_ind/qwen2.5-3b/data/qwen2.5-3b-secret_word.pt"
+  },
+  "secret_sustain@qwen2.5-3b": {
+   "lr_bits": 0.10071976733453214,
+   "old": {
+    "mean": -0.016710997493417423,
+    "sd": 0.00460084333662015,
+    "passed": false,
+    "rule": "Amendment 5 (frozen, 3 seeds): pass iff |char mean| <= 2 sd"
+   },
+   "new": {
+    "mean": -0.004839899464939101,
+    "sd": 0.011041559731937508,
+    "per_seed": [
+     -0.016105613448522682,
+     -0.0226241058757104,
+     -0.011403273156018301,
+     0.013074411074145864,
+     0.005031159900626747,
+     -0.005807058980873858,
+     0.006046046557000029,
+     0.00409850374623888,
+     -0.005140547423181374,
+     -0.01556851704309592
+    ],
+    "n": 24,
+    "seeds": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
+    "passed": true,
+    "stat_positive_lower": -0.026923018928814116,
+    "materiality_threshold": 0.02,
+    "rule": "Amendment 6 (POST-DATA 2026-07-13, 10 seeds): FAIL iff (mean - 2*sd) > 0 OR mean >= max(0.02, 0.1 * LR bits_mean); PASS otherwise; None stays None (pending, disclosed)"
+   },
+   "position": {
+    "share": 0.5037369889530136,
+    "passed": false
+   },
+   "label_old": "positive, mechanism-confounded",
+   "label_new": "positive, mechanism-confounded",
+   "label_changes": false,
+   "reader": "qwen2.5-3b",
+   "bundle": "runs/lr_grid_box/_ind/qwen2.5-3b/data/qwen2.5-3b-secret_sustain.pt"
+  },
+  "secret_word@qwen2.5-7b": {
+   "lr_bits": 0.4054632758109231,
+   "old": {
+    "mean": -0.020892558932175714,
+    "sd": 0.01571205050020198,
+    "passed": true,
+    "rule": "Amendment 5 (frozen, 3 seeds): pass iff |char mean| <= 2 sd"
+   },
+   "new": {
+    "mean": -0.02176129345461968,
+    "sd": 0.012471501239668302,
+    "per_seed": [
+     -0.003539529561947141,
+     -0.017550043908601598,
+     -0.041588103325977954,
+     -0.02922802927407897,
+     -0.026833731662130322,
+     -0.014295461148114086,
+     -0.013194447735993098,
+     -0.01860358646771232,
+     -0.009820729569097075,
+     -0.042959271892544226
+    ],
+    "n": 24,
+    "seeds": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
+    "passed": true,
+    "stat_positive_lower": -0.04670429593395628,
+    "materiality_threshold": 0.04054632758109231,
+    "rule": "Amendment 6 (POST-DATA 2026-07-13, 10 seeds): FAIL iff (mean - 2*sd) > 0 OR mean >= max(0.02, 0.1 * LR bits_mean); PASS otherwise; None stays None (pending, disclosed)"
+   },
+   "position": {
+    "share": 0.2265289453130659,
+    "passed": true
+   },
+   "label_old": null,
+   "label_new": null,
+   "label_changes": false,
+   "reader": "qwen2.5-7b",
+   "bundle": "runs/_ind/qwen2.5-7b/data/qwen2.5-7b-secret_word.pt"
+  },
+  "secret_sustain@qwen2.5-7b": {
+   "lr_bits": 1.1086956268391464,
+   "old": {
+    "mean": 0.04552615787663047,
+    "sd": 0.026182793204401117,
+    "passed": true,
+    "rule": "Amendment 5 (frozen, 3 seeds): pass iff |char mean| <= 2 sd"
+   },
+   "new": {
+    "mean": 0.0404025013031847,
+    "sd": 0.021544172832839714,
+    "per_seed": [
+     0.0665667650845041,
+     0.008618781183401758,
+     0.061392927361985095,
+     0.02909751134087868,
+     -0.001688429682630943,
+     0.03694082931359688,
+     0.040355699753615415,
+     0.05067951702190676,
+     0.055478871393424445,
+     0.056582540261164826
+    ],
+    "n": 24,
+    "seeds": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
+    "passed": true,
+    "stat_positive_lower": -0.0026858443624947284,
+    "materiality_threshold": 0.11086956268391464,
+    "rule": "Amendment 6 (POST-DATA 2026-07-13, 10 seeds): FAIL iff (mean - 2*sd) > 0 OR mean >= max(0.02, 0.1 * LR bits_mean); PASS otherwise; None stays None (pending, disclosed)"
+   },
+   "position": {
+    "share": 0.3654774389187866,
+    "passed": true
+   },
+   "label_old": null,
+   "label_new": null,
+   "label_changes": false,
+   "reader": "qwen2.5-7b",
+   "bundle": "runs/lr_grid_box/_ind/qwen2.5-7b/data/qwen2.5-7b-secret_sustain.pt"
+  },
+  "maintained_secret@qwen2.5-1.5b": {
+   "lr_bits": 0.10031252364953373,
+   "old": {
+    "mean": -0.006282186051391007,
+    "sd": 0.005794192947495739,
+    "passed": true,
+    "rule": "Amendment 5 (frozen, 3 seeds): pass iff |char mean| <= 2 sd"
+   },
+   "new": {
+    "mean": -0.008037931773198892,
+    "sd": 0.012503376798475508,
+    "per_seed": [
+     0.0015939316598241327,
+     -0.00826216288151116,
+     -0.01217832693248555,
+     -0.009118094258642628,
+     -0.014824161432551275,
+     -0.00621191697036938,
+     -0.011227361907812927,
+     -0.0245498458462321,
+     -0.01913618053405086,
+     0.02353480137184283
+    ],
+    "n": 24,
+    "seeds": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
+    "passed": true,
+    "stat_positive_lower": -0.03304468537014991,
+    "materiality_threshold": 0.02,
+    "rule": "Amendment 6 (POST-DATA 2026-07-13, 10 seeds): FAIL iff (mean - 2*sd) > 0 OR mean >= max(0.02, 0.1 * LR bits_mean); PASS otherwise; None stays None (pending, disclosed)"
+   },
+   "position": {
+    "share": 0.2703496184368312,
+    "passed": true
+   },
+   "label_old": null,
+   "label_new": null,
+   "label_changes": false,
+   "reader": "qwen2.5-1.5b",
+   "bundle": "runs/confound_box/e5_secret/data/qwen2.5-1.5b-maintained_secret.pt"
+  }
+ }
+}

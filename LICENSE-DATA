@@ -1,0 +1,16 @@
+Data license — CC-BY-4.0
+
+The released data artifacts of this project — the generated word-free stream bundles
+(covert_collect.pt and per-arm .pt bundles, on Hugging Face at
+ErrareHumanumEst/internal-state-from-gibberish), the runs/ results JSONs, and the committed
+reports/*.json evidence artifacts — are licensed under the Creative Commons Attribution 4.0
+International license (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.
+
+Copyright (c) 2026 Matt Stults. Attribution: cite this repository
+(introspection_leakage) and/or the Hugging Face dataset.
+
+Provenance rider: the stream bundles are outputs of Qwen2.5 / Falcon-3 / Llama-3.3 models,
+whose licenses ride along (Qwen2.5-1.5B/7B/14B Apache-2.0; Qwen2.5-3B-Instruct under the Qwen
+Research License; Falcon-3 under the TII Falcon License; Llama-3.3 under the Llama 3.3
+Community License). The dataset cards record per-bundle provenance. Code is separately
+licensed under MIT (see LICENSE).

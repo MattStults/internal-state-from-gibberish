@@ -1,0 +1,40 @@
+{
+  "model": "qwen3-4b",
+  "hf_id": "Qwen/Qwen3-4B",
+  "n": 96,
+  "n_valid": 93,
+  "tokens": 128,
+  "thinking": true,
+  "clean": 3,
+  "clean_frac": 0.032,
+  "gen_seconds": 335.3,
+  "reject_reasons": {
+    "word_rate": 28,
+    "repetition": 85,
+    "spacing": 17
+  },
+  "median_deg": {
+    "word_rate": 0.0,
+    "repetition": 0.957,
+    "non_latin": 0.0,
+    "spacing": 0.251
+  },
+  "samples": [
+    "\n\nQX Z FJM WPL KBT RVS HGN MLL JHG FDS ADG FJH KLM NOP QRS TUV WXY ZAB CDE FGH IJK LMN OPQ RST UVW XYZ QX Z FJM WPL KBT RVS HGN MLL JHG FDS ADG FJH KLM NOP QRS ",
+    "\n\nqx z fjm wpl kbt yh npl sgd vko jmr xg tni dls qf mhp rjv bku oti jwl aqz xpm ukg hrb vtn sgh yzr mlo pki wnu qtb vfc xhj rkl jdb yti npl zmg lrf vdp jzg mko ",
+    "\n\nqx z fjm wpl kbt ngy hrf jkl mpo aui efs tgh vbx lcy kdz mnp rts qwe hlk jfm vtb xcs rgu yui hlk jfm vtb xcs rgu yui hlk jfm vtb xcs rgu yui hlk jfm vtb xcs r",
+    "\n\nq x z f j m w p l k b t y h g p l r s d f g h j k l m n o p q r s t u v w x y z a b c d e f g h i j k l m n o p q r s t u v w x y z a b c d e f g h i j k l m ",
+    "\n\nqzdfghjklmnpqrstuvwx yuiopasdfghjkl;zxcvbnmkl;asdfsdfghjkl;poiuytrewqasdfsdfghjklmnpqrstuvwx yuiopasdfghjkl;zxcvbnmkl;asdfsdfghjkl;poiuytrewqasdfsdfghjklmnpqr"
+  ],
+  "n_unclosed_think": 3,
+  "n_empty_post_think": 0,
+  "has_think_frac": 0.969,
+  "median_post_think_chars": 2333,
+  "think_samples": [
+    "<think>\nOkay, the user wants me to generate a long stream of random letters without any real words or fragments. Let me make sure I understand the instructions correctly. They specified that I must not use any actual words, names, or recognizable parts of words in any language. The output should be a continuous string of random letters.\n\nFirst, I need to confirm that I'm not creating any actual wo",
+    "<think>\nOkay, the user wants me to emit a stream of random letters, no real words or fragments. I need to make sure I don't accidentally form any real words. Let me start by thinking of a way to generate random letters. Maybe just use a loop that picks random letters from A-Z. But how to ensure that it's all just random letters without any patterns?\n\nWait, the user emphasized that I must not write",
+    "<think>\nOkay, the user wants me to emit a stream of random letters without any real words or fragments. I need to make sure I don't accidentally form any actual words. Let me start by thinking of a way to generate random letters. Maybe just pick letters from A to Z randomly. But how to ensure they don't form words?\n\nWait, the user emphasized that I must not write any real words or fragments. So ev",
+    "<think>\nOkay, the user wants me to emit a stream of random letters without any real words or fragments. I need to make sure I don't use any actual words, even if they're just parts of words. Let me think about how to approach this.\n\nFirst, I should generate a long sequence of letters. Maybe start with a few letters and keep going. But I have to be careful not to form any recognizable patterns or w",
+    "<think>\nOkay, the user wants me to generate a stream of random letters without any real words or fragments. I need to make sure I don't accidentally form any meaningful sequences. Let me start by thinking of a way to generate random letters. Maybe use a random number generator to pick letters from A to Z. But how to do that without any pattern?\n\nWait, the user emphasized that I must not write any "
+  ]
+}

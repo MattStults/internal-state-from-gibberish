@@ -1,0 +1,695 @@
+{
+ "chance": 0.08333333333333333,
+ "H_bits": 3.584962500721156,
+ "readers": {
+  "qwen2.5-1.5b": {
+   "injected": {
+    "closed": {
+     "bits": -1.6225754881900993,
+     "top1": 0.08823529411764706,
+     "n": 204,
+     "coverage_mean": 0.9223722578848109
+    },
+    "passive": {
+     "bits": -1.4003378611805148,
+     "top1": 0.16666666666666666,
+     "n": 204
+    },
+    "open": {
+     "n": 204,
+     "exact": 0.0,
+     "exact_stem": 0.0,
+     "refusal_rate": 0.9950980392156863,
+     "top_answers": [
+      [
+       "loop",
+       203
+      ],
+      [
+       "cybersecurity",
+       1
+      ]
+     ],
+     "top_concept_share": 0.0
+    }
+   },
+   "injected_s0": {
+    "closed": {
+     "bits": -1.5034444709202077,
+     "top1": 0.06862745098039216,
+     "n": 204,
+     "coverage_mean": 0.9166929663396349
+    },
+    "passive": {
+     "bits": -2.2032206799907845,
+     "top1": 0.0784313725490196,
+     "n": 204
+    },
+    "open": {
+     "n": 204,
+     "exact": 0.0,
+     "exact_stem": 0.0,
+     "refusal_rate": 0.9950980392156863,
+     "top_answers": [
+      [
+       "loop",
+       203
+      ],
+      [
+       "looping",
+       1
+      ]
+     ],
+     "top_concept_share": 0.0
+    }
+   },
+   "evoked": {
+    "closed": {
+     "bits": -1.1306694759764913,
+     "top1": 0.09803921568627451,
+     "n": 204,
+     "coverage_mean": 0.9059742069711872
+    },
+    "passive": {
+     "bits": -2.503445743392988,
+     "top1": 0.08823529411764706,
+     "n": 204
+    },
+    "open": {
+     "n": 204,
+     "exact": 0.0,
+     "exact_stem": 0.0,
+     "refusal_rate": 0.9509803921568627,
+     "top_answers": [
+      [
+       "storm",
+       78
+      ],
+      [
+       "loop",
+       75
+      ],
+      [
+       "weather",
+       26
+      ],
+      [
+       "thoughts",
+       15
+      ],
+      [
+       "thoughtful",
+       9
+      ],
+      [
+       "story",
+       1
+      ]
+     ],
+     "top_concept_share": 0.0
+    }
+   },
+   "evoked_s0": {
+    "closed": {
+     "n": 58,
+     "mean_posterior_max": 0.24505410801294497,
+     "mean_posterior_argmax": "curiosity",
+     "coverage_mean": 0.9085061735120313
+    },
+    "passive": {
+     "n": 58,
+     "mean_posterior_max": 0.369299884059356,
+     "mean_posterior_argmax": "ocean"
+    },
+    "open": {
+     "n": 58,
+     "exact": null,
+     "exact_stem": null,
+     "refusal_rate": 0.9827586206896551,
+     "top_answers": [
+      [
+       "loop",
+       23
+      ],
+      [
+       "storm",
+       17
+      ],
+      [
+       "weather",
+       8
+      ],
+      [
+       "thoughts",
+       5
+      ],
+      [
+       "thoughtful",
+       4
+      ],
+      [
+       "randomness",
+       1
+      ]
+     ],
+     "top_concept_share": 0.0
+    }
+   }
+  },
+  "qwen2.5-3b": {
+   "injected": {
+    "closed": {
+     "bits": -4.695163001853256,
+     "top1": 0.08823529411764706,
+     "n": 204,
+     "coverage_mean": 0.995288601692985
+    },
+    "passive": {
+     "bits": -3.4149570841900845,
+     "top1": 0.11764705882352941,
+     "n": 204
+    },
+    "open": {
+     "n": 204,
+     "exact": 0.0,
+     "exact_stem": 0.0,
+     "refusal_rate": 0.9509803921568627,
+     "top_answers": [
+      [
+       "stop",
+       194
+      ],
+      [
+       "modeling",
+       5
+      ],
+      [
+       "numbers",
+       3
+      ],
+      [
+       "cybersecurity",
+       1
+      ],
+      [
+       "letters",
+       1
+      ]
+     ],
+     "top_concept_share": 0.0
+    }
+   },
+   "injected_s0": {
+    "closed": {
+     "bits": -4.838446615535222,
+     "top1": 0.08333333333333333,
+     "n": 204,
+     "coverage_mean": 0.9957233045031043
+    },
+    "passive": {
+     "bits": -4.205025916972683,
+     "top1": 0.0784313725490196,
+     "n": 204
+    },
+    "open": {
+     "n": 204,
+     "exact": 0.0,
+     "exact_stem": 0.0,
+     "refusal_rate": 0.9754901960784313,
+     "top_answers": [
+      [
+       "stop",
+       199
+      ],
+      [
+       "letters",
+       3
+      ],
+      [
+       "chatbots",
+       1
+      ],
+      [
+       "language",
+       1
+      ]
+     ],
+     "top_concept_share": 0.0
+    }
+   },
+   "evoked": {
+    "closed": {
+     "bits": -5.25314770022076,
+     "top1": 0.08333333333333333,
+     "n": 204,
+     "coverage_mean": 0.9972290016856848
+    },
+    "passive": {
+     "bits": -4.287508911501884,
+     "top1": 0.07352941176470588,
+     "n": 204
+    },
+    "open": {
+     "n": 204,
+     "exact": 0.0,
+     "exact_stem": 0.0,
+     "refusal_rate": 0.9656862745098039,
+     "top_answers": [
+      [
+       "stop",
+       90
+      ],
+      [
+       "randomness",
+       56
+      ],
+      [
+       "words",
+       51
+      ],
+      [
+       "letters",
+       2
+      ],
+      [
+       "language",
+       1
+      ],
+      [
+       "tokens",
+       1
+      ],
+      [
+       "games",
+       1
+      ],
+      [
+       "names",
+       1
+      ],
+      [
+       "chatbots",
+       1
+      ]
+     ],
+     "top_concept_share": 0.0
+    }
+   },
+   "evoked_s0": {
+    "closed": {
+     "n": 58,
+     "mean_posterior_max": 0.8918609405482878,
+     "mean_posterior_argmax": "silence",
+     "coverage_mean": 0.9971493235949812
+    },
+    "passive": {
+     "n": 58,
+     "mean_posterior_max": 0.44553095216141675,
+     "mean_posterior_argmax": "silence"
+    },
+    "open": {
+     "n": 58,
+     "exact": null,
+     "exact_stem": null,
+     "refusal_rate": 0.9827586206896551,
+     "top_answers": [
+      [
+       "stop",
+       24
+      ],
+      [
+       "randomness",
+       21
+      ],
+      [
+       "words",
+       12
+      ],
+      [
+       "chatbots",
+       1
+      ]
+     ],
+     "top_concept_share": 0.0
+    }
+   }
+  },
+  "qwen2.5-7b": {
+   "injected": {
+    "closed": {
+     "bits": -8.289023328277477,
+     "top1": 0.14705882352941177,
+     "n": 204,
+     "coverage_mean": 0.9975612774199131
+    },
+    "passive": {
+     "bits": -3.45914491913822,
+     "top1": 0.0784313725490196,
+     "n": 204
+    },
+    "open": {
+     "n": 204,
+     "exact": 0.004901960784313725,
+     "exact_stem": 0.004901960784313725,
+     "refusal_rate": 0.9215686274509803,
+     "top_answers": [
+      [
+       "concept",
+       71
+      ],
+      [
+       "word",
+       65
+      ],
+      [
+       "random",
+       50
+      ],
+      [
+       "wordcount",
+       3
+      ],
+      [
+       "wordlimit",
+       2
+      ],
+      [
+       "no",
+       2
+      ],
+      [
+       "wordusagetest",
+       2
+      ],
+      [
+       "wordlimitexceeded",
+       2
+      ],
+      [
+       "wordle",
+       1
+      ],
+      [
+       "wordusagetestconcepttest",
+       1
+      ],
+      [
+       "wordusagetestconcept",
+       1
+      ],
+      [
+       "wordlimitexceedederror",
+       1
+      ],
+      [
+       "wordusage",
+       1
+      ],
+      [
+       "pattern",
+       1
+      ],
+      [
+       "security",
+       1
+      ]
+     ],
+     "top_concept_share": 0.004901960784313725
+    }
+   },
+   "injected_s0": {
+    "closed": {
+     "bits": -9.098565986637016,
+     "top1": 0.08333333333333333,
+     "n": 204,
+     "coverage_mean": 0.9976982716836181
+    },
+    "passive": {
+     "bits": -2.652062368011342,
+     "top1": 0.0784313725490196,
+     "n": 204
+    },
+    "open": {
+     "n": 204,
+     "exact": 0.0,
+     "exact_stem": 0.0,
+     "refusal_rate": 0.9754901960784313,
+     "top_answers": [
+      [
+       "concept",
+       112
+      ],
+      [
+       "random",
+       63
+      ],
+      [
+       "word",
+       20
+      ],
+      [
+       "pattern",
+       4
+      ],
+      [
+       "no",
+       4
+      ],
+      [
+       "begin",
+       1
+      ]
+     ],
+     "top_concept_share": 0.0
+    }
+   },
+   "evoked": {
+    "closed": {
+     "bits": -9.9222331525825,
+     "top1": 0.08333333333333333,
+     "n": 204,
+     "coverage_mean": 0.9983599968985015
+    },
+    "passive": {
+     "bits": -2.9454467804916415,
+     "top1": 0.08823529411764706,
+     "n": 204
+    },
+    "open": {
+     "n": 204,
+     "exact": 0.0,
+     "exact_stem": 0.0,
+     "refusal_rate": 0.9264705882352942,
+     "top_answers": [
+      [
+       "pattern",
+       101
+      ],
+      [
+       "concept",
+       49
+      ],
+      [
+       "randomization",
+       12
+      ],
+      [
+       "randomness",
+       12
+      ],
+      [
+       "keyboard",
+       12
+      ],
+      [
+       "random",
+       6
+      ],
+      [
+       "no",
+       3
+      ],
+      [
+       "language",
+       3
+      ],
+      [
+       "maze",
+       2
+      ],
+      [
+       "mistake",
+       1
+      ],
+      [
+       "mind",
+       1
+      ],
+      [
+       "shift",
+       1
+      ],
+      [
+       "word",
+       1
+      ]
+     ],
+     "top_concept_share": 0.0
+    }
+   },
+   "evoked_s0": {
+    "closed": {
+     "n": 58,
+     "mean_posterior_max": 0.9409623191318183,
+     "mean_posterior_argmax": "celebration",
+     "coverage_mean": 0.9984321255108406
+    },
+    "passive": {
+     "n": 58,
+     "mean_posterior_max": 0.6396587922046998,
+     "mean_posterior_argmax": "security"
+    },
+    "open": {
+     "n": 58,
+     "exact": null,
+     "exact_stem": null,
+     "refusal_rate": 0.9482758620689655,
+     "top_answers": [
+      [
+       "pattern",
+       26
+      ],
+      [
+       "concept",
+       14
+      ],
+      [
+       "randomness",
+       6
+      ],
+      [
+       "random",
+       5
+      ],
+      [
+       "randomization",
+       3
+      ],
+      [
+       "keyboard",
+       2
+      ],
+      [
+       "language",
+       1
+      ],
+      [
+       "no",
+       1
+      ]
+     ],
+     "top_concept_share": 0.0
+    }
+   }
+  }
+ },
+ "gates": {
+  "qwen2.5-1.5b": {
+   "injected_s0_bits": {
+    "value": -1.5034444709202077,
+    "passed": true
+   },
+   "evoked_s0_concentration": {
+    "value": 0.24505410801294497,
+    "passed": false
+   },
+   "evoked_s0_open_share": {
+    "value": 0.0,
+    "passed": true
+   }
+  },
+  "qwen2.5-3b": {
+   "injected_s0_bits": {
+    "value": -4.838446615535222,
+    "passed": true
+   },
+   "evoked_s0_concentration": {
+    "value": 0.8918609405482878,
+    "passed": false
+   },
+   "evoked_s0_open_share": {
+    "value": 0.0,
+    "passed": true
+   }
+  },
+  "qwen2.5-7b": {
+   "injected_s0_bits": {
+    "value": -9.098565986637016,
+    "passed": true
+   },
+   "evoked_s0_concentration": {
+    "value": 0.9409623191318183,
+    "passed": false
+   },
+   "evoked_s0_open_share": {
+    "value": 0.0,
+    "passed": true
+   }
+  }
+ },
+ "named_calls": {
+  "workspace_derived": {
+   "call": "elicited closed-set bits RISE with reader scale on injected streams (7B > 3B > 1.5B direction, 14B highest) while the passive baseline stays dead past 1.5B; evoked elicited stays near floor at all scales",
+   "verdict": "pending (missing reader shards)"
+  },
+  "matt": {
+   "call": "elicitation works -- the model can figure out the concept, at least for injected streams",
+   "verdict": "pending (missing reader shards)"
+  }
+ },
+ "missing_shards": [
+  "qwen2.5-14b_injected_closed",
+  "qwen2.5-14b_injected_passive",
+  "qwen2.5-14b_injected_open",
+  "qwen2.5-14b_injected_s0_closed",
+  "qwen2.5-14b_injected_s0_passive",
+  "qwen2.5-14b_injected_s0_open",
+  "qwen2.5-14b_evoked_closed",
+  "qwen2.5-14b_evoked_passive",
+  "qwen2.5-14b_evoked_open",
+  "qwen2.5-14b_evoked_s0_closed",
+  "qwen2.5-14b_evoked_s0_passive",
+  "qwen2.5-14b_evoked_s0_open"
+ ],
+ "gates_all_passed": false,
+ "lr_join": {
+  "note": "level-1 LR reader (1.5B likelihood instrument) vs level-2 elicited self-report",
+  "currency_note": "LR bits are temperature-calibrated (per-cell tau, held-out fit); elicited closed bits are raw renormalized posteriors (no fitting) -- the currencies are NOT parity-comparable; compare directions, not magnitudes",
+  "lr_cells": {
+   "evokedxA": {
+    "bits": 0.5899892954218495,
+    "top1": 0.29621848739495793
+   },
+   "evokedxB": {
+    "bits": 0.17602727606007723,
+    "top1": 0.16449579831932773
+   },
+   "evoked_altxA": {
+    "bits": 0.16672472173143865,
+    "top1": 0.18683651804670914
+   },
+   "evoked_altxB": {
+    "bits": 0.565303396838419,
+    "top1": 0.27452229299363057
+   },
+   "injectedxA": {
+    "bits": 0.0019326636581002976,
+    "top1": 0.1047945205479452
+   },
+   "injectedxB": {
+    "bits": -0.0007457644388364937,
+    "top1": 0.09178082191780822
+   }
+  }
+ }
+}

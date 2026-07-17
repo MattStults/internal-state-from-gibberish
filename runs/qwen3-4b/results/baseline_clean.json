@@ -1,0 +1,26 @@
+{
+  "model": "qwen3-4b",
+  "hf_id": "Qwen/Qwen3-4B",
+  "n": 96,
+  "tokens": 128,
+  "clean": 30,
+  "clean_frac": 0.312,
+  "gen_seconds": 31.8,
+  "reject_reasons": {
+    "repetition": 55,
+    "word_rate": 22
+  },
+  "median_deg": {
+    "word_rate": 0.0,
+    "repetition": 0.62,
+    "non_latin": 0.0,
+    "spacing": 0.185
+  },
+  "samples": [
+    "qxzflpksjtnmhrbvdgycowuiealpkmfjrihtyulbngvzrxsdlkjmhpwoeirtyujklmnbvcxzsdlkjhgfdsal;klmnbvcxzsdlkjhgfdsal;klmnbvcxzsdlkjhgfdsal;klmnbvcxzsdlkjhgfdsal;klmnbvcxz",
+    "qxz fjm wpl kbt rgy tnu vsh lxk mjp dqi ytr zlb hnu ovp sfg qwe tnu vsh lxk mjp dqi ytr zlb hnu ovp sfg qwe tnu vsh lxk mjp dqi ytr zlb hnu ovp sfg qwe tnu vsh ",
+    "qxzfrpwljmbkhtyuiopasddfgvhjkl;lmnopqrszxcvbnm,kl;nm,kl;nm,kl;nm,kl;nm,kl;nm,kl;nm,kl;nm,kl;nm,kl;nm,kl;nm,kl;nm,kl;nm,kl;nm,kl;nm,kl;nm,kl;nm,kl;nm,kl;nm,kl;nm",
+    "qxzfrpklmwnytcvbhjguiopeasdzxcvbnmkljhgfdsawerqzxcvbnmlkjhgfdsaqwertyuiopasdfghjklzxcvbnmkljhgfdsaqwertyuiopasdfghjklzxcvbnmkljhgfdsaqwertyuiopasdfghjklzxcvbnmk",
+    "qzr tgl ym bnv sgh pkl fmq jxw vhp ktl uio lmn pio sgh qwr vbn mkl nol pio sgh qwr vbn mkl nol pio sgh qwr vbn mkl nol pio sgh qwr vbn mkl nol pio sgh qwr vbn m"
+  ]
+}

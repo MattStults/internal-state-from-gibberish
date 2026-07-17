@@ -1,0 +1,12 @@
+12 concepts: ['celebration', 'ocean', 'fear', 'silence', 'deception', 'obedience', 'debugging', 'security', 'curiosity', 'anger', 'warmth', 'loneliness']
+parsed 10529 lines, 0 missing-body; ll entries: 10438
+
+arm                 n  raw_diag  gen_lift  centered        centered 95% CI   calib_bits    top1
+secret_word       270     1.605     1.389     0.216 [  -0.64,   0.99]   -0.001±0.006    5.5%
+                      generic-lift fraction of raw diag = 86.5%  (centered clears 0: False)
+secret_sustain    278     1.896     1.391     0.505 [  -0.21,   1.11]   +0.007±0.023   10.6%
+                      generic-lift fraction of raw diag = 73.4%  (centered clears 0: False)
+evoked            254     4.534     4.037     0.497 [  -1.25,   2.09]   -0.003±0.008   11.6%
+                      generic-lift fraction of raw diag = 89.0%  (centered clears 0: False)
+
+chance top-1 = 8.3%   |   7B reference: 0.405 calib bits, top1 25.1%

@@ -1,0 +1,237 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "slug": "qwen2.5-1.5b",
+  "layer": 22,
+  "smoke": false,
+  "variant": "orig",
+  "config": {
+    "concepts": [
+      "celebration",
+      "ocean",
+      "fear",
+      "silence",
+      "deception",
+      "obedience",
+      "debugging",
+      "security",
+      "curiosity",
+      "anger",
+      "warmth",
+      "loneliness"
+    ],
+    "strengths": [
+      0,
+      40,
+      60
+    ],
+    "target_clean": 30,
+    "max_gen": 120,
+    "tokens": 128,
+    "grid": [
+      2,
+      4,
+      8,
+      16,
+      32,
+      64,
+      127
+    ],
+    "gen_batch": 16,
+    "topk": 256,
+    "gen_topk": 64
+  },
+  "counts": {
+    "celebration_s0": {
+      "generated": 32,
+      "clean": 30
+    },
+    "ocean_s0": {
+      "generated": 48,
+      "clean": 42
+    },
+    "fear_s0": {
+      "generated": 48,
+      "clean": 45
+    },
+    "silence_s0": {
+      "generated": 32,
+      "clean": 31
+    },
+    "deception_s0": {
+      "generated": 32,
+      "clean": 30
+    },
+    "obedience_s0": {
+      "generated": 32,
+      "clean": 30
+    },
+    "debugging_s0": {
+      "generated": 32,
+      "clean": 30
+    },
+    "security_s0": {
+      "generated": 32,
+      "clean": 30
+    },
+    "curiosity_s0": {
+      "generated": 48,
+      "clean": 43
+    },
+    "anger_s0": {
+      "generated": 32,
+      "clean": 31
+    },
+    "warmth_s0": {
+      "generated": 32,
+      "clean": 32
+    },
+    "loneliness_s0": {
+      "generated": 48,
+      "clean": 43
+    },
+    "celebration_s40": {
+      "generated": 48,
+      "clean": 44
+    },
+    "ocean_s40": {
+      "generated": 48,
+      "clean": 43
+    },
+    "fear_s40": {
+      "generated": 48,
+      "clean": 38
+    },
+    "silence_s40": {
+      "generated": 32,
+      "clean": 30
+    },
+    "deception_s40": {
+      "generated": 48,
+      "clean": 44
+    },
+    "obedience_s40": {
+      "generated": 48,
+      "clean": 44
+    },
+    "debugging_s40": {
+      "generated": 32,
+      "clean": 31
+    },
+    "security_s40": {
+      "generated": 48,
+      "clean": 44
+    },
+    "curiosity_s40": {
+      "generated": 32,
+      "clean": 30
+    },
+    "anger_s40": {
+      "generated": 32,
+      "clean": 31
+    },
+    "warmth_s40": {
+      "generated": 48,
+      "clean": 40
+    },
+    "loneliness_s40": {
+      "generated": 32,
+      "clean": 30
+    },
+    "celebration_s60": {
+      "generated": 48,
+      "clean": 39
+    },
+    "ocean_s60": {
+      "generated": 48,
+      "clean": 39
+    },
+    "fear_s60": {
+      "generated": 48,
+      "clean": 39
+    },
+    "silence_s60": {
+      "generated": 48,
+      "clean": 36
+    },
+    "deception_s60": {
+      "generated": 48,
+      "clean": 44
+    },
+    "obedience_s60": {
+      "generated": 32,
+      "clean": 31
+    },
+    "debugging_s60": {
+      "generated": 48,
+      "clean": 36
+    },
+    "security_s60": {
+      "generated": 48,
+      "clean": 33
+    },
+    "curiosity_s60": {
+      "generated": 48,
+      "clean": 37
+    },
+    "anger_s60": {
+      "generated": 48,
+      "clean": 31
+    },
+    "warmth_s60": {
+      "generated": 48,
+      "clean": 39
+    },
+    "loneliness_s60": {
+      "generated": 48,
+      "clean": 31
+    }
+  },
+  "concepts": [
+    "celebration",
+    "ocean",
+    "fear",
+    "silence",
+    "deception",
+    "obedience",
+    "debugging",
+    "security",
+    "curiosity",
+    "anger",
+    "warmth",
+    "loneliness"
+  ],
+  "first_ids": [
+    24916,
+    17951,
+    8679,
+    21162,
+    63475,
+    66094,
+    27703,
+    4763,
+    40228,
+    19234,
+    40363,
+    73940
+  ],
+  "resid_norm": 112.42905044555664,
+  "ref_norm": 111.9,
+  "calibration": null,
+  "perf": {
+    "calibrate_s": 0.0,
+    "generate_s": 561.4,
+    "read_s": 514.4,
+    "read_acts_s": 81.3,
+    "read_cuts_s": 417.3,
+    "n_read_forwards": 13510,
+    "n_gen_calls": 36,
+    "n_streams_read": 1301,
+    "n_read_calls": 2185,
+    "read_ms_per_stream": 395.4,
+    "read_frac": 0.478,
+    "read_cuts_frac": 0.811,
+    "read_forwards_per_stream": 10.4
+  },
+  "have_wordfreq": true,
+  "inject": "gen"
+}

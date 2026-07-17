@@ -1,0 +1,14 @@
+{
+ "f9875792972e6f0a": {
+  "run_id": "lr-extend-smoke",
+  "data_revision": "f345c05",
+  "spend": 0.20940730439763008,
+  "t": 1784060505
+ },
+ "4b7cf3c7c5bd64b4": {
+  "run_id": "lr-extend-smoke",
+  "data_revision": "dd6fc93",
+  "spend": 0.21001568466130596,
+  "t": 1784090054
+ }
+}

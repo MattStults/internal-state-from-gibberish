@@ -1,0 +1,23 @@
+# HF upload manifest — prepared 2026-07-09, UPLOAD HELD until writeup done (Matt's rule)
+# target: ErrareHumanumEst/internal-state-from-gibberish (private until publish)
+1.0G  faed5cb979d50d0a8f9f85ed0065e6e4  runs/qwen2.5-14b/data/covert_collect.pt
+ 31M  92cd4fd2ec9d7ac33aebc2326ec66857  runs/qwen2.5-14b-sweep/data/covert_collect.pt
+ 14M  2470609da7b04e987fcad1afa50f7509  runs/qwen2.5-14b-smoke1/data/covert_collect.pt
+507M  92ffe40d73c9c25136be3a5b468dd588  runs/confound_box/e1_dose/data/covert_collect.pt
+176M  bb93c3c46ff0257a2c5f60fa05578f43  runs/confound_box/e3_prompt/data/covert_collect.pt
+ 17M  9cd773b9a5cd4dd2eeac8e054489f860  runs/confound_box/e2_full/data/qwen2.5-1.5b-sustained_alt_s1.pt
+ 17M  001466590ef2923b0095ab09381551a0  runs/confound_box/e2_full/data/qwen2.5-1.5b-sustained_s1.pt
+ 31M  98e9a19b4db06a9ab93ed63e06eb85c9  runs/confound_box/e5_secret/data/qwen2.5-1.5b-maintained_secret.pt
+2.1M  6fa5258e9ff7d5aa4ac784a703bd199c  runs/confound_box/e2_pilot/data/qwen2.5-1.5b-sustained_s1.pt
+1.8M  2f7b0f3debc312ca2c984e8b3552210a  runs/confound_box/e2_pilot/data/qwen2.5-1.5b-sustained_s2.pt
+1.6M  a9c7f27d45a7342ec0ded393d0a1efe5  runs/confound_box/e2_pilot/data/qwen2.5-1.5b-sustained_s3.pt
+236K  49cb7c4ed947e2bccf05464f4f930687  runs/confound_box/e4_traj/trajectory/qwen2.5-1.5b_evoked.pt
+256K  218604721c3a0739425d84b3e3ad9ba4  runs/confound_box/e4_traj/trajectory/qwen2.5-1.5b_injected.pt
+212K  b242ae134ea08c6f3e6d48814eef4a43  runs/confound_box/e4_traj/trajectory/qwen2.5-1.5b_s0.pt
+284K  aeed6cf33babd56cbabf44c7f6ed9998  runs/confound_box/e4_traj/trajectory/qwen2.5-7b_evoked.pt
+244K  4929c3b33270eb0ff28812f9a1ec9808  runs/confound_box/e4_traj/trajectory/qwen2.5-7b_s0.pt
+ 92K  c46b31c97f1ebd78b453b1d607e9dea4  runs/gauge_box/gauge_traj/trajectory/qwen2.5-1.5b_gauge-evoked.pt
+268M  1d6c98ea7c5ee34afa3ada556d2d2971  runs/qwen2.5-1.5b/data/covert_collect.pt
+214M  6f657bd6f481fb1ca12a351055f9db2e  runs/qwen2.5-3b/data/covert_collect.pt
+428M  186c39d0108747165a103dc0547cc443  runs/qwen2.5-7b/data/covert_collect.pt
+# single-copy-on-laptop warning: runs/qwen2.5-{1.5b,3b,7b}/data ARE the _ab-identical captures (md5-verified vs HF earlier); qwen3-* captures excluded (exploratory)

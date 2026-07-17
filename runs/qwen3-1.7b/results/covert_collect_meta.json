@@ -1,0 +1,422 @@
+{
+  "model": "Qwen/Qwen3-1.7B",
+  "slug": "qwen3-1.7b",
+  "layer": 22,
+  "smoke": false,
+  "config": {
+    "concepts": [
+      "celebration",
+      "ocean",
+      "fear",
+      "silence",
+      "deception",
+      "obedience",
+      "debugging",
+      "security",
+      "curiosity",
+      "anger",
+      "warmth",
+      "loneliness"
+    ],
+    "strengths": [
+      0,
+      40,
+      60
+    ],
+    "target_clean": 30,
+    "max_gen": 120,
+    "tokens": 128,
+    "grid": [
+      2,
+      4,
+      8,
+      16,
+      32,
+      64,
+      127
+    ],
+    "gen_batch": 16,
+    "read_batch": 16,
+    "topk": 256
+  },
+  "counts": {
+    "celebration_s0": {
+      "generated": 80,
+      "clean": 31
+    },
+    "ocean_s0": {
+      "generated": 80,
+      "clean": 30
+    },
+    "fear_s0": {
+      "generated": 80,
+      "clean": 30
+    },
+    "silence_s0": {
+      "generated": 80,
+      "clean": 34
+    },
+    "deception_s0": {
+      "generated": 96,
+      "clean": 33
+    },
+    "obedience_s0": {
+      "generated": 64,
+      "clean": 30
+    },
+    "debugging_s0": {
+      "generated": 80,
+      "clean": 31
+    },
+    "security_s0": {
+      "generated": 96,
+      "clean": 30
+    },
+    "curiosity_s0": {
+      "generated": 80,
+      "clean": 30
+    },
+    "anger_s0": {
+      "generated": 64,
+      "clean": 32
+    },
+    "warmth_s0": {
+      "generated": 96,
+      "clean": 33
+    },
+    "loneliness_s0": {
+      "generated": 96,
+      "clean": 36
+    },
+    "celebration_s40": {
+      "generated": 80,
+      "clean": 30
+    },
+    "ocean_s40": {
+      "generated": 80,
+      "clean": 33
+    },
+    "fear_s40": {
+      "generated": 80,
+      "clean": 32
+    },
+    "silence_s40": {
+      "generated": 80,
+      "clean": 31
+    },
+    "deception_s40": {
+      "generated": 112,
+      "clean": 31
+    },
+    "obedience_s40": {
+      "generated": 96,
+      "clean": 34
+    },
+    "debugging_s40": {
+      "generated": 96,
+      "clean": 32
+    },
+    "security_s40": {
+      "generated": 96,
+      "clean": 33
+    },
+    "curiosity_s40": {
+      "generated": 96,
+      "clean": 32
+    },
+    "anger_s40": {
+      "generated": 64,
+      "clean": 30
+    },
+    "warmth_s40": {
+      "generated": 80,
+      "clean": 32
+    },
+    "loneliness_s40": {
+      "generated": 80,
+      "clean": 30
+    },
+    "celebration_s60": {
+      "generated": 96,
+      "clean": 30
+    },
+    "ocean_s60": {
+      "generated": 64,
+      "clean": 32
+    },
+    "fear_s60": {
+      "generated": 80,
+      "clean": 35
+    },
+    "silence_s60": {
+      "generated": 112,
+      "clean": 34
+    },
+    "deception_s60": {
+      "generated": 96,
+      "clean": 33
+    },
+    "obedience_s60": {
+      "generated": 64,
+      "clean": 33
+    },
+    "debugging_s60": {
+      "generated": 80,
+      "clean": 34
+    },
+    "security_s60": {
+      "generated": 80,
+      "clean": 30
+    },
+    "curiosity_s60": {
+      "generated": 80,
+      "clean": 30
+    },
+    "anger_s60": {
+      "generated": 64,
+      "clean": 30
+    },
+    "warmth_s60": {
+      "generated": 64,
+      "clean": 30
+    },
+    "loneliness_s60": {
+      "generated": 112,
+      "clean": 34
+    }
+  },
+  "concepts": [
+    "celebration",
+    "ocean",
+    "fear",
+    "silence",
+    "deception",
+    "obedience",
+    "debugging",
+    "security",
+    "curiosity",
+    "anger",
+    "warmth",
+    "loneliness"
+  ],
+  "first_ids": [
+    24916,
+    17951,
+    8679,
+    21162,
+    63475,
+    66094,
+    27703,
+    4763,
+    40228,
+    19234,
+    40363,
+    73940
+  ],
+  "resid_norm": 1059.157958984375,
+  "ref_norm": 111.9,
+  "calibration": {
+    "bracket": {
+      "vnorm": 448.0,
+      "resid_norm": 1038.0,
+      "lo": 10.0,
+      "hi0": 834.9
+    },
+    "target_ranks": [
+      32,
+      21
+    ],
+    "clean_floor": 0.7,
+    "n_cal": 3,
+    "n_streams": 12,
+    "cal_tokens": 128,
+    "iters": 8,
+    "evaluations": [
+      {
+        "target": 32,
+        "effmag": 422.4,
+        "rank": 7.5,
+        "clean": 0.278,
+        "bracket": [
+          10.0,
+          834.9
+        ],
+        "hi": 834.9
+      },
+      {
+        "target": 32,
+        "effmag": 216.2,
+        "rank": 63.0,
+        "clean": 0.361,
+        "bracket": [
+          10.0,
+          422.4
+        ],
+        "hi": 834.9
+      },
+      {
+        "target": 32,
+        "effmag": 113.1,
+        "rank": 3740.0,
+        "clean": 0.333,
+        "bracket": [
+          10.0,
+          216.2
+        ],
+        "hi": 834.9
+      },
+      {
+        "target": 32,
+        "effmag": 61.6,
+        "rank": 1031.0,
+        "clean": 0.472,
+        "bracket": [
+          10.0,
+          113.1
+        ],
+        "hi": 834.9
+      },
+      {
+        "target": 32,
+        "effmag": 35.8,
+        "rank": 781.0,
+        "clean": 0.306,
+        "bracket": [
+          10.0,
+          61.6
+        ],
+        "hi": 834.9
+      },
+      {
+        "target": 32,
+        "effmag": 22.9,
+        "rank": 881.0,
+        "clean": 0.389,
+        "bracket": [
+          10.0,
+          35.8
+        ],
+        "hi": 834.9
+      },
+      {
+        "target": 32,
+        "effmag": 16.4,
+        "rank": 1036.5,
+        "clean": 0.389,
+        "bracket": [
+          10.0,
+          22.9
+        ],
+        "hi": 834.9
+      },
+      {
+        "target": 32,
+        "effmag": 13.2,
+        "rank": 1650.0,
+        "clean": 0.333,
+        "bracket": [
+          10.0,
+          16.4
+        ],
+        "hi": 834.9
+      },
+      {
+        "target": 21,
+        "effmag": 422.4,
+        "rank": 4.0,
+        "clean": 0.25,
+        "bracket": [
+          10.0,
+          834.9
+        ],
+        "hi": 834.9
+      },
+      {
+        "target": 21,
+        "effmag": 216.2,
+        "rank": 50.5,
+        "clean": 0.389,
+        "bracket": [
+          10.0,
+          422.4
+        ],
+        "hi": 834.9
+      },
+      {
+        "target": 21,
+        "effmag": 113.1,
+        "rank": 271.0,
+        "clean": 0.361,
+        "bracket": [
+          10.0,
+          216.2
+        ],
+        "hi": 834.9
+      },
+      {
+        "target": 21,
+        "effmag": 61.6,
+        "rank": 554.5,
+        "clean": 0.278,
+        "bracket": [
+          10.0,
+          113.1
+        ],
+        "hi": 834.9
+      },
+      {
+        "target": 21,
+        "effmag": 35.8,
+        "rank": 1320.0,
+        "clean": 0.278,
+        "bracket": [
+          10.0,
+          61.6
+        ],
+        "hi": 834.9
+      },
+      {
+        "target": 21,
+        "effmag": 22.9,
+        "rank": 668.0,
+        "clean": 0.361,
+        "bracket": [
+          10.0,
+          35.8
+        ],
+        "hi": 834.9
+      },
+      {
+        "target": 21,
+        "effmag": 16.4,
+        "rank": 1729.0,
+        "clean": 0.333,
+        "bracket": [
+          10.0,
+          22.9
+        ],
+        "hi": 834.9
+      },
+      {
+        "target": 21,
+        "effmag": 13.2,
+        "rank": 1949.0,
+        "clean": 0.389,
+        "bracket": [
+          10.0,
+          16.4
+        ],
+        "hi": 834.9
+      }
+    ],
+    "tuned": {
+      "32": null,
+      "21": null
+    },
+    "result": [
+      40,
+      60
+    ],
+    "note": "fallback: degenerate at all strengths"
+  }
+}

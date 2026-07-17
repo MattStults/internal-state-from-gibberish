@@ -1,0 +1,26 @@
+{
+  "model": "qwen3-8b",
+  "hf_id": "Qwen/Qwen3-8B",
+  "n": 96,
+  "tokens": 128,
+  "clean": 44,
+  "clean_frac": 0.458,
+  "gen_seconds": 32.2,
+  "reject_reasons": {
+    "word_rate": 24,
+    "repetition": 28
+  },
+  "median_deg": {
+    "word_rate": 0.034,
+    "repetition": 0.385,
+    "non_latin": 0.0,
+    "spacing": 0.25
+  },
+  "samples": [
+    "yv bnr kxh wqj mzp lsc ftd rpe uqg vkh xjm wnr yql zfs xpt vru qws hlk jmb nco pqe rtk xvf uwn yzl bma sdc qwe rtf uvp xjq klm nco pfd rse uwt vxl ymn zpq rsk t",
+    "rj kx mnc ylq zt ebg fhp vso iud jwq xrk lpm nfy oez ptc qvb suw rxa ylz mkn jhq ebg fdp wso iur jxy lqv zmt nkc oef pwr xjs qvy ubz rla mnc jkq ebg fhp wso iud",
+    "xv hzg yfj kpm wbl cnd rso etq lmr kpu xqy vza bwc fge jmh ntk lrp osd qwe fgy hmk jnp lro xsv yuz bwc fge jmh ntk lrp osd qwe fgy hmk jnp lro xsv yuz bwc fge j",
+    "kz yd fsh nqg jmv bpw xru elc taj hok zmi psl qnf dje rtk uxb lcy mhg vpe fqr wna xoj klt bsm yri cnd euf zvk xjq hpl mts gnr wbf yce vdk xja qmp lsn tgh rfe wu",
+    "mzj kln pvr bts hqf ydc xwe ags rhp qlo etb fzu cmy nsk jld xrf qwp vhg tby mnc ksj lra qzp xet hfc mgb ynd srl pwa vku ztm jfq xbg hsk lrd ept mnc yfz xqk ljr "
+  ]
+}

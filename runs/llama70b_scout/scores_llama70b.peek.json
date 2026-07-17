@@ -1,0 +1,68 @@
+{
+  "per_arm": {
+    "evoked": {
+      "n": 60,
+      "arm": "evoked",
+      "direct": {
+        "confusion_mi_bits": 0.7703996464125982,
+        "null_mean": 0.8135277472624698,
+        "null_p95": 0.9580387401319488,
+        "excess_bits": -0.04312810084987162
+      },
+      "think": {
+        "confusion_mi_bits": 0.7017338597263068,
+        "null_mean": 0.8043295224213725,
+        "null_p95": 0.9476486514290313,
+        "excess_bits": -0.1025956626950657
+      }
+    },
+    "secret_sustain": {
+      "n": 60,
+      "arm": "secret_sustain",
+      "direct": {
+        "confusion_mi_bits": 0.8495855507756622,
+        "null_mean": 0.8740466772310238,
+        "null_p95": 1.016252217442329,
+        "excess_bits": -0.02446112645536158
+      },
+      "think": {
+        "confusion_mi_bits": 0.9089427541242513,
+        "null_mean": 0.8929781942769414,
+        "null_p95": 1.0504465040521356,
+        "excess_bits": 0.015964559847309934
+      }
+    },
+    "secret_word": {
+      "n": 60,
+      "arm": "secret_word",
+      "direct": {
+        "confusion_mi_bits": 0.8127451103353812,
+        "null_mean": 0.8397135120288098,
+        "null_p95": 1.0129656624241228,
+        "excess_bits": -0.026968401693428623
+      },
+      "think": {
+        "confusion_mi_bits": 0.7864057840839068,
+        "null_mean": 0.8417871484506905,
+        "null_p95": 0.9924812503605781,
+        "excess_bits": -0.05538136436678365
+      }
+    }
+  },
+  "all_arms": {
+    "n": 180,
+    "arm": null,
+    "direct": {
+      "confusion_mi_bits": 0.3779410324656472,
+      "null_mean": 0.3504335222735407,
+      "null_p95": 0.42982757307191083,
+      "excess_bits": 0.02750751019210651
+    },
+    "think": {
+      "confusion_mi_bits": 0.3476335721957429,
+      "null_mean": 0.34439168805554476,
+      "null_p95": 0.42601668251608266,
+      "excess_bits": 0.003241884140198159
+    }
+  }
+}

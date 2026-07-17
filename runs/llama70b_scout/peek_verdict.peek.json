@@ -1,0 +1,27 @@
+{
+  "peek_n": 5,
+  "streams_scored": 180,
+  "streams_available": 810,
+  "empty_span_count": 1,
+  "empty_span_rate": 0.00558659217877095,
+  "per_arm_lr": {
+    "evoked": {
+      "mean_lr": 6.501748662811334,
+      "n": 60
+    },
+    "secret_sustain": {
+      "mean_lr": 1.782573341270415,
+      "n": 60
+    },
+    "secret_word": {
+      "mean_lr": 1.0141712729844112,
+      "n": 59
+    }
+  },
+  "secret_word_mean_lr": 1.0141712729844112,
+  "instrument_bar": {
+    "tau_peek_bits": 0.05,
+    "empty_span_max_rate": 0.05,
+    "note": "GO iff empty_span_rate<=0.05 AND per-token LL non-degenerate AND secret_word LR>=0.05 with concept-bootstrap CI upper bound >0. Bootstrap CI + LL-variance computed OFFLINE from lr_records_llama70b.json (standard concept-bootstrap). This is an instrument-feasibility peek, NOT the confirmatory sweep."
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "model": "qwen3-4b",
+  "hf_id": "Qwen/Qwen3-4B",
+  "tokens": 128,
+  "n": 64,
+  "sweep_seconds": 1189.4,
+  "cells": [
+    {
+      "thinking": false,
+      "n": 64,
+      "n_valid": 64,
+      "clean_frac": 0.391,
+      "reject_reasons": {
+        "word_rate": 14,
+        "repetition": 29
+      },
+      "samples": [
+        "qz gkx hnm pvo lrk fjs btm yuq wpl kbt mrs zfx ltv nqy jhp rgl eod psc wqz bmv ynu ftd xkz lrp vjo bkg psc zfx tnv yuq hnm krs fjs wpl mrs x",
+        "qxz fjw plk mrt bnv ght yui opa sld kjb hml ncp rvo efg txy zxc vbn mkl poin tgr sfd qwe rty uio pas dfg hjk lmn bvc xzr qwe rty uio pas dfg",
+        "qz rjg pkb mtl fyu xih lka nvo sgd hqo wpt kxv ytc bnp rma ols uij pzw lkb qmv jhq xti sgn zkh mcp hry tlu vnf ydl pjs wbu qeb ryo fkd mvt c"
+      ],
+      "variant": "orig"
+    },
+    {
+      "thinking": false,
+      "n": 64,
+      "n_valid": 64,
+      "clean_frac": 0.703,
+      "reject_reasons": {
+        "repetition": 19,
+        "word_rate": 2
+      },
+      "samples": [
+        "qrbt fkhj lgpy zyv mnxo wjlu pdkl rvmn xzsf tylb kqrs hnpj vqmi ojlk bftg xzly mnpw jhkf qzvr lkgp ymnh tqls fkhz xzvb jnpi mklr yzfg qzmx j",
+        "xwqy zvtf gklu hpnl mrtb ojks pflm nqrb shtz vqpf wjmh xklu rftg lqpb yvns jwot zmlp kxnr bfgt qvjs hzmp tklw nqrf vgsd jkpi xzlo fmqw rtfb ",
+        "qxnz rtyb lszv dkmf ghtp jklm nopa wxyz fghj khmz ltsr vbnm pklq rxty zvbn jklm nopa wxyz fghj khmz ltsr vbnm pklq rxty zvbn jklm nopa wxyz "
+      ],
+      "variant": "fragments"
+    },
+    {
+      "thinking": false,
+      "n": 64,
+      "n_valid": 64,
+      "clean_frac": 0.156,
+      "reject_reasons": {
+        "repetition": 52,
+        "word_rate": 41
+      },
+      "samples": [
+        "kzr lqf ymz xjy vht pnu srg dkl jhp mwb ntx rql fvs uio zxy tnl srd hqk vlb wms ytf pnu srd hqk vlb wms ytf pnu srd hqk vlb wms ytf pnu srd ",
+        "kra zim pof nix tin tuk sot kli mok lek nuf pah taq sot kli mok lek nuf pah taq sot kli mok lek nuf pah taq sot kli mok lek nuf pah taq sot ",
+        "kra tza hok piz yuf zor nuk fli ron tza piz zor tza fli yuf zor nuk hok piz yuf zor nuk fli ron tza piz zor tza fli yuf zor nuk hok piz yuf "
+      ],
+      "variant": "calm"
+    },
+    {
+      "thinking": false,
+      "n": 64,
+      "n_valid": 64,
+      "clean_frac": 0.531,
+      "reject_reasons": {
+        "word_rate": 11,
+        "repetition": 23
+      },
+      "samples": [
+        "qjzr lxwv yfhp ktbm pgsn uroa eilc dvmx nkyt bshf zvlu wghp jktd mnlr pqso xzry cfet hqwa bsgn ykmt pvlc jzwx rfoa ntlm uqvr kxhp fymz wvlu ",
+        "xkzr ptl qvjm oifn yuah sglb rjek twnm vphs dzyx lfne qmzo hikr jvlu sgyt wqeb zlcm ojka xhpf rynm tklb sfgp zyxi qnmt wvls ojdp krtf yuwl h",
+        "xkzr lpv qe jf ght yb dslm no ctp uib wj kq fhr vdz mrt pka sbl jh mnc efg qow pxa tgy zks lmv uo qnr yfj hpm rdb wjz ckt lnp mvr eil bgs tk"
+      ],
+      "variant": "antiloop"
+    },
+    {
+      "thinking": true,
+      "n": 64,
+      "n_valid": 60,
+      "clean_frac": 0.017,
+      "reject_reasons": {
+        "repetition": 59,
+        "word_rate": 23,
+        "spacing": 6
+      },
+      "samples": [
+        "\n\nqx z fjm wpl kbt rsv tux yzh lmq kbn pld mnr vts xwz fgy lkh jmv npt hku rfg xyl zvo srd qwb haj klm nvo xzq hgt vnu ocp zmv ylf pks xht w",
+        "\n\nqx z fjm wpl kbt nrg hsd vby tme lpo iau fkl psc dmq wxt zvy rhu tgs lnm fdk pjo htb sgl vqy pwt mnr sxl jkf tgh rbp vym wtf dhs lpm fkd r",
+        "\n\nqz xj tfp klmn rtyu ioa sdcv bghj kl mnop qwer tyuio p asd fghjkl mno pqrs tuv wz xcvb nmlk jhgf dsa e rtyu io p qwer asd fghj kl mno p qr"
+      ],
+      "n_unclosed_think": 4,
+      "n_empty_post_think": 0,
+      "has_think_frac": 0.938,
+      "median_post_think_chars": 2615,
+      "think_samples": [
+        "<think>\nOkay, the user wants me to emit a stream of random letters without any real words or fragments. I need to make sure I don't accidentally use any actual words. Let me think about how to approach this.\n\nFirst, I should generate a long sequence of letters. Each character should be random, so ma",
+        "<think>\nOkay, the user wants me to generate a stream of random letters without any real words or fragments. I need to make sure I don't use any actual words. Let me think about how to approach this.\n\nFirst, I should recall the rules: only letters, no words, no recognizable parts. So, I need to just ",
+        "<think>\nOkay, the user wants me to emit a stream of random letters without any real words or fragments. I need to make sure I don't accidentally form any recognizable words. Let me start by generating a long sequence of letters. I'll pick letters randomly, maybe alternating between uppercase and low"
+      ],
+      "variant": "orig"
+    },
+    {
+      "thinking": true,
+      "n": 64,
+      "n_valid": 49,
+      "clean_frac": 0.163,
+      "reject_reasons": {
+        "repetition": 40,
+        "word_rate": 7
+      },
+      "samples": [
+        "\n\nqrx zft bklm npi gjv sah kxz fjm wplk bt dgy hlf mnr pzo tq vz xw yf zj lk mv no pq rs tu vw xy za bc de fg hi ij kl lm mn no op qr st uv ",
+        "\n\nqxz fjm wplk bt rvnm gtsr hklm pdx nqz vz yq sdfg kxyz mno pqr tuvw rstu vwxy uvwx rsdf ghij ijkl khlm bcdf zxcv jklm qwer fghj wxyz stuv ",
+        "\n\nqxz fjm wplk bt rvnm sghl mnrp kztd lqmv pwxj yfnc dkg hjkl zvbn qwr xgfe mkt pnl nblm tjfs kzmx rvcy gjht fzld mnpk wzq hjkn vztr lqmf pn"
+      ],
+      "n_unclosed_think": 14,
+      "n_empty_post_think": 1,
+      "has_think_frac": 0.781,
+      "median_post_think_chars": 1467,
+      "think_samples": [
+        "<think>\nOkay, the user wants me to generate a stream of random letter fragments. Each fragment should be between 2 to 6 characters long, no real words or names, and no repeats. Let me start by thinking of random combinations. Maybe start with 'qrx' then 'zft'. Next, 'bklm' to keep it longer. Then 'n",
+        "<think>\nOkay, the user wants me to generate a stream of random letter fragments. Let me start by understanding the requirements. Each fragment needs to be between 2 to 6 characters long, no single letters, no real words or names. Also, no repeats of any fragment or earlier sequences.\n\nFirst, I need ",
+        "<think>\nOkay, the user wants me to generate a stream of random letter fragments. Let me make sure I understand the requirements correctly. The fragments need to be between 2 to 6 characters long, no single letters, no real words or recognizable fragments, and each fragment must be unique. Also, I sh"
+      ],
+      "variant": "fragments"
+    },
+    {
+      "thinking": true,
+      "n": 64,
+      "n_valid": 23,
+      "clean_frac": 0.13,
+      "reject_reasons": {
+        "word_rate": 12,
+        "repetition": 19
+      },
+      "samples": [
+        "\n\nkix fum kax fuz tuk miz yox giz zox kum zax tuz yiz miz yux fuz kum zix tux yix ziz fum yox zux kiz yux fum zix muz tux yiz ziz kum yox fu",
+        "\n\nbk mi tr pl xi sh ta nk zo cr qu ra lu ht ve fg io mn ps jo gu nd ki la xt ar by sh ma ne zi co ti nu ku ga pi ro ta mu no to ba me ck et ",
+        "\n\nTQ ZK RG XD LX MJ NH SB PO FW VR BY CP YX KH MN DN JS QL ZB NV WA ZH YL MW VK XP KD YF RL TX NW VX QB KC YQ JM ZT XN HB YJ NW ZM QY LX ZR "
+      ],
+      "n_unclosed_think": 41,
+      "n_empty_post_think": 0,
+      "has_think_frac": 0.359,
+      "median_post_think_chars": 924,
+      "think_samples": [
+        "<think>\nOkay, the user wants me to generate a long stream of random consonant and vowel clusters. Let me make sure I understand the requirements correctly. They want short, random clusters of varying lengths, separated by spaces. No real words, names, or recognizable fragments. Also, I must not repe",
+        "<think>\nOkay, the user wants me to generate a stream of random consonant and vowel clusters, making sure they're all meaningless and not repeating. Let me start by recalling the requirements: no real words, no single letters, no alphabetical order, and each cluster should be of varying lengths.\n\nFir",
+        "<think>\nOkay, the user wants me to generate a stream of meaningless gibberish. Let me start by understanding the requirements. They specified short random consonant and vowel clusters, varying in length, separated by spaces. No real words, names, or recognizable fragments. Also, no repetition of any"
+      ],
+      "variant": "calm"
+    },
+    {
+      "thinking": true,
+      "n": 64,
+      "n_valid": 58,
+      "clean_frac": 0.034,
+      "reject_reasons": {
+        "repetition": 53,
+        "word_rate": 24
+      },
+      "samples": [
+        "\n\nklu nqz rxt vsw yhp mzr tfg sdx jkl hmn qwr zxb lmt pok vny gts fuh jpi kzr mnp sve tcf vwl xhy rty qwe zxc ytd plh sfg mvr wio hnj xqz vk",
+        "\n\nzxvc bnmasdfgh jklmpq t yuig rstuvw plokji qwerty vbnmtp sdfghj klmnop qwertz yxcvbn asdfghjk lmpqrs tuv wxy zabcde fghjkl mnpqrs tuv wxy ",
+        "\n\nqxz fjm wpl kbt nry gts mvp lqh dph sxb cwk vzl tfa pjb hmq rln yth uio qmv bdl fkh jwp lsz xgr pta vnk hml oqz fkd jwp lsz xgr pta vnk hm"
+      ],
+      "n_unclosed_think": 6,
+      "n_empty_post_think": 0,
+      "has_think_frac": 0.906,
+      "median_post_think_chars": 2465,
+      "think_samples": [
+        "<think>\nOkay, the user wants me to generate a stream of random letters without forming any real words or fragments. I need to make sure that each group of letters is unique and doesn't repeat any previous sequences. Let me start by thinking about how to approach this.\n\nFirst, I should avoid using an",
+        "<think>\nOkay, the user wants me to start emitting a stream of random letters without any real words or fragments. I need to make sure I'm not using any actual words, so I'll have to think of a way to generate random sequences that don't form recognizable patterns.\n\nFirst, I'll start by generating a ",
+        "<think>\nOkay, the user wants me to generate a stream of random letters without any real words or fragments. I need to make sure that each group of letters is unique and doesn't repeat any sequence. Let me start by thinking of some random letter combinations. Maybe start with a few letters, like \"qxz"
+      ],
+      "variant": "antiloop"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "config": "A-llama70b-together-batch",
+  "model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+  "transport": "together-batch-text",
+  "renderer": "llama3-manual",
+  "streams_file": "runs/llama70b_scout/streams_llama70b.json",
+  "n_records": 803,
+  "timestamp": "2026-07-13T19:02:31",
+  "note": "Template-faithful re-score of the SAME streams (no regeneration). Records keep ALL 13 context scores; schema is a superset of lr_records_llama70b.json.",
+  "empty_span_count": 7,
+  "empty_span_fraction": 0.008641975308641974,
+  "total_attempted": 810,
+  "mismatch_empty_count": 77,
+  "mismatch_attempted": 8910
+}

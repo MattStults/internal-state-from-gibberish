@@ -1,0 +1,310 @@
+{
+ "run": "llama70b_scout full sweep (810 streams x 13 contexts)",
+ "model": "meta-llama/Llama-3.3-70B-Instruct-Turbo (Together serverless batch, quantized)",
+ "raw_source": "runs/llama70b_scout/lr_raw_batch_output.jsonl",
+ "streams_source": "runs/llama70b_scout/streams_llama70b.json",
+ "adapter": "analysis/lr_70b_scout_offline.py",
+ "concepts": [
+  "anger",
+  "celebration",
+  "curiosity",
+  "debugging",
+  "deception",
+  "fear",
+  "loneliness",
+  "obedience",
+  "ocean",
+  "security",
+  "silence",
+  "warmth"
+ ],
+ "H_bits": 3.584962500721156,
+ "chance_top1": 0.08333333333333333,
+ "n_raw_lines": 10529,
+ "failures_by_reason": {
+  "empty span": 91
+ },
+ "n_failed_requests": 91,
+ "n_streams_with_failures": 7,
+ "reference_7b": {
+  "bits": 0.405,
+  "top1": 0.251
+ },
+ "units_note": "raw_diag / generic_lift / centered_diag are summed span log-probs in NATS (ll_over_span sums natural logs); *_bits columns divide by ln 2. 'calibrated' is genuine bits (log2(12) - CE).",
+ "am5_controls": {
+  "char": null,
+  "position": null,
+  "note": "Amendment-5 char/position controls are NOT computable on this run: all 810 streams have token_ids = null and no gen_token_logprobs/gen_topk (generated before the capture fix, 430dcd9), so the certified char reader / position-lift share cannot be fed. Disclosed, not silently passed."
+ },
+ "arms": {
+  "secret_word": {
+   "n_total": 276,
+   "n_kept": 270,
+   "n_dropped": 6,
+   "raw_diag_nats": 1.605129872089272,
+   "raw_diag_bits": 2.315712906445929,
+   "generic_lift_nats": 1.3890376020042419,
+   "generic_lift_bits": 2.0039576600198177,
+   "lift_fraction_of_diag": 0.8653739651584954,
+   "centered_diag_nats": {
+    "mean": 0.18874816083905133,
+    "ci_lo": -0.6398475978299887,
+    "ci_hi": 0.994713572015166,
+    "clears_zero": false,
+    "n_concepts": 12,
+    "n_boot": 10000,
+    "seed": 20260713
+   },
+   "gate3": {
+    "passed": true,
+    "matched_pt": 0.012463525380922245,
+    "mismatched_pt": 0.011894024610884825,
+    "bound": 0.02,
+    "n": 270
+   },
+   "voided": false,
+   "calibrated": {
+    "bits_mean": -0.0019562753044111147,
+    "bits_sd": 0.011284913465592305,
+    "top1_mean": 0.05494505494505494,
+    "top1_sd": 0.009828870230768305,
+    "top1_full": 0.05555555555555555,
+    "tau_median": 44.96472020903849,
+    "n": 270,
+    "n_per_concept": {
+     "0": 22,
+     "1": 24,
+     "2": 24,
+     "3": 24,
+     "4": 19,
+     "5": 18,
+     "6": 24,
+     "7": 22,
+     "8": 24,
+     "9": 22,
+     "10": 24,
+     "11": 23
+    },
+    "min_eval_per_concept": 12
+   },
+   "span_T": {
+    "min": 31.0,
+    "median": 96.0,
+    "max": 202.0
+   },
+   "truncation": {
+    "K16": {
+     "bits_mean": -4.73095305907556e-05,
+     "bits_sd": 0.006486863915935991,
+     "top1_mean": 0.11263736263736265,
+     "n": 270
+    },
+    "K32": {
+     "bits_mean": -0.0025442915818430388,
+     "bits_sd": 0.01561587991452938,
+     "top1_mean": 0.06538461538461539,
+     "n": 270
+    },
+    "K64": {
+     "bits_mean": 0.00031401847357699354,
+     "bits_sd": 0.009195531434072896,
+     "top1_mean": 0.06263736263736264,
+     "n": 270
+    },
+    "full": {
+     "bits_mean": -0.0019562753044111147,
+     "bits_sd": 0.011284913465592305,
+     "top1_mean": 0.05494505494505494,
+     "n": 270
+    }
+   },
+   "crosscheck_max_abs_delta_vs_records": 0.0,
+   "crosscheck_n": 270
+  },
+  "secret_sustain": {
+   "n_total": 278,
+   "n_kept": 278,
+   "n_dropped": 0,
+   "raw_diag_nats": 1.8960422209604906,
+   "raw_diag_bits": 2.7354107094957962,
+   "generic_lift_nats": 1.3914872023827114,
+   "generic_lift_bits": 2.0074916863379952,
+   "lift_fraction_of_diag": 0.7338904097176784,
+   "centered_diag_nats": {
+    "mean": 0.49179504886375996,
+    "ci_lo": -0.21218360053740967,
+    "ci_hi": 1.108649187490805,
+    "clears_zero": false,
+    "n_concepts": 12,
+    "n_boot": 10000,
+    "seed": 20260713
+   },
+   "gate3": {
+    "passed": true,
+    "matched_pt": 0.018326734112173095,
+    "mismatched_pt": 0.012029416276674467,
+    "bound": 0.02,
+    "n": 278
+   },
+   "voided": false,
+   "calibrated": {
+    "bits_mean": 0.012785764140234112,
+    "bits_sd": 0.00605570439079412,
+    "top1_mean": 0.11229946524064172,
+    "top1_sd": 0.012878710779457006,
+    "top1_full": 0.1079136690647482,
+    "tau_median": 20.48389811985348,
+    "n": 278,
+    "n_per_concept": {
+     "0": 17,
+     "1": 24,
+     "2": 24,
+     "3": 24,
+     "4": 24,
+     "5": 24,
+     "6": 24,
+     "7": 24,
+     "8": 23,
+     "9": 22,
+     "10": 24,
+     "11": 24
+    },
+    "min_eval_per_concept": 12
+   },
+   "span_T": {
+    "min": 27.0,
+    "median": 80.0,
+    "max": 201.0
+   },
+   "truncation": {
+    "K16": {
+     "bits_mean": 0.021989313413594624,
+     "bits_sd": 0.011399116179628103,
+     "top1_mean": 0.10855614973262032,
+     "n": 278
+    },
+    "K32": {
+     "bits_mean": 0.026336632087940924,
+     "bits_sd": 0.010377035386554562,
+     "top1_mean": 0.12459893048128343,
+     "n": 278
+    },
+    "K64": {
+     "bits_mean": 0.016082008446129458,
+     "bits_sd": 0.004736675054122694,
+     "top1_mean": 0.10695187165775402,
+     "n": 278
+    },
+    "full": {
+     "bits_mean": 0.012785764140234112,
+     "bits_sd": 0.00605570439079412,
+     "top1_mean": 0.11229946524064172,
+     "n": 278
+    }
+   },
+   "crosscheck_max_abs_delta_vs_records": 0.0,
+   "crosscheck_n": 278
+  },
+  "evoked": {
+   "n_total": 256,
+   "n_kept": 254,
+   "n_dropped": 2,
+   "raw_diag_nats": 4.533770649361367,
+   "raw_diag_bits": 6.54084843236158,
+   "generic_lift_nats": 4.036809043444353,
+   "generic_lift_bits": 5.823884387992888,
+   "lift_fraction_of_diag": 0.8903866903838603,
+   "centered_diag_nats": {
+    "mean": 0.40913473696233343,
+    "ci_lo": -1.246543576834377,
+    "ci_hi": 2.0862908797991686,
+    "clears_zero": false,
+    "n_concepts": 12,
+    "n_boot": 10000,
+    "seed": 20260713
+   },
+   "gate3": {
+    "passed": false,
+    "matched_pt": 0.032002009957492535,
+    "mismatched_pt": 0.028297210679713664,
+    "bound": 0.02,
+    "n": 254
+   },
+   "voided": true,
+   "calibrated": {
+    "bits_mean": 0.0004886618182557533,
+    "bits_sd": 0.008921607786269168,
+    "top1_mean": 0.12209302325581398,
+    "top1_sd": 0.011627906976744186,
+    "top1_full": 0.11811023622047244,
+    "tau_median": 44.96472020903849,
+    "n": 254,
+    "n_per_concept": {
+     "0": 23,
+     "1": 17,
+     "2": 24,
+     "3": 24,
+     "4": 24,
+     "5": 24,
+     "6": 22,
+     "7": 16,
+     "8": 12,
+     "9": 24,
+     "10": 21,
+     "11": 23
+    },
+    "min_eval_per_concept": 8
+   },
+   "span_T": {
+    "min": 30.0,
+    "median": 139.0,
+    "max": 201.0
+   },
+   "truncation": {
+    "K16": {
+     "bits_mean": -0.00030119154471575094,
+     "bits_sd": 0.009349436615549869,
+     "top1_mean": 0.10174418604651163,
+     "n": 254
+    },
+    "K32": {
+     "bits_mean": -0.0032215344048605044,
+     "bits_sd": 0.005565841377712334,
+     "top1_mean": 0.10232558139534884,
+     "n": 254
+    },
+    "K64": {
+     "bits_mean": 0.003626255375390297,
+     "bits_sd": 0.00400304216404924,
+     "top1_mean": 0.12093023255813955,
+     "n": 254
+    },
+    "full": {
+     "bits_mean": 0.0004886618182557533,
+     "bits_sd": 0.008921607786269168,
+     "top1_mean": 0.12209302325581398,
+     "n": 254
+    }
+   },
+   "crosscheck_max_abs_delta_vs_records": 0.0,
+   "crosscheck_n": 254
+  }
+ },
+ "named_calls_disposition": {
+  "if_accepted_as_72b_test": {
+   "matt": {
+    "verdict": "wrong",
+    "rule": "secret_word diagonal >= 0.50 calibrated bits",
+    "sw_diag_bits": -0.0019562753044111147
+   },
+   "claude": {
+    "verdict": "wrong",
+    "rule": "secret_word >= 0.60 AND secret_sustain >= 1.5 AND off-diagonal (7B reads 70B) < 0.05 AND char passes",
+    "sw_diag_bits": -0.0019562753044111147,
+    "ss_diag_bits": 0.012785764140234112,
+    "offdiag_clause": "UNSCOREABLE -- the off-diagonal (a smaller model reading the 70B streams) was never collected in this run"
+   }
+  },
+  "recommended": "not scored on this run; pending a within-family point (prereg froze the calls for Qwen2.5-72B on self-hosted vLLM, not Llama-3.3-70B on Together serverless) -- flagged as Matt's decision"
+ }
+}

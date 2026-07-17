@@ -1,0 +1,545 @@
+########## strength 0 ##########
+[s0][silence] word_rate=0.000 n_runs=1
+nqtvzlmrfdygsjxwakpohbcueï
+
+[s0][silence] word_rate=0.000 n_runs=1
+bqjfnlmxcryzeduhtgpvnkaoiwsz
+
+[s0][silence] word_rate=0.000 n_runs=1
+bmfuxqnpjkowtdrcvyşt
+
+[s0][silence] word_rate=0.143 n_runs=21
+qkjlfnmdsryewpvztxcgauohispweoqwyxvghjksdzxcvbnmgqwsadghjklñuiopábcdfñgerghjklñpiróíñuïopäbcçdfñgerghjklñîpróíñuïopäbcçdfñgerghjklñîpqkjlfnmdsryewpvztxcgauohispweoqwyxvghjksdzxcvbnmgqwsadghjklñuiopábcdfñgerghjklñpiróíñuïopäbcçdfñgerghjklñîpróíñuïopäbcçdfñgerghjklñîpqkjlfnmdsryewpvztxcgauohispweoqwyxvghjksdzxcvbnmgqwsadghjklñuiopábcdfñgerghjklñpiróíñuïopäbcçdfñgerghjklñîpqkjlfnmdsryewpvztxcgauohispweoqwyxvghjksdz
+
+[s0][silence] word_rate=0.000 n_runs=1
+qgjlfnwvemrzksdxhoatpiuyt
+
+[s0][silence] word_rate=0.000 n_runs=1
+wqzfsjlmpnhgtyruivcoeà
+
+[s0][silence] word_rate=0.000 n_runs=1
+tbrkvzqsjwplnfdymsxgaoecuhibitjopw
+
+[s0][silence] word_rate=0.000 n_runs=1
+tbrqzvnxlmnpuyhfghjkdoawswjklmnopuyhfghjksadgferghkjmnopuyifopuyfghjklopuyifghjksadjhrgwerghjksadrjhgrewrfgewhjfjhsaqwejhqwertqwrtyuiopzxcvbnm
+
+[s0][silence] word_rate=0.000 n_runs=1
+qzvnpwmlkjcytfrsdxougbhed
+
+[s0][silence] word_rate=0.000 n_runs=1
+zvqkthmynsdxjwfcopbrlzqnpfghjklwqazxcvbnmdfeuyrtgbñ
+
+[s0][silence] word_rate=0.000 n_runs=2
+qjrmnklxvdzwsfñyptgcbhrv
+
+[s0][silence] word_rate=0.000 n_runs=1
+j x d n u y p q t v s m r w f o g l k e h i a c b npqrstuyz
+
+[s0][silence] word_rate=0.000 n_runs=1
+btdkzrfljqnhuywmpvxcgstasd
+
+[s0][silence] word_rate=0.000 n_runs=1
+qfynxkzvltcbpawsoejrd
+
+[s0][silence] word_rate=0.000 n_runs=1
+yhrqbptxvfowegjkqzjklmnop
+
+[s0][ocean] word_rate=0.000 n_runs=1
+qjfpmbtwszrklngvdahytx
+
+[s0][ocean] word_rate=0.000 n_runs=1
+zvqhjtnmpdxrlkvsoejpqgwyu
+
+[s0][ocean] word_rate=0.000 n_runs=1
+qkzvtfjnpwxscgyruhoelmdibtawnz
+
+[s0][ocean] word_rate=0.000 n_runs=2
+ybpvnlrkdscxjwqgtaorzfñmepu
+
+[s0][ocean] word_rate=0.000 n_runs=21
+zphqmkdfjlwnertuvcxsgaioqpweoqjklasdfghjklnxvsdfgxcvbnmqwertyuiopjqwertyuiopqwertyuioqazwsxvnbcnjmkbvhnmgzxcvbñmpqrtñwertyuiopñqwertyuiopñqwéuyiñoqñazwsxzcvbnjmñkbsdfnñgçxzcvbnjmñkbsdfnñgçxzcvbnjmñkbvcñghjklñgçxzcvbnjmñkbsdfñghjklnñsdfgñasdfgsdfgñhgfdsñgçxzcvbnjmlñgçxzcvbnjmñkbsdfnhgfdszxcvñññññññññññññññññññññññññññññññññññññññññññññññññññññññññññññññññññññññññññññññññññññ
+
+[s0][ocean] word_rate=0.000 n_runs=1
+btdzphvqnsrlkjxwueoaipwklfjvqntybrwsfjvzrythbsdfjvghjqybrwsfqkthjsdftybrsufhjkzxhrswqfyurhsdqjkfrwsufhjkybrsfjvqntysrhfsdjwqksdfjvqntybrswfjvzyqrsfdjvkhjysrwqdkjfhvsqtfyurhsdqjkfrwsufhjkzxhrswqfyurhsdqjkfrwsufhjkzxhrswqfyurhsdqjkfrwsufhjkzxhrswqfyurhsdqjkfrwsufhjkzxhrswqfyurhsdqjkfrwsufhjkzxhrswqfyurhsdqjkfrwsufhjkzxhrswqfyurhsdqjkfrwsufhjkzxhrswqfyurhsdqjkfrwsufhjkzxhrswqfyurhsdqjkfrwsufhjkzxhrswqfyurhsdqjkfrwsufhjkzxhrswqfyurhsdqjkfrwsufhjkzxhr
+
+[s0][ocean] word_rate=0.000 n_runs=1
+nrltkrsdnhthkqjxvzllmfipw
+
+[s0][ocean] word_rate=0.000 n_runs=1
+qzvkfpnwsjrtluoagbcdrwxvzkl
+
+[s0][ocean] word_rate=0.000 n_runs=1
+vbcjzphrknwtydseulxmpfqiqjwxuqjytkgklqqgjqjypwzwsdzwsdwxuyjvqfjyjwyjyvqjywzwsdxuyjvqfqkjlqjxpwxuyjvqzwsdxuyjvqfqkjlxuyjvqfqkjlqjxydzwyjyvqfqkjlxuyjvydzwyjyvqfqkjlqxuyjvqrtyjyvqfqkjlxuyjvydzwxuyjvqfqkjlxuyjvydzwyjyvqfqkjlqxuyjvqrtyjyvqfqkjlxuyjvydzwxuyjvqfqkjlxuyjvydzwyjyvqfqkjlxuyjvydzwyjyvqfqkjlxuyjvydzwxuyjvqfyzwyjyvqfqkjlxuyjvydzwxuyjvqfyzwyjyvqfqkjlxuyjvydzwxuyjvqfqkjlqxuyjvqfyzwyj
+
+[s0][ocean] word_rate=0.000 n_runs=1
+qgkxvfjuwrhtpdncslnz
+
+[s0][ocean] word_rate=0.000 n_runs=1
+vzgqkxrhycnpdtesjwluflms
+
+[s0][ocean] word_rate=0.000 n_runs=1
+bnpzqfjrtwsxvkluohyndegae
+
+[s0][ocean] word_rate=0.000 n_runs=1
+vbcnrtqzpsxjlwdmfnxsttuyjyzrwxuuytfvkljgkltyuytxaqqgqzjwsdzsbswzbszbsyzyztzstzyyzxuuyuyutyuzufvyuzxuuyuyuyzzyzzzzzyyzxuuyuyutyuzufvyuzxuuyuyuyzzyzzzzzzzyyzxuuyuyutyuzufvyuzxuuyuyuyzzyz
+
+[s0][ocean] word_rate=0.000 n_runs=1
+zpcqgjnsfhxwrlktbdeaonv
+
+[s0][ocean] word_rate=0.000 n_runs=1
+qgvmzrflwptkxjnhueosipadonxvbc
+
+########## strength 20 ##########
+[s20][silence] word_rate=0.000 n_runs=41
+zvbnmjqpxlr_sw_utyhfcdoieopq_vzgtnmsuw_uytgrcvbndfghjklo_qxswerzvtgñu_uyhfgñjklmnopqrst_uhytfrvwxzswpq_uytfgñkljnm_ùyhfjkmnpqrst_ùyhjmlnopqr_ùyzfjlmnopqrst_ùyzfjmlnoprñztw_ùyzfjmnopqrst_ùyzfjmnoprñztws_ùyzfjmnoprz_ùyzfjmnoprñztwv_ùyzfjmnoprñztwvx_ùyzfjmnoprñztwvxy_ùyzfjmnoprñztwvyz_ùyzfjmnopñztwvyz_ùyzfjmplñztwvyz_ùyzfjmnptñztwvyz_ùyzfjmplñztwvyzy_ùyzfjmplñztwvyzya_ùyzfjmplñztwvyzya_ùyzfjmplñztwvyzyab_ù
+
+[s20][silence] word_rate=0.000 n_runs=1
+qjxvznhfptoeklmwryscu
+
+[s20][silence] word_rate=0.000 n_runs=1
+zjfnpmxkqwsuotvgabdoynlrε
+
+[s20][silence] word_rate=0.000 n_runs=6
+yn bjl xzt cek rpu nmo xdw
+
+[s20][silence] word_rate=0.000 n_runs=1
+qkfnjlwmptxrsvdczahgbs
+
+[s20][silence] word_rate=nan n_runs=0
+t n q j y v p x s o k l m w r f e u d c g h b i å ø ß à ç é è ê œ ô ù úû ü ý ö ä ßèéíìóòõôùúûüýöäéíñ ßøûùéíöààæéíñßëëîìôõöùûüýøàèìíõõòûüýòùÿïïïöôëêëëïÿÿøùùüûôðæéíõõòùûüýþÿþÿüðæñïðþÿþÿýëüëêðæõôêëæïðþÿþÿíùûüýþÿþÿöðãêëæïðþÿþÿûüýþÿþÿëùûüýþÿþÿüëêðæïðþÿþÿðüÿþÿýëüëêðæïðþÿþÿôùûüýþÿþÿåùûüýþÿþÿöðãêëæïð
+
+[s20][silence] word_rate=0.000 n_runs=1
+yrkzqgtsnhxwvpjmfocsqd
+
+[s20][silence] word_rate=0.000 n_runs=1
+yhdmvqkzjxwpeonuirsflgtbcdxAC
+
+[s20][silence] word_rate=0.200 n_runs=5
+yg sdbv xlnjy tms qxmz jynxw
+
+[s20][silence] word_rate=0.000 n_runs=1
+zjvbnmsrcdpqxwtkuyhfeglzjqx
+
+[s20][silence] word_rate=0.000 n_runs=1
+zpcgkwnvxfjlmbdtrosqhwy
+
+[s20][silence] word_rate=0.000 n_runs=1
+jvfxzlmkpenwrtsohcuygdqbipvsohxgfcy
+
+[s20][silence] word_rate=nan n_runs=0
+y r z o s x n p v t u c d w f g b h&e
+
+[s20][silence] word_rate=0.000 n_runs=58
+qknlzjwepoifmdsxvtucraygşhnbëzjvtfuopîşxwcñgëznhbapştñcgszvfëpxtnhbapştñczvfëpxthnbapszxcwghnbëzjvtfuopîşxwcñbhnbçgszvfëpxthnbapszxcwghnbëzjvtfuopîşxwcñbxnczvfëpxthnbapştsxvwñbhnbapştsxvwñbxnczvfëpxthnbapştsxvwñbhnbapştsxvwñbhnbapştsxvwñbhnbapştsxvwñbhnbapştsxvwñbhnbapştsxvwñbhnbapştsxvwñbhnbapştsxvwñbhnbapştsxvwñbhnbapştsxvwñbhnbapştsxvwñbhnbapştsxvwñbhnbapştsxvwñbhnbapştsxvwñbhnbapştsxvwñbhnbapştsxvwñbhnbapştsxvwñbhnbapştsxvwñ
+
+[s20][silence] word_rate=0.000 n_runs=1
+qzjbvnlrwsfpctdhmeyxkouiguw
+
+[s20][ocean] word_rate=0.000 n_runs=1
+ybdnhpzrskvoixlwemcjfutgpqsñu
+
+[s20][ocean] word_rate=nan n_runs=0
+yg n q x m v o p r t u s i z w e a c f j b k l n o x u t v w q g r p s z r t x y u n w v t q i b h g k c d m f l w g t x y u p n v w z x y u v r t q i x u w s d f t p o n r t x y u s w t v g f r p s z r t x y u n w v t q i b h g k c d m f l w g t x y u p n v w z x y u v r t q i x u w s d f t p o n r t x y u s w t v g f r p s z r t x y u n w v t q i b h g k c d m f l w g t x y u p n v w z x y u v r t q i x u w s d f t p o n r t x y u s w t v g f r p s z r t x y u n w v t q i b h g k c d m f l w g t x y u p n
+
+[s20][ocean] word_rate=0.000 n_runs=51
+zyxwuhtnsdfghjkklñcvbmqwxözqrñzcvbñzxcvbnmñcvbqwrömnvcxcbñzqxåzcvbjñzxcdñzqxazcbñzxcvfghjklñzcvbñzxcvcxbñzxcvcxdñzxcvcxbnmñzxcvcxdñzxcvcxdbñzxcvcxdñzxcvcxdñzxcvcxdoñzcxcvfghjklñzcvbñzxcvcxbñzxcvcxdñzxcvcxbñzxcvcxbñzxcvcxbñzxcvcxbñzxcvcxbñzxcvcxbñzxcvcxbñzxcvcxbñzxcvcxbñzxcvcxbñzxcvcxbñzxcvcxbñzxcvcxbñzxcvcxbñzxcvcxbñzxcvcxbñzxcvcxbñzxcvcxbñzxcvcxbñzxcvcxbñzxcvcxbñzxcvcxbñzxcvcxbñzxcvcxbñzxcvcxbñzxcvcxbñ
+
+[s20][ocean] word_rate=0.000 n_runs=1
+yrbzzwgfmxnlqjkthdoawzvkthdoaowzvkthdoaowzvkthdoaowzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawzvkthdoawz
+
+[s20][ocean] word_rate=0.000 n_runs=1
+ybpvhxrnztfegkswmcduoljqnpbvhxrnztfegkswmcduoljqnpbvhxrnztfegkswmcduoljqnpbvhxrnztfegkswmcduoljqnpbvhxrnztfegkswmcduoljqnpbvhxrnztfegkswmcduoljqnpbvhxrnztfegkswmcduoljqnpbvhxrnztfegkswmcduoljqnpbvhxrnztfegkswmcduoljqnpbvhxrnztfegkswmcduoljqnpbvhxrnztfegkswmcduoljqnpbvhxrnztfegkswmcduoljqnpbvhxrnztfegkswmcduoljqnpbvhxrnztfegkswmcduoljqnpbvhxrnztfegkswmcduoljqnpbvhxrnztfegkswmcduoljqnpbvhxrnztfegkswmcduoljqnpbvhxrnztfegkswmcduoljqnpbvhx
+
+[s20][ocean] word_rate=0.000 n_runs=22
+yrblvqfjntkpzmxdwsogeuajhxvcñopzjqgwytxkxkzxcvbxnmskzxcvbnmtrwñpqñmqñxñqjññzcvbncvbnmdaweruıyuytyutıoıyuiyuytudıyuytuyıuuytuyüytudıyytuduıuytduytuıyuıytuyuyytuytyuyüttıuytyuytuıutytyuytuıytuyutytyuyütiuytdytuyudıyteiuytyuyttyuyuyuyyttuıtyuyutyuyuyuttıuytyuytyuyttytytuıtyuyuytyutyuyuyuyyytuıtyuyuyuyytuyuyyyyytyuyuoyuyytuyuytyuyuuuyttuyuyuyuyuyyyytuyuytyuytyuyuyuyyyyyyytyuyuoyuytuıtyuyuyttyuyuyuyyyyyyyytyuyuoyuytuıtyuyuyttyuyuyuyyyyyyyttuyuyuyuyyyyyyyuyuyuyyuyyuty
+
+[s20][ocean] word_rate=0.000 n_runs=1
+zpvxgmkctjnpbrcqswtfdlyeuoaipxvnhqswuyjpdvfnwsxwutvnbdfkjynqxcvbnmqjndkjhqlkjdnkllkjdfnjklnnjkdncvbnmjqjnkldnfncvjfncvbmdnlkjdnkjlnqjklmnjklmnhqxyzwxwvxbzxcvgntgntgfntyfgyzwxwvcvbgzxcvgntjkyzxcvgntygfntyfgyzxwxwytxvcgbntjkyzxcvgntgfntyfgyzxccnvbnyxzxwytfgyzxwxwytfgyzxwytxvcngtxwcgntjkyzxcvgntyfgyzwcgntjykzxcvgntyfgyzxcvbdnlkjdnkjlnqjklmnjklmnhqxywxcvbnmgntjkyzxcvgntgfntyfgyzcvngntjkyzxcvgntyfgyzcvxncbndnlkjdnkjlnqjklmnhqxywxwytfgyzx
+
+[s20][ocean] word_rate=nan n_runs=0
+yn v q s r h u x t d w m p o n g l k f j e ç ç ö å ø ß ρ μ Ω π ε ζ σ λ ϑ τ ψ φ δ δ γ β α ω 🌂 🌊 🌥 🌐
+
+[s20][ocean] word_rate=0.000 n_runs=1
+yg xdbnphjtkvoaqrlmswcuzêt
+
+[s20][ocean] word_rate=nan n_runs=0
+yn r j h x o u d v s t p b n g w k l m c f e a i y u ṧ ḳ ɐ ɔ ɥ ɓ ɗ ɖ œ ŋ ā ẹ ỹ ʇ ʌ ɶ ɛ̃ ɷ ɸ ɜ ʁ œ̞ ɜ ɹ ɯ ɣ ɸ ɨ ɜ ɫ ɯ ʝ ɭ ɯ ɞ ɔ ʌ ɶ ɛ̃ ɷ ɸ ɜ ʁ œ̞ ɜ ɹ ɯ ɣ ɸ ɨ ɜ ɫ ɯ ʝ ɭ ɯ ɞ ɔ ʌ ɶ ɛ̃ ɷ ɸ ɜ ʁ œ̞ ɜ ɹ ɯ ɣ ɸ ɨ ɜ ɫ ɯ ʝ ɭ ɯ ɞ ɔ ʌ ɶ ɛ̃ ɷ ɸ ɜ ʁ œ̞ ɜ ɹ ɯ ɣ ɸ ɨ ɜ ɫ ɯ ʝ ɭ ɯ ɞ ɔ ʌ ɶ ɛ̃ 
+
+[s20][ocean] word_rate=nan n_runs=0
+yy vv xg zz ww aa ii oo ss uu tt xx yy vv ww gg ee rr aa uu ll ff oo ss xx ww gg ee rr aa uu ll ff oo ss xx ww gg ee rr aa uu ll ff oo ss xx ww gg ee rr aa uu ll ff oo ss xx ww gg ee rr aa uu ll ff oo ss xx ww gg ee rr aa uu ll ff oo ss xx ww gg ee rr aa uu ll ff oo ss xx ww gg ee rr aa uu ll ff oo ss xx ww gg ee rr aa uu ll ff oo ss xx ww gg ee rr aa uu ll ff oo ss xx ww gg ee rr aa uu ll ff oo ss xx ww gg ee rr aa uu ll ff oo ss xx ww gg ee rr aa uu ll ff oo ss xx ww gg ee rr aa uu ll ff oo ss xx ww gg ee rr aa uu ll ff oo ss xx ww gg ee rr aa uu ll ff oo ss xx ww gg ee rr aa uu ll ff oo ss xx ww gg ee rr aa uu ll ff oo ss xx ww gg ee rr aa uu ll ff oo ss xx ww gg ee rr aa uu ll ff oo ss xx ww gg ee rr aa uu ll ff oo ss xx ww gg ee rr aa uu ll ff oo ss
+
+[s20][ocean] word_rate=0.100 n_runs=10
+yg xke fnmt wps rnl tdo cjq yz vxe apn mbr lgt
+
+[s20][ocean] word_rate=0.067 n_runs=15
+yg jf zr xk vo pnh lq mws ntd rxc ujg pqk tbn hxe wpr aol nvt vym ptn ujq zry
+
+[s20][ocean] word_rate=0.000 n_runs=1
+ybpvnxqfgrztljmsnwcduohgqqjwsuqwyqfhynsmbjnhfjnhfjnhfjnhjnfjnhfjnhfjqybnxfvnljmlzcdrqfgrztljmsnuwvcjwvcjwvfghztnybxpvndwplzcdrqfgrztljmsnwvcjwvcjwvybnxpvndwplzcdrqfgrztljmsnuwvfghztnybxpvndwplzcdrqfgrztljmsnwvfghztnybxpvndwplzcdrqfgrztljmsnuwvfghztnybxpvndwplzcdrqxqfgrztljmsnuwvfghztnybxpvndwplzcdrqxqfgrztljmsnwcduohgxpbzrylncdrqfgrztljmsnvxczdybpmwplzcdrqxqmwhybvpczrqfgrztljmsnuwybpmwplzcdrqxqmwhybvpczrq
+
+[s20][ocean] word_rate=0.000 n_runs=1
+yhklrnpqvwzsdgfcxotmjbsnvzjwklrnpqvwzsdgfcxmjbsnytjwklrnpqvwzsdgfcxotmnvzjwklrnpqvwxojytsndgmfxcvtowynmjqvnzjwklrnpqvwzsdgfcxotmnvzjwklrnpqvwzsdgfcxotmnvzjwklrnpqvwzsdgfcxotmnvzjwklrqwytsndgmfxcvtowynmqvbnszjwklrnpqvwzsdgfcxotmnvzjwklrqwytsndgmfxcvtowynmqvbnszjwklrnpqvwzsdgfcxotmnvzjwklrqwytsndgmfxcvtowynmqvnzjsydgmfxcvtowynmjqvnzjwklrqwytsndgmfxcvtowynmjqvnzjsydgmfxcvtowynmqvbnszjqvnzjwklrqwytsndgmfxcvtowyn
+
+########## strength 40 ##########
+[s40][silence] word_rate=nan n_runs=0
+y s m b q x v z c p n w t u r ä ø ß ɛ ö ø Æ é è ê à á â ı ü ù ú û ô œ ö ô œ ² ³ ¹ ° ∞ ≪ ≫ ≤ ≥ ≅ ≠ ≡ ± ∓ ∨ ∴ ∵ ∂ ∮ ∬ ∴ ∭ ∰ ∰ ∰ ∱ ∲ ∳ ∰ ∱ ∳ ∱ ∳ ∰ ∱ ∳ ∱ ∳ ∰ ∱ ∳ ∱ ∳ ∰ ∱ ∳ ∱ ∳ ∰ ∱ ∳ ∱ ∳ ∰ ∱ ∳ ∱ ∳ ∰ ∱ ∳ ∱ ∳ ∰ ∱ ∳ ∱ ∳ ∰ ∱ ∳ ∱ ∳ ∰ ∱ ∳ ∱ ∳ ∰ ∱ ∳ ∱ ∳ ∰ ∱ ∳ ∱ ∳ ∰ ∱ ∳ ∱ ∳ ∰ ∱ ∳ ∱ ∳ ∰ ∱ ∳ ∱ ∳ ∰ ∱ ∳ ∱ ∳ �
+
+[s40][silence] word_rate=nan n_runs=0
+y z x w v u t s r q p o n m l k j i h g f e d c b àáæßçð÷€ìíłïììòóøùûýþÿýëâãëêìïíòóõùûüýþÿ÷øœ×±∓∞÷·−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−
+
+[s40][silence] word_rate=0.000 n_runs=1
+wqkzphmnftvslrxdujotncsqwy
+
+[s40][silence] word_rate=0.000 n_runs=32
+qjflkmwepnrdztxvcgbososxvwxkjqñuñuytvrñwopvñxqvsuqñtvrëwñtyuñvqsuxñtyùñvuòñxvñtyùñvqsuxëñtyüñvqsuxëñtyüñvqsuxëñtyüñvqsuxëñtyüñvqsuxëñtyüñvqsuxëñtyüñvqsuxëñtyüñvqsuxëñtyüñvqsuxëñtyüñvqsuxëñtyüñvqsuxëñtyüñvqsuxëñtyüñvqsuxëñtyüñvqsuxëñtyüñvqsuxëñtyüñvqsuxëñtyüñvqsuxëñtyüñvqsuxëñtyüñvqsuxëñtyüñvqsuxëñtyüñvqsuxëñtyüñvqsuxëñtyüñvqsuxëñtyüñvqsuxëñtyüñvqsuxëñ
+
+[s40][silence] word_rate=nan n_runs=0
+t r p o s v n e m x c q g y u w t z i b k l s h d f ä ß ε ϰ o Ϲ ∞ Ω ⨯ ⊥ ♦ ♢ ♡ ♢ ♣ ○ ◊ ∞ Ω ⨯ ⊥ ♦ ♢ ♡ ♢ ♣ ○ ◊ ∞ Ω ⨯ ⊥ ♦ ♢ ♡ ♢ ♣ ○ ◊ ∞ Ω ⨯ ⊥ ♦ ♢ ♡ ♢ ♣ ○ ◊ ∞ Ω ⨯ ⊥ ♦ ♢ ♡ ♢ ♣ ○ ◊ ∞ Ω ⨯ ⊥ ♦ ♢ ♡ ♢ ♣ ○ ◊ ∞ Ω ⨯ ⊥ ♦ ♢ ♡ ♢ ♣ ○ ◊ ∞ Ω ⨯ ⊥ ♦ ♢ ♡ ♢ ♣ ○ ◊ ∞ Ω ⨯ ⊥ ♦ ♢ ♡ ♢ ♣ ○ ◊ ∞ Ω ⨯ ⊥ ♦ ♢ ♡ ♢ ♣ ○ ◊ �
+
+[s40][silence] word_rate=0.000 n_runs=1
+qjnmwzrpltkysevxfdoaqz
+
+[s40][silence] word_rate=0.000 n_runs=1
+qtjlnwvdmzysxocafkspnzjqtkjqmzfwsxojyfnzjqtnzjqtxjqojqnjqkfnzjqtkjqmzfwsxojyzfwnzjqtnzjqtxjqojqnjqkfnzjqtkjqmzfwsxojyzfwnzjqtnzjqtxjqojqnzjqkfnzjqtkjqmzfwsxojyfnzjqtnzjqtxjqojqnjqkfnzjqtkjqmzfwsxojyzfwnzjqtnzjqtxjqojqnzjqkfnzjqtkjqmzfwsxojyzfwnzjqtnzjqtxjqojqnzjqkfnzjqtkjqmzfwsxojyzfwnzjqtnzjqtxjqojqnzjqkfnzjqtkjqmzfwsxojyfnzjqtnzjqtxjqojqnjqkfnzjqtkjqmzfwsxojyzfwnzjqtnzjqtxjqojqnzjqkfnzjqtkjqmzfwsxojyzfwnzjqtnzjqtxjqojq
+
+[s40][silence] word_rate=0.000 n_runs=5
+ym qzvnh xjot lkn xsv wqtx
+
+[s40][silence] word_rate=0.000 n_runs=1
+yhmxvznzgjltpqcbsdofwrsyn
+
+[s40][silence] word_rate=0.273 n_runs=11
+zyg wun yln xjv qnp tso hmv eul rzn pto cju
+
+[s40][silence] word_rate=0.000 n_runs=1
+qjfhmwtlpkrzvnbxdscyoaeuwegsuydhgfhkjqwvxztncbsakzxcvbncdshfgklmnoprstuvwxz
+
+[s40][silence] word_rate=nan n_runs=0
+y rq z t j n x u w p s m q v f r g h o l k bt y x z e a w s d f g h j k l μνω ζηθ
+
+[s40][silence] word_rate=0.000 n_runs=1
+yhvkzqcmwepfjsnrdxltgx
+
+[s40][silence] word_rate=0.000 n_runs=2
+yhrwzjfnslmkvbthxgqpñuwcdoaqv
+
+[s40][silence] word_rate=0.000 n_runs=1
+qjnfymwlpzkbtuxrghvadscnxewqtnbvcxz
+
+[s40][ocean] word_rate=nan n_runs=0
+yn r q tm x dz u j l e o n v p w b s m a y g k t f t l h o x u n c r z i p w k d q l m t n o t j l u b s w h n m x v r n d y p c z i u o x w s l n t q j x m v p c y o u b s w l z t r n d y p c z i u o x w s l n t q j x m v p c y o u b s w l z t r n d y p c z i u o x w s l n t q j x m v p c y o u b s w l z t r n d y p c z i u o x w s l n t q j x m v p c y o u b s w l z t r n d y p c z i u o x w s l n t q j x m v p c y o u b s w l z t r n d y p c z i u o x w s l n t q j x m v p c y o u b s w l z t r n d y p c z
+
+[s40][ocean] word_rate=0.000 n_runs=6
+yn rxl wu kbt xz jf mvo aq lp nxe pso jn tck
+
+[s40][ocean] word_rate=nan n_runs=0
+yn j v u t g m x s r o p l k d w f h n e ç ù à ï ó ä ë î ï ô ö ù û ð × ÷ ø ß ä ö û ù ÿ ñ é è ê à â ï ÷ ø û ù ÿ ñ é è ê à â ï ÷ ø û ù ÿ ñ é è ê à â ï ÷ ø û ù ÿ ñ é è ê à â ï ÷ ø û ù ÿ ñ é è ê à â ï ÷ ø û ù ÿ ñ é è ê à â ï ÷ ø û ù ÿ ñ é è ê à â ï ÷ ø û ù ÿ ñ é è ê à â ï ÷ ø û ù ÿ ñ é è ê à â ï ÷ ø û ù ÿ ñ é è ê à â ï ÷ ø û ù ÿ ñ é è ê à â ï ÷ ø û ù ÿ ñ é
+
+[s40][ocean] word_rate=nan n_runs=0
+yn u d x l j p o t r n m w k v e a s b c g f ï ð ÷ ø œ ™ ℀ å ö ž å ø Æ φ β π δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ ð ρ γ φ δ �
+
+[s40][ocean] word_rate=nan n_runs=0
+yg dz ph v n rl j ow t k x p s
+
+[s40][ocean] word_rate=0.125 n_runs=8
+yn jxl tps vmn rzb wyh ptf vcw klz
+
+[s40][ocean] word_rate=0.000 n_runs=3
+yn vzl kx hfw jpt rn wv uq xr oj ty
+
+[s40][ocean] word_rate=nan n_runs=0
+yn vk u x j l t s m p o n r w e d g f a c y b uy
+
+[s40][ocean] word_rate=0.000 n_runs=9
+yg qmf npvk jxl rbn pws xo kuy hnp tzc vjl
+
+[s40][ocean] word_rate=0.557 n_runs=61
+yn xr zm lu qv kp xz ot jf pbs xz p bts uj vo mkt xw yk tns wpx zy qo uj vnc mkt bts xz qx uj zmf gmx uj xo ltr zmf gmy xo ltr bmt uj yx mkt xws xz uj yx mkt xws xz uj xo ltr zmf xo ltr yx mkt xws xz uj yx mkt xws xz uj xo ltr zmf xo ltr yx mkt xws xz uj yx mkt xws xz uj xo ltr zmf xo ltr yx mkt xws xz uj yx mkt xws xz uj xo ltr zmf xo ltr yx mkt xws xz uj yx mkt xws xz uj xo ltr zmf xo ltr yx mkt xws xz uj yx mkt xws xz uj xo ltr zmf xo ltr yx mkt xws xz uj yx mkt xws xz
+
+[s40][ocean] word_rate=nan n_runs=0
+yg zd rh xj wv qn tk lp ms br oy vz ak jf
+
+[s40][ocean] word_rate=nan n_runs=0
+yn r h q v p o s t z j x m l u n w e d k g y ç ó ñ å ë ö ä ï ß à è ì ù û ñ ÷ ø Æ Þ ö æ ø Ð Ú Æ Ò Ý Þ Ë Ð Ú Æ Ò Ý Þ Ë Ð Ú Æ Ò Ý Þ Ë Ð Ú Æ Ò Ý Þ Ë Ð Ú Æ Ò Ý Þ Ë Ð Ú Æ Ò Ý Þ Ë Ð Ú Æ Ò Ý Þ Ë Ð Ú Æ Ò Ý Þ Ë Ð Ú Æ Ò Ý Þ Ë Ð Ú Æ Ò Ý Þ Ë Ð Ú Æ Ò Ý Þ Ë Ð Ú Æ Ò Ý Þ Ë Ð Ú Æ Ò Ý Þ Ë Ð Ú Æ Ò Ý Þ Ë Ð Ú �
+
+[s40][ocean] word_rate=nan n_runs=0
+yn r h j x q s v m p t u e o n l w x g y b d c f k
+
+[s40][ocean] word_rate=0.000 n_runs=1
+yg zd br jn xw pu vq af rj tnx
+
+[s40][ocean] word_rate=0.000 n_runs=25
+yg zd rh xj pvn kq mt uo ew xj pvn kq mt uo ew xj pvn kq mt uo ew xj pvn kq mt uo ew xj pvn kq mt uo ew xj pvn kq mt uo ew xj pvn kq mt uo ew xj pvn kq mt uo ew xj pvn kq mt uo ew xj pvn kq mt uo ew xj pvn kq mt uo ew xj pvn kq mt uo ew xj pvn kq mt uo ew xj pvn kq mt uo ew xj pvn kq mt uo ew xj pvn kq mt uo ew xj pvn kq mt uo ew xj pvn kq mt uo ew xj pvn kq mt uo ew xj pvn kq mt uo ew xj pvn kq mt uo ew xj pvn kq mt uo ew xj pvn kq mt uo ew xj pvn kq mt uo ew xj pvn kq mt uo ew xj p
+
+########## strength 60 ##########
+[s60][silence] word_rate=nan n_runs=0
+y s h e v j x q n t u w m o p r g f s l t y v q s m r p g l h t y z w m v y s h e v j x q n t u w m o p r g f s l t y v q s m r p g l h t y z w m v y s h e v j x q n t u w m o p r g f s l t y v q s m r p g l h t y z w m v y s h e v j x q n t u w m o p r g f s l t y v q s m r p g l h t y z w m v y s h e v j x q n t u w m o p r g f s l t y v q s m r p g l h t y z w m v y s h e v j x q n t u w m o p r g f s l t y v q s m r p g l h t y z w m v y s h e v j x q n t u w m o p r g f s l t y v q s m r p g l h t y z
+
+[s60][silence] word_rate=0.000 n_runs=1
+yqhwhwhwhwhehehehlhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhx
+
+[s60][silence] word_rate=nan n_runs=0
+y z w x v t u n s r p q o m l k j ἀ ε ζ φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω ε φ ψ ω
+
+[s60][silence] word_rate=0.000 n_runs=1
+qjfmwypnlkvztxeoasdwzqxu
+
+[s60][silence] word_rate=0.000 n_runs=1
+yvzwhnemtqxdslkxpovzwhnemtqxdslkxpovzwhnemtqxdslkxpovzwhnemtqxdslkxpovzwhnemtqxdslkxpovzwhnemtqxdslkxpovzwhnemtqxdslkxpovzwhnemtqxdslkxpovzwhnemtqxdslkxpovzwhnemtqxdslkxpovzwhnemtqxdslkxpovzwhnemtqxdslkxpovzwhnemtqxdslkxpovzwhnemtqxdslkxpovzwhnemtqxdslkxpovzwhnemtqxdslkxpovzwhnemtqxdslkxpovzwhnemtqxdslkxpovzwhnemtqxdslkxpovzwhnemtqxdslkxpovzwhnemtqxdslkxpovzwhnemtqxdslkxpovzwhnemtqxdslkxpovz
+
+[s60][silence] word_rate=0.000 n_runs=1
+qjmflwpeknbtzxvzgdxwhywhglnxuwezlxuweywhgxklnxuwhhygxklnxuwezlxuwhhygndxuwezlxuwhhygxklnxuwhhygndxuwezlxuwhhygxklnxuwhhygndxuwhhygxklnxuwhyxuwezlxuwhhygndxuwhhygxklnxuwhyxuwezlxuwhhygndxuwhhygxklnxuwhyxuwezlxuwhhygndxuwhhygxklnxuwhyxuwezlxuwhhygndxuwhhygxklnxuwhyxuwezlxuwhhygndxuwhhygxklnxuwhyxuwhhygndxuwhhygxklnxuwhyxuwezlxuwhhygndxuwhhygxklnxuwhyxuwezlxuwhhygndxuwhhygxklnxuwhyxuwezlxuwhhygndxuwhhygxklnxuwhyxu
+
+[s60][silence] word_rate=0.000 n_runs=1
+ysezdlwhnxvotjrqmbpauncgwsdxqhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxvwhxv
+
+[s60][silence] word_rate=0.000 n_runs=1
+yvnhxzjtrlwemdoiqszpqhxiljqjgqjgqjgqxiljqjgqjgqxiljqjgqxiljqjgqjgqxiljqjgqxiljqjgqxiljqjgqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqjgqxiljqj
+
+[s60][silence] word_rate=0.000 n_runs=1
+yzeihnwlkvftjsxqjwhsnqxg
+
+[s60][silence] word_rate=nan n_runs=0
+y z q j x v t n w m s p e r q u o y z p s t n w x v u r pq w x s n y z p q v u r p s q n y z p s n y z p s u r pq w x s n y z p s v u r pq w x s n y z p s n y z p u r pq w x s n y z p s n y z p u r pq w x s n y z p s n y z p u r pq w x s n y z p s u r pq w x s n y z p s u r pq w x s n y z p s u r pq w x s n y z p s u r pq w x s n y z p s u r pq w x s n y z p s u r pq w x s n y z p s u r pq w x s n y z p s u r pq w x s n y z p s u r pq w x s n y z p s u r pq w x s n y z p s u r pq w x s n y z p s u r pq w x s n y z p s u r pq
+
+[s60][silence] word_rate=nan n_runs=0
+y hc x o e n v z s w r p q m t u s x b j g y f k l
+
+[s60][silence] word_rate=nan n_runs=0
+y z h n q j x v w t s m e r c d f g b o l k p i à á ñ ü ø œ ß œ ø í ò ó ï í à ý û ê ź ž ¿ é à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+[s60][silence] word_rate=nan n_runs=0
+y hc m q j x n v s t w z c p r e d g b o à ô è è ê ê î ù ù ù ö ø ë ê ê y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y y
+
+[s60][silence] word_rate=0.000 n_runs=1
+qjmflnhweoxtvzcsdampysgbuy
+
+[s60][silence] word_rate=0.000 n_runs=1
+qjmfwnslkvxptoizwzgqhvnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzjnzj
+
+[s60][ocean] word_rate=nan n_runs=0
+yh ng d w v m r o p e u t s j x y c n q w l k b d g f m t u o n r j x y c n q w l k b d g f m t u o n r j x y c n q w l k b d g f m t u o n r j x y c n q w l k b d g f m t u o n r j x y c n q w l k b d g f m t u o n r j x y c n q w l k b d g f m t u o n r j x y c n q w l k b d g f m t u o n r j x y c n q w l k b d g f m t u o n r j x y c n q w l k b d g f m t u o n r j x y c n q w l k b d g f m t u o n r j x y c n q w l k b d g f m t u o n r j x y c n q w l k b d g f m t u o n r j x y c n q w l k b d g f m t
+
+[s60][ocean] word_rate=nan n_runs=0
+yn xr zp wu ol jx rn tq dv kx mp εw βj uo mε yb gο ωp σx φj xq δs ñj υf ψg εo uo uq nβ βε ρj øy βx γw φm εz εj oε χj xq yl oε ψf γj βo ψm ψy γw ϕp øy øj εo γj εo oε χj εo uo uo ψf θj νm εo oε ϕx ρy χj xq yl øj oε ψf oε υf εy yl oε oε χj εo ψf γj βo ψm ψy γw ϕp øy øj εo γj εo oε χj εo uo uo ψf θj νm εo χj xq yl øj oε ψf oε uo uq nβ βε ρj øy ψm ψy
+
+[s60][ocean] word_rate=nan n_runs=0
+yn r j x t o u p s v m e d n y w q h s p z o f l j g w k e x b n m t i u o j y l k w o x y n u o r d p s v m e d n y w q h s p z o f l j g w k e x b n m t i u o j y l k w o x y n u o r d p s v m e d n y w q h s p z o f l j g w k e x b n m t i u o j y l k w o x y n u o r d p s v m e d n y w q h s p z o f l j g w k e x b n m t i u o j y l k w o x y n u o r d p s v m e d n y w q h s p z o f l j g w k e x b n m t i u o j y l k w o x y n u o r d p s v m e d n y w q h s p z o f l j g w k e x b n m t i u o j y l k
+
+[s60][ocean] word_rate=nan n_runs=0
+yn dw r e u o x v j m p s t l k w n q h y g f e d c ρ Ω ψ ð û ɛ ø ʁ ì ø ɔ ː œ ÷ ɸ ĩ ð ɐ ì ø ɸ ː ː ː ː ɸ ẽ ː ː ː ɸ ː ː ː ɸ ː ː ː ɸ ː ː ː ɸ ː ː ː ɸ ː ː ː ɸ ː ː ː ɸ ː ː ː ɸ ː ː ː ɸ ː ː ː ɸ ː ː ː ɸ ː ː ː ɸ ː ː ː ɸ ː ː ː ɸ ː ː ː ɸ ː ː ː ɸ ː ː ː ɸ ː ː ː ɸ ː ː ː ɸ ː ː ː ɸ ː ː ː ɸ ː ː ː ɸ ː ː 
+
+[s60][ocean] word_rate=0.500 n_runs=2
+yh nx uq rg dnp tvo wj xz eo rl jx aq kx
+
+[s60][ocean] word_rate=0.053 n_runs=114
+yn jx sw vq zp ot br ym rn uj kx lq wg xo dy nq az pvn tjl mxe dzt ohg vo nrl wjy rxd bku icy pxm tux pvy ron yz vjp zxc xdl gmt ecx hxl ecu zxm dzy vlw yxa zcy xul yxz gml zcd xul pvy yxz oht zxc xul pvy yxz oht zxc xul pvy yxz oht zxc xul pvy yxz oht zxc xul pvy yxz oht zxc xul pvy yxz oht zxc xul pvy yxz oht zxc xul pvy yxz oht zxc xul pvy yxz oht zxc xul pvy yxz oht zxc xul pvy yxz oht zxc xul pvy yxz oht zxc xul pvy yxz oht zxc xul pvy yxz oht zxc xul pvy yxz oht zxc xul pvy yxz oht zxc xul pvy yxz oht
+
+[s60][ocean] word_rate=nan n_runs=0
+yn lq jx ot rj xz vm yu wp kr oh nq ae uo az uj ly zp vo εt wu gq xj rx fj zr oj uo nq xj kx uq yv εt xo mq uj xr øq zy gq yv uj øq yv oj øq zy uq yv zr uj xr øq øq yv gq yv øq yv yv øq yv øq yv yv øq yv øq yv yv yv øq yv øq yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv yv
+
+[s60][ocean] word_rate=0.000 n_runs=1
+yhbdcxzzjwnmrlvofkuphtwzqecxnjhygjxvfynbxdzlhxzzjwnmrlvofkuphtwzqecxnjhygjxvfynbxdzlhxzzjwnmrlvofkuphtwzqecxnjhygjxvfynbxdzlhxzzjwnmrlvofkuphtwzqecxnjhygjxvfynbxdzlhxzzjwnmrlvofkuphtwzqecxnjhygjxvfynbxdzlhxzzjwnmrlvofkuphtwzqecxnjhygjxvfynbxdzlhxzzjwnmrlvofkuphtwzqecxnjhygjxvfynbxdzlhxzzjwnmrlvofkuphtwzqecxnjhygjxvfynbxdzlhxzzjwnmrlvofkuphtwzqecxnjhygjxvfynbxdzlhxzzjwnmrlvofkuphtwzqecxnjhyg
+
+[s60][ocean] word_rate=nan n_runs=0
+yg dz r nl v jx pq w s u t o n p h l m r k b c e g f ž ï ÷ ø ö å å ä Æ Æ Ø Æ Æ ï ö á û ù ñ ß ß ð ì ì ñ û ù ï ò ò ò û ù ï ò ò ñ ï ù û ù ñ ï ò ò î ó û ù ï ò ò ñ ï ù û ù ñ ï ò ò ñ ï ù û ù ñ ï ò ò ï ù û ù ñ ï ò ò ñ ï ù û ù ñ ï ò ò ñ ï ù û ù ñ ï ò ò ï û ù ï ò ò ñ ï ù û ù ñ ï ò ò ñ ï ù û ù l ï ù û ù
+
+[s60][ocean] word_rate=0.000 n_runs=9
+yn rlm xcv jpf zo tks nwb ej ojx lp muf nsl yw ujq
+
+[s60][ocean] word_rate=0.000 n_runs=12
+yn jx sw vo ae kr lu oq zd tnp mxf ecy rjb wu xlv dpe ntf gkj oxt ylp azs mwv
+
+[s60][ocean] word_rate=nan n_runs=0
+yn br z j x m ot u d s r w p n o t e l k h j x l v p y b o w q d t u w i r p n c n l o j n d x g x e r y b j i m l n o r n w x m x h p z h p d t w m u l p o o i b z b z i r l o k w o d x z y z h o l k p e m o o h o n h i i o m o w u n l h j x i x y x g z o o o h g z o i m l n n o r n n o l l o j n d x h g x e r y b j i m l n o r n w x m x h p z h p d t w m u l p o o i b z b z i r l o k w o d x z y z h o l k p e m o o h o n h i i o m o w u n l h j x i x y x g z o o o h g z o i m l n n o r n n o l l o j n d x h
+
+[s60][ocean] word_rate=0.000 n_runs=37
+yn wr kx jf zp vq xo nq uy tsv xe oj ap wg mbr uxl dz gk jf xo nq uy tsv xe oj ap wg mbr uxl dz gk jf xo nq uy tsv xe oj ap wg mbr uxl dz gk jf xo nq uy tsv xe oj ap wg mbr uxl dz gk jf xo nq uy tsv xe oj ap wg mbr uxl dz gk jf xo nq uy tsv xe oj ap wg mbr uxl dz gk jf xo nq uy tsv xe oj ap wg mbr uxl dz gk jf xo nq uy tsv xe oj ap wg mbr uxl dz gk jf xo nq uy tsv xe oj ap wg mbr uxl dz gk jf xo nq uy tsv xe oj ap wg mbr uxl dz gk jf xo nq uy tsv xe oj ap wg mbr uxl dz gk jf xo nq uy tsv xe oj ap wg mbr uxl dz gk jf xo nq uy tsv
+
+[s60][ocean] word_rate=0.000 n_runs=47
+yhqsdkjeoaxvfnpwuemjxuohydzxcvaõçwuoaxvpwuyjçqëdooaxvõwuyjçãwxoaüñcðoaxvõwuyjçãwxoaüñcðoaxvõwuyjçãwxoaüñcðoaxvõwuyjçãwxoaüñcðoaxvõwuyjçãwxoaüñcðoaxvõwuyjçãwxoaüñcðoaxvõwuyjçãwxoaüñcðoaxvõwuyjçãwxoaüñcðoaxvõwuyjçãwxoaüñcðoaxvõwuyjçãwxoaüñcðoaxvõwuyjçãwxoaüñcðoaxvõwuyjçãwxoaüñcðoaxvõwuyjçãwxoaüñcðoaxvõwuyjçãwxoaüñcðoaxvõwuyjçãwxoaüñcð
+
+[s60][ocean] word_rate=nan n_runs=0
+yn uo xr jv pz sl wv nq xm ly gt
+
+########## strength 80 ##########
+[s80][silence] word_rate=0.000 n_runs=1
+yseozjxlmvwhnqtxwzsqxilnzxsixnzwhynxixsuyuwhynyxizynsinyzynuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyxinyznuwhynyx
+
+[s80][silence] word_rate=0.000 n_runs=1
+yseuwhmnftvzqxteynwhnzvwxuwhnzvwtuhwehnztuwqxwhzqytwhnztwqxuwhnzvhnuwhnxuwhnzvwhnxtuwhnxwqxuwhnzvwhnxtuwhnxwqxuwhnzvwhnxtuwhnxwqxuwhnzvwhnxtuwhnxwqxuwhnzvwhnxtuwhnxwqxuwhnzvwhnxtuwhnxwqxuwhnzvwhnxtuwhnxwqxuwhnzvwhnxtuwhnxwqxuwhnzvwhnxtuwhnxwqxuwhnzvwhnxtuwhnxwqxuwhnzvwhnxtuwhnxwqxuwhnzvwhnxtuwhnxwqxuwhnzvwhnxtuwhnxwqxuwhnzvwhnxtuwhnxwqxuwhnzvwhnxtuwhnxwqxuwhnzvwhnxtuwhnxwqxuwhnzvwhnxtuwhnxwqxuwhnzvwhnxtuwhnx
+
+[s80][silence] word_rate=0.000 n_runs=1
+qjmwhjnfymvzslktxwonderspeaksignihuwjlqwhnqimynxynslhwhnynslhynslhynslhwhnynslhxynslhynslhynslhxynslhynslhynslhxynslhynslhynslhxynslhynslhxynslhynslhynslhxynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhynslhyn
+
+[s80][silence] word_rate=nan n_runs=0
+y s e v b m q z w n p x ∞ ø ∅ ε ¬ ¬ ∅ ∞ y s e v b m q z w n p x ∞ ø ∅ ε ¬ ¬ ∅ ∞ y s e v b m q z w n p x ∞ ø ∅ ε ¬ ¬ ∅ ∞ y s e v b m q z w n p x ∞ ø ∅ ε ¬ ¬ ∅ ∞ y s e v b m q z w n p x ∞ ø ∅ ε ¬ ¬ ∅ ∞ y s e v b m q z w n p x ∞ ø ∅ ε ¬ ¬ ∅ ∞ y s e v b m q z w n p x ∞ ø ∅ ε ¬ ¬ ∅ ∞ y s e v b m q z w n p x ∞ ø ∅ ε ¬ ¬ ∅ ∞ y s e v b m q z w n p x ∞ ø ∅ ε ¬ ¬ ∅ ∞ y s e v b m q z w n p x ∞ ø ∅ ε ¬ ¬ ∅ ∞ y s e v b m q z w n p x ∞ ø �
+
+[s80][silence] word_rate=nan n_runs=0
+y s z m n w v t x b e f静 黑 眼 无 谁 静 黑 默 黄 完 缺 白 安 怕 昙 静 默 黄 完 缺 白 安 怕 昙 静 默 黄 完 缺 白 安 怦 静 默 黄 完 缺 白 安 怟 静 默 黄 完 缣 白 安 怟 静 默 黄 完 缣 白 安 态 静 默 黄 完 缣 白 安 态 静 默 黄 完 缣 白 安 态 静 静 默 黄 完 缣 白 安 态 静 静 默 黄 完 缠 白 安 态 静 静 默 黄 完 缠 白 安 怃 静 静 默 黄 完 缨 白 安 怃 静 静 默 黄 �
+
+[s80][silence] word_rate=nan n_runs=0
+y s z m w p l n e r q x v t u ô ó ŋ ṛ ṝ ṱ ê ṏ Ṑ Ṑ ê ô ô ŋ ṛ ṟ ṱ ê ṏ Ṑ ê ô ô ŋ ṛ ṟ ṱ ê ṏ Ṑ ê ô ô ŋ ṛ ṟ ṱ ê ṏ Ṑ ê ô ô ŋ ṛ ṟ ṱ ê ṏ Ṑ ê ô ô ŋ ṛ ṟ ṱ ê ṏ Ṑ ê ô ô ŋ ṛ ṟ ṱ ê ṏ Ṑ ê ô ô ŋ ṛ ṟ ṱ ê ṏ Ṑ ê ô ô ŋ ṛ ṟ ṱ ê ṏ Ṑ ê ô ô ŋ ṛ ṟ ṱ ê ṏ Ṑ ê ô ô ŋ ṛ ṟ ṱ ê ṏ Ṑ ê ô ô ŋ ṛ
+
+[s80][silence] word_rate=0.000 n_runs=1
+ywhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmvwhzsnlmv
+
+[s80][silence] word_rate=0.000 n_runs=1
+qzjmfvwhxnytqoεvδεμεφεμφqζvδεοεεευεφεεεεεεεφεφεεευεφεεεεεεεφεψεεευεφεεεεεεεφεφεεευεφεεεεεεεφεψεεευεφεεεεεεεφεφεεευεφεεεεεεεφεψεεευεφεεεεεεεφεφεεευεφεεεεεεεφεψεεευεφεεεεεεεφεφεεευεφεεεεεεεφεψεεευεφεεεεεεεφεφεεευεφεεεεεεεφεψεεευεφεεεεεεεφεφεεευεφεεεεεεεφεψεεευεφ
+
+[s80][silence] word_rate=0.000 n_runs=1
+qjwzmfytnlxvwhsqrtdgwisxqxuwhzwhxswhzwhsudwutdwhzwhsxdwhzwhsudwutdwhzwhsxdwhzwhsudwutdwhzwhsxdwhzwhsudwutdwhzwhsudwutdwhzwhsudwutdwhzwhsudwutdwhzwhsudwutdwhzwhsudwutdwhzwhsudwutdwhzwhsudwutdwhzwhsudwutdwhzwhsudwutdwhzwhsudwutdwhzwhsudwutdwhzwhsudwutdwhzwhsudwutdwhzwhsudwutdwhzwhsudwutdwhzwhsudwutdwhzwhsudwutdwhzwhsudwutdwhzwhsudwutdwhzwhsudwutdwhzwhsudwutdwhzwhsudwutdwhzwhsudwutdwhzwh
+
+[s80][silence] word_rate=0.000 n_runs=1
+qywhnlfjmsztxvuwetkparenwhuivszyxnegqjzwhuntixvswtygnhxlnzwhxuntixwytzvsnhxtwusynghlzxvtyxnzwhlxynhzwhuivswytzvslwhuxnhytznwhuxnytzvhnxlwhuntizwysnxlhuzwhxuntixwiszwhuxnythinxlzwhxuntixwysnhyzwhuxnyzwhuntixwhuivswytsnyhtxlnzwhhxlnzwhuivswytzvnhyzwhuxnyzwhuntixwhuivswytsnyhtzwhhxlnzwhuivswytsnyhtzwhuxnyzwhuntixwhuivswytsnyhtzwhhxlnzwhuivswytsnyhtzwhuxnyzwhuntixwhuivswytsnyhtzwhhxlnzwhuivswytsnyhtzwhuxnyzwhuntixwhuivswytsnyhtzwhhxlnzwhuivswytsnyhtz
+
+[s80][silence] word_rate=0.000 n_runs=1
+yhflsnmxjwveqtzparenwhoxzynhxwqvnxswhywhywhyxqywhywhywhywhywhywhywhyxqywhywhywhywhywhywhywhyxqywhywhywhywhywhywhywhyxqywhywhywhywhywhywhywhyxqywhywhywhywhywhywhywhyxqywhywhywhywhywhywhywhyxqywhywhywhywhywhywhywhyxqywhywhywhywhywhywhywhyxqywhywhywhywhywhywhywhyxqywhywhywhywhywhywhywhyxqywhywhywhywhywhywhywhyxqywhywhywhywhywhywhywhyxqywhywhywhywhywhywhywhyxqywhywhywhywhywhywhywhyxqywhywhywh
+
+[s80][silence] word_rate=0.000 n_runs=1
+yseohwzqnmrtlknwhysxvuwlnxuwzqxvuwqxlwhynvuwqxlhynvuwqnlwhynwhynxuwzqxvuwqnlhxynwhynxuwhynxuwzqxvuwqnlhxynwhynxuwhynxuwhynxuwzqxvuwqnlhxynwhynxuwhynxuwhynxuwzqxvuwqnlhxynwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhynxuwhyn
+
+[s80][silence] word_rate=0.000 n_runs=1
+yhlnmzjvoiwyswzqxkthxynqhynuwhwhwhwhwhwhqzwhqzwhvwhwhwhwhwhqzwhqzwhwhwhwhwhwhuwhuwhuwhwhwhwhwhuwhuwhuwhwhwhwhwhuwhuwhuwhwhwhwhwhuwhuwhuwhwhwhwhwhuwhuwhuwhwhwhwhwhuwhuwhuwhwhwhwhwhuwhuwhuwhwhwhwhwhuwhuwhuwhwhwhwhwhuwhuwhuwhwhwhwhwhuwhuwhuwhwhwhwhwhuwhuwhuwhwhwhwhwhuwhuwhuwhwhwhwhwhuwhuwhuwhwhwhwhwhuwhuwhuwhwhwhwhwhuwhuwhuwhwhwhwhwhuwhuwhuwhwhwhwhwhuwhuwhuwhwhwhwhwhuwhuwhuwhwhwhwhwhuwhuwhuwhwhwhwhwhuwhuwhuwhwhwhwhwhuwhuwhuwhwhwhwh
+
+[s80][silence] word_rate=1.000 n_runs=4
+y q x z m n w p o v t s e r y u silence darkness whispers echoes∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
+
+[s80][silence] word_rate=0.000 n_runs=1
+yseuwhzlmntovxwqjmvqzuywhzsuohvwhzusuywhzsuohvwhzuszuywhzsuohvwhzuzuywhzsuohvwhzuszuywhzsuohvwhzuszuywhzsuohvwhzuszuywhzsuohvwhzuszuywhzsuohvwhzuszuywhzsuohvwhzuszuywhzsuohvwhzuszuywhzsuohvwhzuszuywhzsuohvwhzuszuywhzsuohvwhzuszuywhzsuohvwhzuszuywhzsuohvwhzuszuywhzsuohvwhzuszuywhzsuohvwhzuszuywhzsuohvwhzuszuywhzsuohvwhzuszuywhzsuohvwhzuszuywhzsuohvwhzuszuywhzsuohvwhzuszuywhzsuohvwhzuszuywhzsuohvwhzuszuywhzsuohvwhzuszuywhzsuohvwhzuszuywhzsuohvwh
+
+[s80][ocean] word_rate=nan n_runs=0
+yy jx oq wv zr am tj yx uo xj az kx oo zp yx qj yx uo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj az kx oo xj
+
+[s80][ocean] word_rate=nan n_runs=0
+yg dz r q f n p j o w u e m x l k t s b y v m h o e g d o n y j w q x u c p r m l x d n s e o w r t y u n g f z d w o e r l k q h j n d o m x l k t y u n g f z d w o e r l k q h j n d o m x l k t y u n g f z d w o e r l k q h j n d o m x l k t y u n g f z d w o e r l k q h j n d o m x l k t y u n g f z d w o e r l k q h j n d o m x l k t y u n g f z d w o e r l k q h j n d o m x l k t y u n g f z d w o e r l k q h j n d o m x l k t y u n g f z d w o e r l k q h j n d o m x l k t y u n g f z d w o e r l k q h
+
+[s80][ocean] word_rate=0.000 n_runs=2
+YN zd qj xw uo np ekt rj x mhy l p w u x z o w x d x d q j w x e o j y n y d x w u o y n y d x w e o j y n y d x z o x y x o x y x q j w x y o x y x o x y x z o x y x o x y x z o x y x o x y x z o x y x o x y x z o x y x o x y x z o x y x o x y x z o x y x o x y x z o x y x o x y x z o x y x o x y x z o x y x o x y x z o x y x o x y x z o x y x o x y x z o x y x o x y x z o x y x o x y x z o x y x o x y x z o x y x o x y x z o x y x o x y x z o x y x o x y x z o x y x o x y x z o x y x o x y x z o x y x o
+
+[s80][ocean] word_rate=0.000 n_runs=1
+yh xz qj wu np ot fjm e r ly d w n k h j x o p u z e m v y r c w l s k t b g o m y e b d z e j x n o m y r k w i l e z e o p u n y j x n o r e o m y w i l e o m y r z e n o m y w i l e o m y r u n y j x n o r e o m y w i l e o m y r e o m y w i l e o m y r e o m y w i l e o m y r u n y j x n o r e o m y w i l e o m y r z e n o m y w i l e o m y r u n y j x n o r e o m y w i l e o m y r e o m y w i l e o m y r e o m y w i l e o m y r u n y j x n o r e o m y w i l e o m y r e o m y w i l e o m y r u n y j x n
+
+[s80][ocean] word_rate=nan n_runs=0
+yg dz qj xw rn ym ot eo uj xe vq ak øx pü cę jx yl dž hı xz ßj wå oö yå gä yf lü qø öð äy wä yf lü zr yj öä yf lü äy wä yf lü yj öä yf lü zr yj öä yf lü yj öä yf lü yj öä yf lü zr yj öä yf lü yj öä yf lü yj öä yf lü zr yj öä yf lü yj öä yf lü yj öä yf lü yj öä yf lü zr yj öä yf lü yj öä yf lü yj öä yf lü yj öä yf lü yj öä yf lü zr yj öä yf lü yj öä yf lü yj öä yf lü yj öä yf lü yj öä yf l
+
+[s80][ocean] word_rate=nan n_runs=0
+y q h d n r e o u w p m j x l k b s t u o v e z e x d n r y w o u m j x l k b s t u o v e z e x d n r y w o u m j x l k b s t u o v e z e x d n r y w o u m j x l k b s t u o v e z e x d n r y w o u m j x l k b s t u o v e z e x d n r y w o u m j x l k b s t u o v e z e x d n r y w o u m j x l k b s t u o v e z e x d n r y w o u m j x l k b s t u o v e z e x d n r y w o u m j x l k b s t u o v e z e x d n r y w o u m j x l k b s t u o v e z e x d n r y w o u m j x l k b s t u o v e z e x d n r y w o u m j x
+
+[s80][ocean] word_rate=nan n_runs=0
+yg dz o jx w q np m r e u y x d w v j t n p o z r k l e u w x d y g y n q k x c o u d y e q y n o p u o z y j w x i x c y j w x i z k l d y g x o u d o z y x y w i z k l d y g x o u d o z y x y w i z k l d y g x o u d o z y x y w i z k l d y g x o u d o z y x y w i z k l d y g x o u d o z y x y w i z k l d y g x o u d o z y x y w i z k l d y g x o u d o z y x y w i z k l d y g x o u d o z y x y w i z k l d y g x o u d o z y x y w i z k l d y g x o u d o z y x y w i z k l d y g x o u d o z y x y w i z k l d y
+
+[s80][ocean] word_rate=0.247 n_runs=85
+YN lq zj xw oq nrx uae kx gvf ymj rxd pvn bmt xo xz eot ynx uae qjp vzl wv xz oq nrx uae kx gvf ymj rxd pvn bmt xo xz eot ynx uae qjp vzl wv xz oq nrx uae kx gvf ymj rxd pvn bmt xo xz eot ynx uae qjp vzl wv xz oq nrx uae kx gvf ymj rxd pvn bmt xo xz eot ynx uae qjp vzl wv xz oq nrx uae kx gvf ymj rxd pvn bmt xo xz eot ynx uae qjp vzl wv xz oq nrx uae kx gvf ymj rxd pvn bmt xo xz eot ynx uae qjp vzl wv xz oq nrx uae kx gvf ymj rxd pvn bmt xo xz eot ynx uae qjp vzl wv xz oq nrx
+
+[s80][ocean] word_rate=0.000 n_runs=1
+yrgblwnoocxhvfjxwetnpoceesxoohxdnzxxntxzoooxygxeoooohydooohooooyjxnxooooyooohooohxdoooonyynxxyooohnxxxyoxyoooohooohnxxyxnxxxxyynoxxyooohxyxyxxyoohydoooohydooohydooohydoooohydoooohydooohydooohydooohydooohydooohydoooohydooohydoooohydooohydoooohydooohydooohydoooohydooohydooohydoooohydooohydooohydoooohydoooohydooohydoooohydoooohydoooohydoooohydooohydoooohydooohydoooohydoooohydoooohydooohydoooohydoooohydoooohydoooohydoooohydoooohydoooohydoooohydoooohydoooohydoooohydoooohydoooohydoooohydoooohydoooohydoooohydoooohydoooohydoooohydoooohydoooohydoooohydooo
+
+[s80][ocean] word_rate=0.000 n_runs=1
+yhojxnczvepwdufrltmeoaauocehlwmxoocnzecozoooohyyyyyyezoooollllwwwwwwwaaaannnnnyoooooooonyyyyyyyeeaaaaaatttttiiiiiiveeeeeaaanddddeeoommmmaannddddjjjjjjjjjjeeeeeeerrrrrrrrreeeoooooooonnnnnttttiiiiiiiiimmmmmmmoooonggggggeeeeeeeeeeeeeeefffffiiiiimmmyooooooooooowwwwwwwwwwwweeeeeeeeeeeeeeerrrrrrrrrrrllllllddddddddoooonneeeeeeerrrrrrrrrrrsssssooooouuullllllllllllfffiiiiiiimmmmmmmmaaannddddddoooonnngggggeeeeeeeeeeeeeeeeffiiooorrrrroooooooonttttttttiiaammmaammmyyyyyyyoorrrrreeeeennnnnnnnttttttttthhhheeeeoooooccceeeeaannnnyyooooooooooowwwwwwwwwwwwwwwwwwwwwwwwwwfiiiiiiiiimmmmmmmmmmmmmmmm
+
+[s80][ocean] word_rate=0.000 n_runs=1
+YN lq dnx oj xz r yf u p b t w n e r q j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m h s o j x l m
+
+[s80][ocean] word_rate=0.000 n_runs=1
+yrgblmnjwvfecdlwveocjfdgfcdojgdncldoaofcgdnojfgdojfhgdojfghjdfojgdncldoawefgdfjgdojfdgojghjdoojfghjdfogdfhojfdfgdncldojfghjdfogdfhojfdfgdncldoaofgfdojgdncldoawefgdfjgdojfdgojghjdoojfghjdfogdfhojfdfgdncldojfghjdfogdfhojfdfgdncldoaofgfdojgdncldoawefgdfjgdojfdgojghjdoojfghjdfogdfhojfdfgdncldojfghjdfogdfhojfdfgdncldoaofgfdojgdncldoawefgdfjgdojfdgojghjdoojfghjdfogdfhojfdfgdncldojfghjdfogdfhojfdfgdncldoaofgfdojgdncldoawefgdfjgdojfdgojghjdoojfghjdfogdfhoj
+
+[s80][ocean] word_rate=0.000 n_runs=3
+yn jx qdw eoa vcm rn xj xk ym zr oh nq wu ap uj xj yv xj xk ym zr oh nq wu ap uj xj yv xj xk ym zr oh nq wu ap uj xj yv xj xk ym zr oh nq wu ap uj xj yv xj xk ym zr oh nq wu ap uj xj yv xj xk ym zr oh nq wu ap uj xj yv xj xk ym zr oh nq wu ap uj xj yv xj xk ym zr oh nq wu ap uj xj yv xj xk ym zr oh nq wu ap uj xj yv xj xk ym zr oh nq wu ap uj xj yv xj xk ym zr oh nq wu ap uj xj yv xj xk ym zr oh nq wu ap uj xj yv xj xk ym
+
+[s80][ocean] word_rate=0.000 n_runs=1
+yrgblwnjxocepfuozxtkxhgzxdzfozmxohxgxdooxxgzxhxdooxooxgzxhxdooxohgxohxoooxxgzxdooxohxgxdooxohxgxohxoooxxgzxdooxohxgxdxdoooxxgzxhxdooxohxgxohxoooxxgzxhxdooxohxgxohxoooxxgzxdooxohxgxohxoooxxgzxhxdooxohxgxohxoooxxgzxdooxohxgxohxoooxxgzxhxdooxohxgxohxoooxxgzxhxdooxohxgxohxoooxxgzxhxdooxohxgxohxoooxxgzxhxdooxohxgxohxoooxxgzxhxdooxohxgxohxoooxxgzxhxdooxohxgxohxoooxxgzxhxdooxohxgxohxoooxxgzxhxdooxohxgxohxoooxxgzxhxdooxohxgxohxoooxxgzxhxd
+
+[s80][ocean] word_rate=nan n_runs=0
+yg dz r p e o x u m n j w k l h q s t y v e o x u m n j w k l h q s t y v e o x u m n j w k l h q s t y v e o x u m n j w k l h y d z r p e o x u m n j w k l h q s t y v e o x u m n j w k l h q s t y v e o x u m n j w k l h q s t y v e o x u m n j w k l h y d z r p e o x u m n j w k l h q s t y v e o x u m n j w k l h q s t y v e o x u m n j w k l h q s t y v e o x u m n j w k l h y d z r p e o x u m n j w k l h q s t y v e o x u m n j w k l h q s t y v e o x u m n j w k l h q s t y v e o x u m n j w k l h y
+
+########## strength 100 ##########
+[s100][silence] word_rate=nan n_runs=0
+瑕 笘 心 缈 静 焦 雄 祁 然 静 珏 静 焘 雄 穐 缈 静 焘 雄 瞁 静 焘 雄 瞁 静 焘 雄 瞁 静 焘 雄 瞁 静 焘 雄 瞁 静 焘 雄 瞁 静 焘 雄 瞁 静 焘 雄 瞁 静 焘 雄 瞁 静 焘 雄 瞁 静 焘 雄 瞁 静 焘 雄 瞁 静 焘 雄 瞁 静 焘 雄 瞁 静 焘 雄 瞁 静 焘 雄 瞁 静 焘 雄 瞁 静 焘 雄 �
+
+[s100][silence] word_rate=0.000 n_runs=1
+yhwhwhywhweyhwhwhywhweyhwhwhywhweyhwhwhywhweyhwhwhywhweyhwhwhywhweyhwhwhywhweyhwhwhywhweyhwhwhywhweyhwhwhywhweyhwhwhywhweyhwhwhywhwhywhweyhwhwhywhwhywhwhywhwhywhwhywhwhywhwhwhywhwhywhwhywhwhywhwhywhwhywhwhywhwhywhwhywhwhywhwhwhywhwhywhwhwhywhwhywhwhwhywhwhywhwhwhywhwhywhwhwhywhwhywhwhwhywhwhywhwhywhwhywhwhywhwhywhwhywhwhwhywhwhywhwhwhywhwhywhwhwhywhwhywhwhwhywhwhywhwhwhywhwhwhywhwhywhwhwhywhwhywhwhwhywhwhywhwhwhywhwhywhwhwhywhwhywhwhwhywhwhy
+
+[s100][silence] word_rate=0.000 n_runs=1
+qmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwhqmuwhjfntysevwh
+
+[s100][silence] word_rate=0.000 n_runs=1
+whwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwh
+
+[s100][silence] word_rate=0.000 n_runs=1
+whuslnsyeoixmnsynsxwhuslnsyeoixmnsyxynswhuslnsyeoixmnsxynswhuslnsyeoixmnsxynswhuslnsyeoixmnsxynswhuslnsyeoixmnsxynswhuslnsyeoixmnsyxynswhuslnsyeoixmnsywhuslnsyeoixmnsyxynswhuslnsyeoixmnsywhuslnsyeoixmnsyxynswhuslnsyeoixmnsywhuslnsyeoixmnsyxynswhuslnsyeoixmnsywhuslnsyeoixmnsyxynswhuslnsyeoixmnsywhuslnsyeoixmnsyxynswhuslnsyeoixmnsywhuslnsyeoixmnsyxynswhuslnsyeoixmnsywhuslnsyeoixmnsyxynswhuslnsyeoixmnsywhuslnsyeoixmns
+
+[s100][silence] word_rate=0.000 n_runs=1
+iqynhlwhwhwhwsewhsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxs
+
+[s100][silence] word_rate=0.000 n_runs=1
+yhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwh
+
+[s100][silence] word_rate=0.000 n_runs=1
+qjmfnthwhwhymnwhvwhwhxwhwhwewhxwhwsewhxwixwhxwhwhwhwhxwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhwhxwhxwhxwhxwhxwhwhwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhxwhx
+
+[s100][silence] word_rate=0.000 n_runs=1
+iqzwhjnfymvwhqywhqynwhywhynwynwhynwhynwhynwynwhynynwhynynwhynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynyn
+
+[s100][silence] word_rate=0.000 n_runs=1
+qywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhzmvonixtsewhywhz
+
+[s100][silence] word_rate=nan n_runs=0
+x y z m n w v t p e s r q t u y v x寂静无言，静默无声，寂静之中，似乎寻找着那些无形的、细微的、仿佛无法捕捉、无法言说的瞬间，那些微妙的、难以捕捉、难以言说的、那些无语的、沉默的、无言的、静默的、寂静的、微妙的、难以捕捉的、不可言说的、无形的、微妙的、难以捕捉的、微妙的、无形的、微妙的、难以捕捉的、微妙的、难以捕捉的、微妙的、静默的、寂静的、微妙的、难以捕捉的、微妙的、难以捕捉的、微妙的、静默的、静默的、静默的、静默的、静默的、静默的、静默的、静默的、静默的、静默的、静默的、静默的、静默的、静默的、静默的、静默的、静默的、静默的、静默的、静默的、静默的、静默的、静默的、静默的、静默的、静默的、静默的
+
+[s100][silence] word_rate=nan n_runs=0
+x u n s m e i v y q t w s v x n s m e i v y q t w s v x n s m e i v y q t w s v x n s m s w t v x n s m s w t v x n s m s w t v x n s m s w t v x n s m s w t v x n s m s w t v x n s m s w t v x n s m s w t v x n s m s w t v x n s m s w t v x n s m s w t v x n s m s w t v x n s m s w t v x n s m s w t v x n s m s w t v x n s m s w t v x n s m s w t v x n s m s w t v x n s m s w t v x n s m s w t v x n s m s w t v x n s m s w t v x n s m s w t v x n s m s w t v x n s m s w t v x n s m s w t v x n s m s w t v
+
+[s100][silence] word_rate=0.000 n_runs=1
+yseonzhlwhwhynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynystqyynyst
+
+[s100][silence] word_rate=nan n_runs=0
+x y q z m w p l k b t v n s e o w y v x z q y v x w v x q y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x z s e o w y v x
+
+[s100][silence] word_rate=0.000 n_runs=1
+whuynxjzrtyvseonzseynwhuywhyvnwhuywhuywhuywhuywhyynseonzseynwhuywhyynseonzseynwhuywhyynseonzseynwhuywhyynseonzseynwhuywhyynseonzseynwhuywhyynseonzseynwhuywhyynseonzseynwhuywhyynseonzseynwhuywhyynseonzseynwhuywhyynseonzseynwhuywhyynseonzseynwhuywhyynseonzseynwhuywhyynseonzseynwhuywhyynseonzseynwhuywhyynseonzseynwhuywhyynseonzseynwhuywhyynseonzseynwhuywhyynseonzseynwhuywhyynseonzseynwhuywhyynseonzseynwhuywhyynseonzseynwhuywhyynseonzseynwhuywhyynseonzseynwhuywhyynseonzseynwhuywhyynseonzseynwhuywhyynseonz
+
+[s100][ocean] word_rate=0.000 n_runs=1
+azesooyhwjxnuvfekmxqrulmxjpnhkayxdyeezoojhxnuvfekmxqrulmxjpnhkayxdyeezoooymxnrxhxdydxxayyhxdxxayyhxnuvfekmxqrulmxjpnhkayxdyxddxnhxhxxyhxxyhxdxxayyhxdxxayyhxnrxhxdydxxayyhxnuvfekmxqrulmxjpnhkayxdyyxdxxayyhxnuvfekmxqrulmxjpnhkayxdyexxxayyxnxhyhyxdxxayyhxdxxayyhxdxxayyxnhxhxxyhxxyhyhyhyhdxxayyhyxdxxayyhxnuvfekmxqrulmxjpnhkayxdxxayxhyxdxxayyhyxdxxayyhxdxxayyxnhxhxxyhxxyhyhyhyhdxxayyhyxdxxayyhxnuvfekmxqrulmxjpnhkayxdxxayxhyxdxxazsooyhwjxnuvfekmxqrulmxjpnhkayxdxxayxyxdxxayyhx
+
+[s100][ocean] word_rate=nan n_runs=0
+y m q e o j r u w b k b p s d e o o e e q y e e w y o o o e e w y e e o o o o e e y o o o e e o o o e e o o o e e o o o e e o o o o e e y o o o e e o o o e e o o o e e o o o e e o o o o e e y o o o e e o o o e e o o o e e o o o e e o o o o e e y o o o e e o o o e e o o o e e o o o e e o o o o e e y o o o e e o o o e e o o o e e o o o e e o o o o e e y o o o e e o o o e e o o o e e o o o e e o o o o e e y o o o e e o o o e e o o o e e o o o e e o o o o e e y o o o e e o o o e e o o o e e o o o e e o o o o e
+
+[s100][ocean] word_rate=nan n_runs=0
+y m o e r q j w u v x l d z e p n o y t w b c k e x q y m o e r q j w u v x l d z e p n o y t w b c k e x q y m o e r q j w u v x l d z e p n o y t w b c k e x q y m o e r q j w u v x l d z e p n o y t w b c k e x q y m o e r q j w u v x l d z e p n o y t w b c k e x q y m o e r q j w u v x l d z e p n o y t w b c y o e r q j w u v x l d z e p n o y t w b c k e x q y m o e r q j w u v x l g y o e r q j w u v x l d z e p n o y t w b c k e x q y m o e r q j w u v x l d z e p n o y t w b c k e x q y m o e r q
+
+[s100][ocean] word_rate=1.000 n_runs=1
+y m o r e e u b k q w d n z e e x y j h g e o e o e o z e e x y j h g e o e o e o z e e x y j h g e o e o e o z e e x y j h g e o e o e o z e e x y j h g e o e o e o z e e x y j h gé o e o e o z e e x y j h g e o e o e o e o z y j h gé o e o e o z e e x y j h gé o e o e o e o z y j h gé o e o e o e o z y j h gé o e o e o e o z y j h gé o e o e o e o z y j h gé o e o e o e o z y j gé o e o e o e o z y j h gé o e o e ocean e e o e o e o z y j h gé o e o e o e o z y j e o e o o e o z y j h gé o e o e o e o z y j h gé o e o e
+
+[s100][ocean] word_rate=nan n_runs=0
+y m o r e u e d w b q n j v e x p o r t i c e a y t d z o o r u e s m i j b e o d e a g m y c y o o n x e w j e e x r e y o u n d e r e m a y o e r e n i j e a y o o n w i v y o a y o y e r e n y o u e o j e e y o w o i x y o a y o y e r e n y o o y o o i x y o a y o y e r e n y o o y o o i x y o a y o y e r e n y o x y o a y o y e r e n y o x y o a y o y e r e n y o x y o a y o y e r e n y o x y o a y o y e y e r o x y o a y o y e r e n y o x y o a y o y e y e r o x y o a y o y e y e r o x y o a y o y e y
+
+[s100][ocean] word_rate=0.000 n_runs=1
+yg dz o e q n w j x r u y b c z e d f h j k o p u w x y θθθθθθθNAMETOARNOTHOODWEARTUBEAMATISFAAAAAAAYAZOOOHYOOOONGGGJACOODDDDDDSSIINNNNNNNNOOOOHJEAAAAAAYAAAAAAYAAATOOOONNNNNNEEEEEPWWWWWWWWWWAAAAAAYAAAAAAYAAAAAAYAAAAAAYAAAAAAYAAAAAAYAAAAAAAAAAAAAAYAAAAAAYAAAAAAYAAAAAAYAAAAAAAAAAAAAAYAAAAAAYAAAAAAYAAAAAAYAAAAAAAAAAAAAAYAAAAAAYAAAAAAYAAAAAAAAAAAAAAYAAAAAAYAAAAAAYAAAAAAAAAAAAAAYAAAAAAYAAAAAAYAAAAAAAAAAAAAAYAAAAAAYAAAAAAYAAAAAAAAAAAAAAYAAAAAAYAAAAAAYAAAAAAAAAAAAAAYAAAAAAYAAAAAAYAAAAAAAAAAAAAAYAAAAAAYAAAAAAYAAAAAAAAAAAAAAYAAAAAAYAAAAAAYAAAAAAAAAAAAAAYAAAAAAYAAAAAAYAAAAAAAAAAAAAAYAAAAAAYAAAAAAYAAAAAAAAAAAAAAYAAAAAAYAAAAAAYAAAAAAAAAAAAAAYAAAAA
+
+[s100][ocean] word_rate=nan n_runs=0
+y m o q d e u w b r n p c k j o x d e y m o q d e u w b r n p c k j o x d e y m o q d e u w b r n p c k j o x d e y m o q d e u w b r n p c k j o x d e y m o q d e u w b r n p c k j o x d e y m o q d e u w b r n p c k j o x d e y m o q d e u w b r n p c k j o x d e y m o q d e u w b r n p c k j o x d e y m o q d e u w b r n p c k j o x d e y m o q d e u w b r n p c k j o x d e y m o q d e u w b r n p c k j o x d e y m o q d e u w b r n p c k j o x d e y m o q d e u w b r n p c k j o x d e y m o q d e u w b
+
+[s100][ocean] word_rate=nan n_runs=0
+y m q d z o e e u e e b y e w p e o o j r e e e e p o e e y o o e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e
+
+[s100][ocean] word_rate=0.000 n_runs=1
+AAAAAANTOHYNYNEDEEAXXDXXEAXHDXXDXXEAXXDAEAXXDXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXXEAXXDDXX
+
+[s100][ocean] word_rate=0.000 n_runs=1
+azesoaebrjyeesxhjkocldqeywaurxohydzfoxdwwjyhddjawyejyeesxhjjyeeoaetkxdooxhjyeesxhjkocldqeaeoirxhydzzxhyddjawyejyeesxhjjyeeoaetkxdooxhjyeesxhdwwyyjyeeoaetkxdooxhjyeesxhjkocldqeoawsydzzxhyddjawyejyeesxhjjyeeoaetkxdooxhjyeesxhdwwyyjyeeoaetkxdooxhjyeesxhjkocldqeoawsydzzxhyddjawyejyeesxhjjyeeoaetkxdooxhjyeesxhdwwyyjyeeoaetkxdooxhjyeesxhjkocldqeoawsydzzxhyddjawyejyeesxhjjyeeoaetkxdooxhjyeesxhdwwyyjyeeoaetkxdooxhjyeesxhjkocldqeoaws
+
+[s100][ocean] word_rate=0.000 n_runs=1
+OOOJFCDYAZXXEVEEWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+
+[s100][ocean] word_rate=nan n_runs=0
+yn rl wj xz ao qm uo eh yx az oo xe jx oj yx az xo yx ae yx ae oo ae yx ao yx yx yx yx yx yx yz oe yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx yx y
+
+[s100][ocean] word_rate=0.000 n_runs=37
+yh nx uoj vl qw rxd eoc ymx az oj xlt wjx ymx qa qj xld xld ae yj qj zol qj yj xlt ae qj qj yx qj qj xlt ae qj xdd ae jx qj yj xlt ae qj xld ae jx qj yx zol yx qj yj xld ae jx qj yj xlt ae qj xld ae jx qj yx zol yx qj yj xld ae jx qj yx yx zol yx qj yj xlt ae qj xld ae jx qj yx yx zol yx qj yj xlt ae qj xld ae jx qj yx yx zol yx qj yj xlt ae qj xld ae jx qj yx yx zol yx qj yj xlt ae qj xld ae jx qj yx yx zol yx qj yj xlt ae qj xld ae jx qj yx yx zol yx
+
+[s100][ocean] word_rate=0.000 n_runs=3
+YNLngdxjwvfzqmOCUWALIhEONUWUOAJMENJAXMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOLMAEOL
+
+[s100][ocean] word_rate=0.000 n_runs=7
+yh dq nj wjx az xmr ym x eoo jx qjx e oj ymx y x ymx e ym x y oj x qjx e o j x y o y x y o y x y e yo x qj x y o x x y y x y o y x y e y x y x y x y x y x y x y y x y x y x y x y x y y x y x y x y x y x y x y y x y x y x y x y y x y x y x y x y x y x y y x y x y x y x y x y x y y x y x y x y x y x y x y y x y x y x y x y x y x y y x y x y x y x y x y x y y x y x y x y x y x y x y y x y x y x y x y x y x y y x y x y x y x y x y x y y x y x y x y x y x y x y y x y x y x y x y x y x y y x y x y x y x

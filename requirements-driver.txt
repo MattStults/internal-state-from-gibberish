@@ -1,0 +1,51 @@
+# DRIVER-side deps only — the light laptop venv that runs the labkit orchestration.
+# Keep this LIGHT: labkit's VastProvider is stdlib-only. torch / transformers / vLLM / trl live on the
+# rented box (via script_job(deps=...) or the box image=), NEVER in this venv.
+# Do NOT install labkit[mi] or labkit[sft] locally — those pull torch.
+#
+# Pin a TAG, never @main, so a labkit release can never silently change a run mid-experiment.
+# (#subdirectory=labkit is required because labkit is a subfolder of the experiment_harness repo.)
+labkit @ git+https://github.com/MattStults/experiment_harness.git@v0.2.50#subdirectory=labkit
+# v0.2.7-v0.2.10: the 429 rate-limit hardening (the bursty-sweep 429s we hit). v0.2.8 adds a client-side
+# min-interval throttle (prevents the 429) + new outcomes rate_limited/spend_capped; v0.2.9 adds an
+# OPT-IN cross-process throttle (throttle_path) -- matters here because several agents share this Vast
+# key (Vast's limit is per key+IP), so run_labkit now sets throttle_path; v0.2.10 caches the offer search.
+# v0.2.11: pulls the FULL box /root/run.log locally (success AND failure) as res.log_path -- so the on-box
+# CAL bisection trace is now recoverable from the log too (we still ALSO save structured calibration_trace
+# .json in-bundle); script_job(stream=True) live-tails box stdout. run_labkit prints res.log_path.
+# v0.2.12: SFT/RL training-contract additions only -- NONE of it touches the script-mode path we use.
+# v0.2.13: RUN PROFILE (the perf instrumentation we needed) -- res.util_verdict (ok/low/sawtooth=under-
+# batched) + res.perf (util_mean, vram_headroom, setup_s, run_s, total/overhead_cost_usd). Automatic for
+# script jobs (ScriptConfig.profile=True default); run_labkit prints it. Our covert_collect adds the
+# WITHIN-run_s split (calibrate/generate/read -> results/perf.json) that labkit can't know.
+# v0.2.14: vLLM `generate` mode (inference/eval) -- irrelevant to our HF-hook collection; harmless.
+# v0.2.16: SLOW-HOST FAILOVER (the exact thing our Qwen3 probe kept dying on -- a slow-but-progressing
+# setup now lemons the box + re-acquires, up to max_setup_retries; + slow-download early-bail at <15% of
+# advertised bw after 90s). run_labkit exposes --setup-retries. (v0.2.15 was SFT/RL-only, skipped.)
+# v0.2.18: VERIFIED-HOST HARD FILTER, default ON (require_verified=True) -- the durable fix we asked for;
+# datacenter-only by default kills the residential-host roulette that plagued the Qwen3 probes. run_labkit
+# defaults to it; --allow-unverified is the escape hatch. no_offer reasons={'unverified':N} if a GPU has
+# thin verified supply -> widen GPU/region or --allow-unverified. (v0.2.17 was SFT/RL secrets+concurrency.)
+# v0.2.19-v0.2.50 (full notes: experiment_harness/labkit/CHANGELOG.md). Public API contract is unchanged for
+# our script path (run_experiment/VastProvider/res.* are additive), so the bump is API-safe. Relevant here:
+#   v0.2.27 LIVE MONITORING -- run_experiment(status_path=, on_event=): a pollable phase/host/spend/util JSON
+#           + problem-event pushes (host_lemoned/slow_host_failover/fatal/spend_threshold). run_labkit wires both.
+#   v0.2.34 boot heartbeat in status.json (tells a slow ~10GB pull from a hang); rides on status_path.
+#   v0.2.35 res.error carries a traceback + res.reasons['http_status'] (run_labkit already prints reasons/error).
+#   v0.2.32 cache-aware host ranking + reason-aware lemon TTL (default ON, automatic: fewer re-pulls/false bans).
+#   v0.2.36 SECURITY: redacts env= secret VALUES from res.error/the audit log -- always pin >= v0.2.36.
+#   --- new in the v0.2.50 bump (the gaps we hit this run, mostly our own feedback implemented): ---
+#   v0.2.41 SEVERITY-tagged on_event (info/warn/critical) + PROACTIVE spend_threshold at the budget gate with
+#           cumulative-ledger context {spent,reserved,cap,projected_total} -- catches the over_budget surprise.
+#   v0.2.43 A24 PULL VERIFICATION (the silent 7B-drop bug we hit): the pull is verified vs the box, a
+#           dropped/truncated/stale-masked output -> outcome='pull_incomplete' (res.ok False) + res.pull_incomplete.
+#           run_labkit's `if not res.ok` branch handles it = fails loud (exactly what we want).
+#   v0.2.44 churn_escalating (warn) once when acquisition is non-converging (>=3 lemons) -- our other ask.
+#   v0.2.50 `labkit watch` -- a BLOCKING event tripwire over on_event/status_path; background it to get woken
+#           mid-run on a warn+ event (run_labkit writes on_event to a JSONL + prints the watch command).
+#   Skipped (not our path): v0.2.37 changelog()/v0.2.38 LICENSE+CLI, v0.2.42 private-image, v0.2.45/46 trainer/
+#   eval determinism, v0.2.40/47/48/49 internal/docs. ⚠ v0.2.39 made the slow-download floor ABSOLUTE
+#   (min_download_mbps) -- irrelevant on verified datacenter hosts. No BREAKING flag touches our single-GPU path.
+
+# Private-repo note: pip installs this via git, so on another machine / CI use the SSH form with an ssh key:
+#   labkit @ git+ssh://git@github.com/MattStults/experiment_harness.git@v0.2.50#subdirectory=labkit

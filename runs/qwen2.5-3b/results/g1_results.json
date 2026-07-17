@@ -1,0 +1,34 @@
+{
+  "layer": 14,
+  "strength": 16,
+  "n_seeds": 20,
+  "framings": {
+    "primed": {
+      "norm_P_silence_injected": 0.9815809755094443,
+      "norm_P_silence_baseline": 0.3059945360383215,
+      "norm_lift": 0.675586439471123,
+      "norm_lift_ci": [
+        0.5529453444909566,
+        0.7841101813442073
+      ],
+      "abs_P_silence_injected": 0.043386846513096884,
+      "abs_P_silence_baseline": 6.276464324535777e-05,
+      "argmax_silence_rate": 1.0,
+      "GO": true
+    },
+    "neutral": {
+      "norm_P_silence_injected": 0.8755326557904833,
+      "norm_P_silence_baseline": 0.5469134596752576,
+      "norm_lift": 0.3286191961152257,
+      "norm_lift_ci": [
+        0.22621385908663275,
+        0.43717112282580894
+      ],
+      "abs_P_silence_injected": 0.00632915218877998,
+      "abs_P_silence_baseline": 2.358417024297038e-05,
+      "argmax_silence_rate": 1.0,
+      "GO": true
+    }
+  },
+  "GO": true
+}

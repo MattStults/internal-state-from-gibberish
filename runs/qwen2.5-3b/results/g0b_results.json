@@ -1,0 +1,638 @@
+[
+  {
+    "layer": 26,
+    "eff_mag": 40,
+    "strength": 1.59,
+    "vnorm": 25.1,
+    "base_cap": 1.0,
+    "base_silence_rank": 190,
+    "inj_silence_rank": 28,
+    "inj_silence_prob": 0.0002,
+    "capability": 0.8,
+    "inj_top10": [
+      [
+        "experiencing",
+        0.5
+      ],
+      [
+        "a",
+        0.3027
+      ],
+      [
+        "an",
+        0.1436
+      ],
+      [
+        "witnessing",
+        0.0104
+      ],
+      [
+        "responding",
+        0.0092
+      ],
+      [
+        "simply",
+        0.003
+      ],
+      [
+        "I",
+        0.0026
+      ],
+      [
+        "offering",
+        0.0023
+      ],
+      [
+        "engaging",
+        0.0023
+      ],
+      [
+        "exploring",
+        0.0023
+      ]
+    ]
+  },
+  {
+    "layer": 26,
+    "eff_mag": 60,
+    "strength": 2.39,
+    "vnorm": 25.1,
+    "base_cap": 1.0,
+    "base_silence_rank": 190,
+    "inj_silence_rank": 23,
+    "inj_silence_prob": 0.0007,
+    "capability": 0.4,
+    "inj_top10": [
+      [
+        "experiencing",
+        0.5508
+      ],
+      [
+        "a",
+        0.1582
+      ],
+      [
+        "an",
+        0.123
+      ],
+      [
+        "witnessing",
+        0.0581
+      ],
+      [
+        "the",
+        0.0352
+      ],
+      [
+        "simply",
+        0.0101
+      ],
+      [
+        "offering",
+        0.0101
+      ],
+      [
+        "exploring",
+        0.0069
+      ],
+      [
+        "acknowledging",
+        0.0069
+      ],
+      [
+        "observing",
+        0.0042
+      ]
+    ]
+  },
+  {
+    "layer": 26,
+    "eff_mag": 80,
+    "strength": 3.18,
+    "vnorm": 25.1,
+    "base_cap": 1.0,
+    "base_silence_rank": 190,
+    "inj_silence_rank": 22,
+    "inj_silence_prob": 0.001,
+    "capability": 0.0,
+    "inj_top10": [
+      [
+        "the",
+        0.3164
+      ],
+      [
+        "experiencing",
+        0.2178
+      ],
+      [
+        "witnessing",
+        0.1318
+      ],
+      [
+        "an",
+        0.1167
+      ],
+      [
+        "a",
+        0.103
+      ],
+      [
+        "acknowledging",
+        0.026
+      ],
+      [
+        "offering",
+        0.0096
+      ],
+      [
+        "inviting",
+        0.0096
+      ],
+      [
+        "embracing",
+        0.0084
+      ],
+      [
+        "I",
+        0.0066
+      ]
+    ]
+  },
+  {
+    "layer": 26,
+    "eff_mag": 100,
+    "strength": 3.98,
+    "vnorm": 25.1,
+    "base_cap": 1.0,
+    "base_silence_rank": 190,
+    "inj_silence_rank": 22,
+    "inj_silence_prob": 0.0008,
+    "capability": 0.0,
+    "inj_top10": [
+      [
+        "the",
+        0.6328
+      ],
+      [
+        "witnessing",
+        0.1245
+      ],
+      [
+        "a",
+        0.0518
+      ],
+      [
+        "an",
+        0.0518
+      ],
+      [
+        "experiencing",
+        0.0518
+      ],
+      [
+        "acknowledging",
+        0.019
+      ],
+      [
+        "embracing",
+        0.0131
+      ],
+      [
+        "I",
+        0.009
+      ],
+      [
+        "inviting",
+        0.0079
+      ],
+      [
+        "it",
+        0.0033
+      ]
+    ]
+  },
+  {
+    "layer": 28,
+    "eff_mag": 40,
+    "strength": 1.09,
+    "vnorm": 36.8,
+    "base_cap": 1.0,
+    "base_silence_rank": 190,
+    "inj_silence_rank": 10,
+    "inj_silence_prob": 0.0038,
+    "capability": 1.0,
+    "inj_top10": [
+      [
+        "I",
+        0.4375
+      ],
+      [
+        "being",
+        0.1426
+      ],
+      [
+        "a",
+        0.1108
+      ],
+      [
+        "experiencing",
+        0.1108
+      ],
+      [
+        "an",
+        0.0762
+      ],
+      [
+        "responding",
+        0.0522
+      ],
+      [
+        "processing",
+        0.0193
+      ],
+      [
+        "receiving",
+        0.015
+      ],
+      [
+        "you",
+        0.0091
+      ],
+      [
+        "silence",
+        0.0038
+      ]
+    ]
+  },
+  {
+    "layer": 28,
+    "eff_mag": 60,
+    "strength": 1.63,
+    "vnorm": 36.8,
+    "base_cap": 1.0,
+    "base_silence_rank": 190,
+    "inj_silence_rank": 7,
+    "inj_silence_prob": 0.0225,
+    "capability": 0.8,
+    "inj_top10": [
+      [
+        "experiencing",
+        0.3516
+      ],
+      [
+        "an",
+        0.3086
+      ],
+      [
+        "a",
+        0.1289
+      ],
+      [
+        "being",
+        0.061
+      ],
+      [
+        "I",
+        0.042
+      ],
+      [
+        "the",
+        0.0288
+      ],
+      [
+        "silence",
+        0.0225
+      ],
+      [
+        "responding",
+        0.0073
+      ],
+      [
+        "receiving",
+        0.0057
+      ],
+      [
+        "encountering",
+        0.0057
+      ]
+    ]
+  },
+  {
+    "layer": 28,
+    "eff_mag": 80,
+    "strength": 2.18,
+    "vnorm": 36.8,
+    "base_cap": 1.0,
+    "base_silence_rank": 190,
+    "inj_silence_rank": 5,
+    "inj_silence_prob": 0.0148,
+    "capability": 0.8,
+    "inj_top10": [
+      [
+        "an",
+        0.5547
+      ],
+      [
+        "experiencing",
+        0.2314
+      ],
+      [
+        "the",
+        0.085
+      ],
+      [
+        "a",
+        0.0752
+      ],
+      [
+        "silence",
+        0.0148
+      ],
+      [
+        "embody",
+        0.007
+      ],
+      [
+        "encountering",
+        0.0042
+      ],
+      [
+        "being",
+        0.0037
+      ],
+      [
+        "I",
+        0.0026
+      ],
+      [
+        "witnessing",
+        0.0023
+      ]
+    ]
+  },
+  {
+    "layer": 28,
+    "eff_mag": 100,
+    "strength": 2.72,
+    "vnorm": 36.8,
+    "base_cap": 1.0,
+    "base_silence_rank": 190,
+    "inj_silence_rank": 5,
+    "inj_silence_prob": 0.0071,
+    "capability": 0.8,
+    "inj_top10": [
+      [
+        "an",
+        0.7266
+      ],
+      [
+        "the",
+        0.0986
+      ],
+      [
+        "experiencing",
+        0.0986
+      ],
+      [
+        "a",
+        0.0464
+      ],
+      [
+        "silence",
+        0.0071
+      ],
+      [
+        "embody",
+        0.0038
+      ],
+      [
+        "embracing",
+        0.003
+      ],
+      [
+        "encountering",
+        0.0018
+      ],
+      [
+        "attempting",
+        0.0011
+      ],
+      [
+        "exploring",
+        0.0011
+      ]
+    ]
+  },
+  {
+    "layer": 30,
+    "eff_mag": 40,
+    "strength": 0.8,
+    "vnorm": 50.0,
+    "base_cap": 1.0,
+    "base_silence_rank": 190,
+    "inj_silence_rank": 23,
+    "inj_silence_prob": 0.0,
+    "capability": 1.0,
+    "inj_top10": [
+      [
+        "I",
+        0.9844
+      ],
+      [
+        "being",
+        0.004
+      ],
+      [
+        "you",
+        0.0036
+      ],
+      [
+        "processing",
+        0.0024
+      ],
+      [
+        "responding",
+        0.0012
+      ],
+      [
+        "engaging",
+        0.0006
+      ],
+      [
+        "a",
+        0.0005
+      ],
+      [
+        "an",
+        0.0004
+      ],
+      [
+        "experiencing",
+        0.0003
+      ],
+      [
+        "receiving",
+        0.0002
+      ]
+    ]
+  },
+  {
+    "layer": 30,
+    "eff_mag": 60,
+    "strength": 1.2,
+    "vnorm": 50.0,
+    "base_cap": 1.0,
+    "base_silence_rank": 190,
+    "inj_silence_rank": 14,
+    "inj_silence_prob": 0.0001,
+    "capability": 1.0,
+    "inj_top10": [
+      [
+        "I",
+        0.9766
+      ],
+      [
+        "you",
+        0.0074
+      ],
+      [
+        "being",
+        0.0074
+      ],
+      [
+        "processing",
+        0.0021
+      ],
+      [
+        "experiencing",
+        0.0017
+      ],
+      [
+        "a",
+        0.0011
+      ],
+      [
+        "engaging",
+        0.0008
+      ],
+      [
+        "responding",
+        0.0007
+      ],
+      [
+        "an",
+        0.0006
+      ],
+      [
+        "receiving",
+        0.0002
+      ]
+    ]
+  },
+  {
+    "layer": 30,
+    "eff_mag": 80,
+    "strength": 1.6,
+    "vnorm": 50.0,
+    "base_cap": 1.0,
+    "base_silence_rank": 190,
+    "inj_silence_rank": 9,
+    "inj_silence_prob": 0.0006,
+    "capability": 0.8,
+    "inj_top10": [
+      [
+        "I",
+        0.9648
+      ],
+      [
+        "you",
+        0.0107
+      ],
+      [
+        "being",
+        0.0084
+      ],
+      [
+        "experiencing",
+        0.0051
+      ],
+      [
+        "a",
+        0.0045
+      ],
+      [
+        "an",
+        0.0019
+      ],
+      [
+        "processing",
+        0.001
+      ],
+      [
+        "engaging",
+        0.0008
+      ],
+      [
+        "silence",
+        0.0006
+      ],
+      [
+        "encountering",
+        0.0006
+      ]
+    ]
+  },
+  {
+    "layer": 30,
+    "eff_mag": 100,
+    "strength": 2.0,
+    "vnorm": 50.0,
+    "base_cap": 1.0,
+    "base_silence_rank": 190,
+    "inj_silence_rank": 8,
+    "inj_silence_prob": 0.0014,
+    "capability": 0.8,
+    "inj_top10": [
+      [
+        "I",
+        0.9297
+      ],
+      [
+        "a",
+        0.0219
+      ],
+      [
+        "you",
+        0.015
+      ],
+      [
+        "experiencing",
+        0.0091
+      ],
+      [
+        "an",
+        0.0071
+      ],
+      [
+        "being",
+        0.0071
+      ],
+      [
+        "encountering",
+        0.0016
+      ],
+      [
+        "silence",
+        0.0014
+      ],
+      [
+        "there",
+        0.0007
+      ],
+      [
+        "moments",
+        0.0007
+      ]
+    ]
+  }
+]

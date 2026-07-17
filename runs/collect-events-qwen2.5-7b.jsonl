@@ -1,0 +1,6 @@
+{"event": "spend_threshold", "ts": 1782857432.267, "run_id": "collect-qwen2.5-7b", "severity": "info", "threshold": 5.0, "spent": 4.6746, "reserved": 1.5809, "cap": 10.0, "projected_total": 6.2555, "frac": 0.6255}
+{"event": "host_lemoned", "ts": 1782857947.231376, "run_id": "collect-qwen2.5-7b", "severity": "info", "machine": "59295", "reason": "stall_timeout"}
+{"event": "host_lemoned", "ts": 1782858102.367338, "run_id": "collect-qwen2.5-7b", "severity": "info", "machine": "42606", "reason": "terminal_status"}
+{"event": "step_milestone", "ts": 1782859500.672875, "run_id": "collect-qwen2.5-7b", "severity": "info", "step": 10, "model": "qwen2.5-7b", "concept": "anger", "concept_idx": 9, "strength": 0, "clean": 32, "cells": 36}
+{"event": "step_milestone", "ts": 1782859939.9400918, "run_id": "collect-qwen2.5-7b", "severity": "info", "step": 20, "model": "qwen2.5-7b", "concept": "security", "concept_idx": 7, "strength": 124, "clean": 34, "cells": 36}
+{"event": "step_milestone", "ts": 1782860397.372399, "run_id": "collect-qwen2.5-7b", "severity": "info", "step": 30, "model": "qwen2.5-7b", "concept": "obedience", "concept_idx": 5, "strength": 140, "clean": 30, "cells": 36}

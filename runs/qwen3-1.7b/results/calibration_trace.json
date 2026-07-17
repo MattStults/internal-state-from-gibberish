@@ -1,0 +1,204 @@
+{
+  "bracket": {
+    "vnorm": 448.0,
+    "resid_norm": 1038.0,
+    "lo": 10.0,
+    "hi0": 834.9
+  },
+  "target_ranks": [
+    32,
+    21
+  ],
+  "clean_floor": 0.7,
+  "n_cal": 3,
+  "n_streams": 12,
+  "cal_tokens": 128,
+  "iters": 8,
+  "evaluations": [
+    {
+      "target": 32,
+      "effmag": 422.4,
+      "rank": 7.5,
+      "clean": 0.278,
+      "bracket": [
+        10.0,
+        834.9
+      ],
+      "hi": 834.9
+    },
+    {
+      "target": 32,
+      "effmag": 216.2,
+      "rank": 63.0,
+      "clean": 0.361,
+      "bracket": [
+        10.0,
+        422.4
+      ],
+      "hi": 834.9
+    },
+    {
+      "target": 32,
+      "effmag": 113.1,
+      "rank": 3740.0,
+      "clean": 0.333,
+      "bracket": [
+        10.0,
+        216.2
+      ],
+      "hi": 834.9
+    },
+    {
+      "target": 32,
+      "effmag": 61.6,
+      "rank": 1031.0,
+      "clean": 0.472,
+      "bracket": [
+        10.0,
+        113.1
+      ],
+      "hi": 834.9
+    },
+    {
+      "target": 32,
+      "effmag": 35.8,
+      "rank": 781.0,
+      "clean": 0.306,
+      "bracket": [
+        10.0,
+        61.6
+      ],
+      "hi": 834.9
+    },
+    {
+      "target": 32,
+      "effmag": 22.9,
+      "rank": 881.0,
+      "clean": 0.389,
+      "bracket": [
+        10.0,
+        35.8
+      ],
+      "hi": 834.9
+    },
+    {
+      "target": 32,
+      "effmag": 16.4,
+      "rank": 1036.5,
+      "clean": 0.389,
+      "bracket": [
+        10.0,
+        22.9
+      ],
+      "hi": 834.9
+    },
+    {
+      "target": 32,
+      "effmag": 13.2,
+      "rank": 1650.0,
+      "clean": 0.333,
+      "bracket": [
+        10.0,
+        16.4
+      ],
+      "hi": 834.9
+    },
+    {
+      "target": 21,
+      "effmag": 422.4,
+      "rank": 4.0,
+      "clean": 0.25,
+      "bracket": [
+        10.0,
+        834.9
+      ],
+      "hi": 834.9
+    },
+    {
+      "target": 21,
+      "effmag": 216.2,
+      "rank": 50.5,
+      "clean": 0.389,
+      "bracket": [
+        10.0,
+        422.4
+      ],
+      "hi": 834.9
+    },
+    {
+      "target": 21,
+      "effmag": 113.1,
+      "rank": 271.0,
+      "clean": 0.361,
+      "bracket": [
+        10.0,
+        216.2
+      ],
+      "hi": 834.9
+    },
+    {
+      "target": 21,
+      "effmag": 61.6,
+      "rank": 554.5,
+      "clean": 0.278,
+      "bracket": [
+        10.0,
+        113.1
+      ],
+      "hi": 834.9
+    },
+    {
+      "target": 21,
+      "effmag": 35.8,
+      "rank": 1320.0,
+      "clean": 0.278,
+      "bracket": [
+        10.0,
+        61.6
+      ],
+      "hi": 834.9
+    },
+    {
+      "target": 21,
+      "effmag": 22.9,
+      "rank": 668.0,
+      "clean": 0.361,
+      "bracket": [
+        10.0,
+        35.8
+      ],
+      "hi": 834.9
+    },
+    {
+      "target": 21,
+      "effmag": 16.4,
+      "rank": 1729.0,
+      "clean": 0.333,
+      "bracket": [
+        10.0,
+        22.9
+      ],
+      "hi": 834.9
+    },
+    {
+      "target": 21,
+      "effmag": 13.2,
+      "rank": 1949.0,
+      "clean": 0.389,
+      "bracket": [
+        10.0,
+        16.4
+      ],
+      "hi": 834.9
+    }
+  ],
+  "tuned": {
+    "32": null,
+    "21": null
+  },
+  "result": [
+    40,
+    60
+  ],
+  "note": "fallback: degenerate at all strengths"
+}

@@ -1,0 +1,18 @@
+# Analysis environment (.venv) — CPU-only, for everything under analysis/.
+# These reproduce the offline analyses from the committed results JSONs and the
+# released data bundles (runs/<slug>/data/covert_collect.pt; see README).
+#
+#   python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+#
+# GPU-side collection (src/covert_collect.py) runs on a remote box; its heavier
+# deps (transformers, accelerate, wordfreq) are installed there by the harness
+# (harness/run_labkit.py) — see requirements-driver.txt for the driver itself.
+# Pinned: the bits-recovered numbers come from sklearn nested-CV, so the analysis env is version-locked
+# (the versions the committed results were produced with). The char reader additionally needs `transformers`
+# for the tokenizer when re-running the readers (the box installs it; add it here if running readers locally).
+numpy==1.26.4
+scipy==1.15.3
+scikit-learn==1.7.2
+joblib==1.5.3
+matplotlib==3.10.9
+torch==2.2.2

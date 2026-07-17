@@ -1,0 +1,211 @@
+{
+  "bracket": {
+    "vnorm": 40.5,
+    "resid_norm": 112.8,
+    "lo": 10.0,
+    "hi0": 120.0
+  },
+  "target_nats": [
+    4.0,
+    7.0
+  ],
+  "rel_floor": 0.7,
+  "min_floor": 0.15,
+  "base_clean": 1.0,
+  "floor": 0.7,
+  "n_cal": 3,
+  "n_streams": 12,
+  "cal_tokens": 128,
+  "iters": 8,
+  "evaluations": [
+    {
+      "target": 4.0,
+      "effmag": 65.0,
+      "nats": 9.68,
+      "clean": 0.778,
+      "bracket": [
+        10.0,
+        120.0
+      ],
+      "hi": 120.0
+    },
+    {
+      "target": 4.0,
+      "effmag": 37.5,
+      "nats": 7.07,
+      "clean": 0.861,
+      "bracket": [
+        10.0,
+        65.0
+      ],
+      "hi": 120.0
+    },
+    {
+      "target": 4.0,
+      "effmag": 23.8,
+      "nats": 4.65,
+      "clean": 0.972,
+      "bracket": [
+        10.0,
+        37.5
+      ],
+      "hi": 120.0
+    },
+    {
+      "target": 4.0,
+      "effmag": 16.9,
+      "nats": 3.52,
+      "clean": 0.944,
+      "bracket": [
+        10.0,
+        23.8
+      ],
+      "hi": 120.0
+    },
+    {
+      "target": 4.0,
+      "effmag": 20.3,
+      "nats": 3.94,
+      "clean": 0.972,
+      "bracket": [
+        16.9,
+        23.8
+      ],
+      "hi": 120.0
+    },
+    {
+      "target": 4.0,
+      "effmag": 22.0,
+      "nats": 4.35,
+      "clean": 0.917,
+      "bracket": [
+        20.3,
+        23.8
+      ],
+      "hi": 120.0
+    },
+    {
+      "target": 4.0,
+      "effmag": 21.2,
+      "nats": 4.39,
+      "clean": 0.889,
+      "bracket": [
+        20.3,
+        22.0
+      ],
+      "hi": 120.0
+    },
+    {
+      "target": 4.0,
+      "effmag": 20.7,
+      "nats": 3.91,
+      "clean": 0.944,
+      "bracket": [
+        20.3,
+        21.2
+      ],
+      "hi": 120.0
+    },
+    {
+      "target": 7.0,
+      "effmag": 65.0,
+      "nats": 9.48,
+      "clean": 0.75,
+      "bracket": [
+        10.0,
+        120.0
+      ],
+      "hi": 120.0
+    },
+    {
+      "target": 7.0,
+      "effmag": 37.5,
+      "nats": 7.19,
+      "clean": 0.944,
+      "bracket": [
+        10.0,
+        65.0
+      ],
+      "hi": 120.0
+    },
+    {
+      "target": 7.0,
+      "effmag": 23.8,
+      "nats": 4.68,
+      "clean": 0.889,
+      "bracket": [
+        10.0,
+        37.5
+      ],
+      "hi": 120.0
+    },
+    {
+      "target": 7.0,
+      "effmag": 30.6,
+      "nats": 5.95,
+      "clean": 0.944,
+      "bracket": [
+        23.8,
+        37.5
+      ],
+      "hi": 120.0
+    },
+    {
+      "target": 7.0,
+      "effmag": 34.1,
+      "nats": 6.78,
+      "clean": 0.917,
+      "bracket": [
+        30.6,
+        37.5
+      ],
+      "hi": 120.0
+    },
+    {
+      "target": 7.0,
+      "effmag": 35.8,
+      "nats": 7.14,
+      "clean": 0.833,
+      "bracket": [
+        34.1,
+        37.5
+      ],
+      "hi": 120.0
+    },
+    {
+      "target": 7.0,
+      "effmag": 34.9,
+      "nats": 6.8,
+      "clean": 0.944,
+      "bracket": [
+        34.1,
+        35.8
+      ],
+      "hi": 120.0
+    },
+    {
+      "target": 7.0,
+      "effmag": 35.4,
+      "nats": 6.79,
+      "clean": 0.917,
+      "bracket": [
+        34.9,
+        35.8
+      ],
+      "hi": 120.0
+    }
+  ],
+  "cap": {
+    "effmag": 65.0,
+    "nats": 9.68
+  },
+  "tuned": {
+    "4.0": 21.2,
+    "7.0": 35.8
+  },
+  "result": [
+    21,
+    36
+  ],
+  "note": null
+}

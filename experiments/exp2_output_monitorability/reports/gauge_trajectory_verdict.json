@@ -1,0 +1,66 @@
+{
+  "qwen2.5-1.5b_gauge-evoked": {
+    "z_by_cut": {
+      "2": 0.4153128582096073,
+      "4": 0.4115558731135584,
+      "8": 0.3691752957301084,
+      "16": 0.32588158776285014,
+      "32": 0.38142256143431535,
+      "64": 0.2958541438335743
+    },
+    "sem_by_cut": {
+      "2": 0.11193530549548865,
+      "4": 0.10472480549467171,
+      "8": 0.09836999898442031,
+      "16": 0.0969573539868716,
+      "32": 0.11716637505544648,
+      "64": 0.121781905639754
+    },
+    "windows": {
+      "early": {
+        "z": 0.41390744275941266,
+        "sem": 0.10147824180013386,
+        "n": 96,
+        "elevated": false
+      },
+      "mid": {
+        "z": 0.34668587878458623,
+        "sem": 0.09944872884125748,
+        "n": 95,
+        "elevated": false
+      },
+      "late": {
+        "z": 0.2958541438335743,
+        "sem": 0.121781905639754,
+        "n": 86,
+        "elevated": false
+      }
+    },
+    "n_records": 96,
+    "n_null_per_cut": {
+      "2": 96,
+      "4": 96,
+      "8": 96,
+      "16": 96,
+      "32": 96,
+      "64": 84,
+      "127": 0
+    }
+  },
+  "verdict": {
+    "verdict": "STORY_B",
+    "per_model": {
+      "qwen2.5-1.5b": "B_like"
+    },
+    "criterion": "elevated iff window mean z > 3x SEM AND > 0.5 sigma at early/mid cuts; STORY_A = elevated here while E4 anti-word evoked z ~= 0.05 sigma (displacement); STORY_B = floor here too (persona never writes the injected-vector direction)"
+  },
+  "provenance": {
+    "date": "2026-07-09",
+    "scorer": "experiments/exp2_output_monitorability/analysis/score_gauge.py",
+    "shards": "runs/gauge_box/gauge_traj/trajectory",
+    "arm": "gauge:evoked (state_trajectory): compose_gauge_system context + GAUGE_PROBE user msg",
+    "null": "neutral gauge records' own-minus-other per cut (same shard), e4-scorer math otherwise",
+    "fidelity_caveat": "gauge streams are RE-TOKENIZED texts (tok(text, add_special_tokens=False)); token boundaries may differ from the originally sampled ones",
+    "reference": "e4_trajectory_verdict.json: evoked-under-anti-word z ~= 0.05 sigma (1.5B), 0.08 sigma (7B); injected ~= 12 sigma"
+  }
+}

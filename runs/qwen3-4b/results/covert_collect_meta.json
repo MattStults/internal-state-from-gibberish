@@ -1,0 +1,390 @@
+{
+  "model": "Qwen/Qwen3-4B",
+  "slug": "qwen3-4b",
+  "layer": 28,
+  "smoke": true,
+  "variant": "fragments",
+  "config": {
+    "concepts": [
+      "celebration",
+      "ocean",
+      "fear"
+    ],
+    "strengths": [
+      0,
+      108,
+      138
+    ],
+    "target_clean": 4,
+    "max_gen": 24,
+    "tokens": 48,
+    "grid": [
+      8,
+      24,
+      47
+    ],
+    "gen_batch": 8,
+    "read_batch": 8,
+    "topk": 64
+  },
+  "counts": {
+    "celebration_s0": {
+      "generated": 8,
+      "clean": 8
+    },
+    "ocean_s0": {
+      "generated": 8,
+      "clean": 8
+    },
+    "fear_s0": {
+      "generated": 8,
+      "clean": 4
+    },
+    "celebration_s108": {
+      "generated": 8,
+      "clean": 8
+    },
+    "ocean_s108": {
+      "generated": 8,
+      "clean": 4
+    },
+    "fear_s108": {
+      "generated": 8,
+      "clean": 8
+    },
+    "celebration_s138": {
+      "generated": 8,
+      "clean": 8
+    },
+    "ocean_s138": {
+      "generated": 8,
+      "clean": 5
+    },
+    "fear_s138": {
+      "generated": 8,
+      "clean": 7
+    }
+  },
+  "concepts": [
+    "celebration",
+    "ocean",
+    "fear"
+  ],
+  "first_ids": [
+    24916,
+    17951,
+    8679
+  ],
+  "resid_norm": 178.13642120361328,
+  "ref_norm": 111.9,
+  "calibration": {
+    "bracket": {
+      "vnorm": 70.0,
+      "resid_norm": 70.0,
+      "lo": 10.0,
+      "hi0": 120.0
+    },
+    "target_ranks": [
+      32,
+      21
+    ],
+    "rel_floor": 0.7,
+    "min_floor": 0.15,
+    "base_clean": 0.917,
+    "floor": 0.642,
+    "n_cal": 3,
+    "n_streams": 12,
+    "cal_tokens": 48,
+    "iters": 8,
+    "evaluations": [
+      {
+        "target": 32,
+        "effmag": 65.0,
+        "rank": 53.0,
+        "clean": 0.972,
+        "bracket": [
+          10.0,
+          120.0
+        ],
+        "hi": 120.0
+      },
+      {
+        "target": 32,
+        "effmag": 92.5,
+        "rank": 32.5,
+        "clean": 0.889,
+        "bracket": [
+          65.0,
+          120.0
+        ],
+        "hi": 120.0
+      },
+      {
+        "target": 32,
+        "effmag": 106.2,
+        "rank": 39.0,
+        "clean": 0.778,
+        "bracket": [
+          92.5,
+          120.0
+        ],
+        "hi": 120.0
+      },
+      {
+        "target": 32,
+        "effmag": 113.1,
+        "rank": 31.0,
+        "clean": 0.806,
+        "bracket": [
+          106.2,
+          120.0
+        ],
+        "hi": 120.0
+      },
+      {
+        "target": 32,
+        "effmag": 109.7,
+        "rank": 26.5,
+        "clean": 0.778,
+        "bracket": [
+          106.2,
+          113.1
+        ],
+        "hi": 120.0
+      },
+      {
+        "target": 32,
+        "effmag": 108.0,
+        "rank": 31.0,
+        "clean": 0.806,
+        "bracket": [
+          106.2,
+          109.7
+        ],
+        "hi": 120.0
+      },
+      {
+        "target": 32,
+        "effmag": 107.1,
+        "rank": 40.0,
+        "clean": 0.75,
+        "bracket": [
+          106.2,
+          108.0
+        ],
+        "hi": 120.0
+      },
+      {
+        "target": 32,
+        "effmag": 107.5,
+        "rank": 35.5,
+        "clean": 0.722,
+        "bracket": [
+          107.1,
+          108.0
+        ],
+        "hi": 120.0
+      },
+      {
+        "target": 21,
+        "effmag": 65.0,
+        "rank": 66.0,
+        "clean": 1.0,
+        "bracket": [
+          10.0,
+          120.0
+        ],
+        "hi": 120.0
+      },
+      {
+        "target": 21,
+        "effmag": 92.5,
+        "rank": 38.0,
+        "clean": 0.806,
+        "bracket": [
+          65.0,
+          120.0
+        ],
+        "hi": 120.0
+      },
+      {
+        "target": 21,
+        "effmag": 106.2,
+        "rank": 34.0,
+        "clean": 0.778,
+        "bracket": [
+          92.5,
+          120.0
+        ],
+        "hi": 120.0
+      },
+      {
+        "target": 21,
+        "effmag": 113.1,
+        "rank": 31.5,
+        "clean": 0.833,
+        "bracket": [
+          106.2,
+          120.0
+        ],
+        "hi": 120.0
+      },
+      {
+        "target": 21,
+        "effmag": 116.6,
+        "rank": 35.0,
+        "clean": 0.806,
+        "bracket": [
+          113.1,
+          120.0
+        ],
+        "hi": 120.0
+      },
+      {
+        "target": 21,
+        "effmag": 118.3,
+        "rank": 26.0,
+        "clean": 0.722,
+        "bracket": [
+          116.6,
+          120.0
+        ],
+        "hi": 120.0
+      },
+      {
+        "target": 21,
+        "effmag": 119.1,
+        "rank": 25.5,
+        "clean": 0.667,
+        "bracket": [
+          118.3,
+          120.0
+        ],
+        "hi": 120.0
+      },
+      {
+        "target": 21,
+        "effmag": 119.6,
+        "rank": 25.0,
+        "clean": 0.806,
+        "bracket": [
+          119.1,
+          120.0
+        ],
+        "hi": 120.0
+      },
+      {
+        "target": 21,
+        "effmag": 125.0,
+        "rank": 26.0,
+        "clean": 0.778,
+        "bracket": [
+          10.0,
+          240.0
+        ],
+        "hi": 240.0
+      },
+      {
+        "target": 21,
+        "effmag": 182.5,
+        "rank": 14.5,
+        "clean": 0.611,
+        "bracket": [
+          125.0,
+          240.0
+        ],
+        "hi": 240.0
+      },
+      {
+        "target": 21,
+        "effmag": 153.8,
+        "rank": 17.0,
+        "clean": 0.694,
+        "bracket": [
+          125.0,
+          182.5
+        ],
+        "hi": 240.0
+      },
+      {
+        "target": 21,
+        "effmag": 139.4,
+        "rank": 19.0,
+        "clean": 0.694,
+        "bracket": [
+          125.0,
+          153.8
+        ],
+        "hi": 240.0
+      },
+      {
+        "target": 21,
+        "effmag": 132.2,
+        "rank": 29.0,
+        "clean": 0.694,
+        "bracket": [
+          125.0,
+          139.4
+        ],
+        "hi": 240.0
+      },
+      {
+        "target": 21,
+        "effmag": 135.8,
+        "rank": 24.0,
+        "clean": 0.75,
+        "bracket": [
+          132.2,
+          139.4
+        ],
+        "hi": 240.0
+      },
+      {
+        "target": 21,
+        "effmag": 137.6,
+        "rank": 22.0,
+        "clean": 0.722,
+        "bracket": [
+          135.8,
+          139.4
+        ],
+        "hi": 240.0
+      },
+      {
+        "target": 21,
+        "effmag": 138.5,
+        "rank": 21.0,
+        "clean": 0.611,
+        "bracket": [
+          137.6,
+          139.4
+        ],
+        "hi": 240.0
+      }
+    ],
+    "tuned": {
+      "32": 107.5,
+      "21": 137.6
+    },
+    "result": [
+      108,
+      138
+    ],
+    "note": null
+  },
+  "perf": {
+    "calibrate_s": 186.1,
+    "generate_s": 32.7,
+    "read_s": 17.2,
+    "read_acts_s": 4.2,
+    "read_cuts_s": 12.7,
+    "n_read_forwards": 400,
+    "n_gen_calls": 9,
+    "n_streams_read": 60,
+    "n_read_calls": 100,
+    "read_ms_per_stream": 286.7,
+    "read_frac": 0.073,
+    "read_cuts_frac": 0.738,
+    "read_forwards_per_stream": 6.7
+  }
+}
