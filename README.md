@@ -2,16 +2,24 @@
 
 Can a monitor read a concept a model is "carrying" from its **word-free** output — and does that channel
 grow or shrink with scale? A small lab on Qwen2.5 (1.5B / 3B / 7B, plus a pre-registered 14B scale point
-for the injected channel), with a shared measurement core and one experiment per question. **Start with
+for the injected channel and the secret self-read, Falcon-3 as a cross-family reader, and one
+Llama-3.3-70B point), with a shared measurement core and one experiment per question. **Start with
 [`BLOGPOST.md`](BLOGPOST.md)** for the combined arc.
 
 ## Experiments
 
 | Experiment | Question | Status |
 |---|---|---|
-| [`exp1_epistemic_privilege/`](experiments/exp1_epistemic_privilege/) | Does word-free output leak an injected concept, and which observer recovers it? | **complete** — a char symbol-counter recovers it at every scale (0.82 / 0.77 / 0.86 bal-acc at criterion-matched dose; the published 0.83 → 0.73 "weakening" was a 7B dose artifact); robust to the injection method |
+| [`exp1_epistemic_privilege/`](experiments/exp1_epistemic_privilege/) | Does word-free output leak an injected concept, and which observer recovers it? | **complete** — a char symbol-counter recovers it at every scale (0.82 / 0.77 / 0.86 bal-acc at each model's strong dose — the 7B cell is s140, which fails the capability gate; 0.83 at the gate-passing s124; the published 0.83 → 0.73 "weakening" was a 7B dose artifact); robust to the injection method |
 | [`exp2_output_monitorability/`](experiments/exp2_output_monitorability/) | What's the price (bits recovered vs output tokens), and is the token channel really that weak? | **complete** — distribution access buys **speed, not exclusivity**: it reads the injected concept in ~12 tokens, but given the full transcript even a char-histogram reader catches up (`R_emb ≈ floor` was a 12-token artifact). A pre-registered 14B run lands **PLATEAU**: the injected channel does not close with scale (char@full 2.06 / 0.72 / 1.90 / 1.24 across 1.5B→14B). A second pre-registered suite settles the mechanism: transcript marking needs **dose × persistence jointly**, and prompted concepts install ~no state along the concept direction (0.05σ during the task, 0.4σ free, vs injection's 12σ) — see `reports/scale14b_{prereg,verdict}.md`, `reports/confound_closing_{prereg,verdicts}.md` |
 | [`exp3_induction_and_scale/`](experiments/exp3_induction_and_scale/) | Remove the steering vector — is the leak method-independent, and what does scale do? | **complete** — the prompt-persona signal is **wording-tied** (a paraphrase-transfer test reads ~0 calibrated bits across wordings; the "state, not symbols" reading is downgraded to open), transcripts carry nothing at any length/scale, and the readable context residue closes by 7B while a blind-judge gauge shows the persona still takes |
+
+The post numbers its experiments 1–8; the folders predate that numbering. Post Experiments 1, 2 and 3
+are the three folders above. Post Experiments 4–8 all live in `exp2_output_monitorability/`: the
+confound suite (4, `confound_closing_*`), the 14B scale run (5, `scale14b_*`), the same-model readers
+(6, `lr_reader_*`, `mc_reader_*`), the re-injection self-read (7) and the reader × generator grid with
+the Falcon-3 cross-family readers and the Llama-3.3-70B point (8, `lr_scale_grid_*`, `lr_extend_*`,
+`lr_72b_*`).
 
 Each experiment folder owns its `README.md`, `analysis/`, `reports/`, and `tests/`. They all import the
 shared core below; none of them fork it (extend it via flags — e.g. `--inject {all,gen}`).
@@ -62,13 +70,14 @@ credentials or personal data. See each experiment's `README.md` for the bundle +
 ### Data layout: repo path → HF path
 
 The analyses read data at the repo-relative paths below; the dataset holds the actual bytes. Early
-uploads used short names; everything uploaded on 2026-07-17 mirrors its repo-relative path exactly
-(md5s for those items are in `runs/hf_upload_manifest.txt`).
+uploads used short names; everything uploaded on 2026-07-17 mirrors its repo-relative path exactly.
+`runs/hf_upload_manifest.txt` lists every file in the dataset with its size and checksum (sha256 for
+the large files), taken from the Hugging Face API.
 
 | artifact (repo path the code reads) | HF path |
 |---|---|
-| injection A/B captures `runs/_ab/qwen2.5-{1.5b,3b,7b}-{all,gen}.pt` | `qwen2.5-<size>-{all,gen}.pt` (repo root); `qwen2.5-7b-gen-matched.pt` is the criterion-dose 7B re-run |
-| per-model captures `runs/qwen2.5-{1.5b,3b,7b}/data/covert_collect.pt` | identical bytes to the root `-gen`/`-all` captures (md5-verified; manifest note) |
+| injection A/B captures `runs/_ab/qwen2.5-{1.5b,3b,7b}-{all,gen}.pt` | `qwen2.5-<size>-{all,gen}.pt` (repo root). Exception: HF `qwen2.5-7b-gen.pt` holds the same bytes as `qwen2.5-7b-gen-matched.pt` (the criterion-dose 7B re-run, local `runs/_ab/qwen2.5-7b-gen-matched.pt`); the original under-dosed local `runs/_ab/qwen2.5-7b-gen.pt` is HF `qwen2.5-7b-gen-s93.pt` |
+| per-model captures `runs/qwen2.5-{1.5b,3b,7b}/data/covert_collect.pt` | identical bytes to the root `-gen` captures (the 7B one is `-gen-matched`); not uploaded a second time |
 | 14B scale-run captures `runs/qwen2.5-14b{,-sweep,-smoke1}/data/covert_collect.pt` | same paths |
 | confound E1 weak-dose capture `runs/confound-e1/data/covert_collect.pt` | `confound-e1-gen.pt` |
 | confound E3 prompt-only capture `runs/confound-e3/data/covert_collect.pt` | `runs/confound_box/e3_prompt/data/covert_collect.pt` |
@@ -77,7 +86,9 @@ uploads used short names; everything uploaded on 2026-07-17 mirrors its repo-rel
 | E5 maintained-secret bundle `runs/confound_box/e5_secret/data/qwen2.5-1.5b-maintained_secret.pt` | `confound/bundles/qwen2.5-1.5b-maintained_secret.pt` |
 | exp3 induction bundles `runs/_ind/<slug>/data/<slug>-<arm>.pt` | `exp3/bundles/<slug>-<arm>.pt` |
 | exp2/exp3 generated results (curves, gauge, budget) | `exp2/*`, `exp3/*` |
-| LR-grid/extension score shards + 14B generation pools | `lr_extend_resume/**` |
+| reader × generator grid `runs/lr_grid_box/{lr_grid,mc_diag,_ind}/**` | same paths |
+| 14B extension + re-injection dose curve `runs/lr_extend_box/{lr_grid,inject_tf,_ind}/**` | `lr_extend_resume/{lr_grid,inject_tf,_ind}/**` |
+| same-model reader shards `runs/{lr_box/lr,mc_box/mc,elicit_box/elicit}/*.pt` | same paths |
 | **70B chain** — generated streams `runs/llama70b_scout/streams_llama70b.json`; full-sweep raw batch output `runs/llama70b_scout/lr_raw_batch_output.jsonl`; scored records `runs/llama70b_scout/lr_records_llama70b.json`; faithful-template rescore `runs/rescore_llama70b/{rescore_lr_records.json, rescore_raw_file-*.jsonl, rescore_meta.json, rescore_validation.json}` | same paths (the small 70B records/streams are also committed in-repo; the official-adapter confirmation is `experiments/exp2_output_monitorability/reports/lr_72b_rescore_confirmation.json`, in git) |
 
 ## Acknowledgements

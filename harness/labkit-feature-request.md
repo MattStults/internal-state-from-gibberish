@@ -11,8 +11,8 @@ already exists to handle.
 A 3-model batch acquired a host that booted cleanly, then the workdir upload stalled; after 600s:
 
 ```
-TimeoutExpired: ['rsync','-az','-e','ssh ... -p 10810', --exclude __pycache__ --exclude .venv
-  --exclude *.pt --exclude artifacts --exclude .git, './', 'root@ssh5.vast.ai:/root/labkit_run'] timed out after 600s
+TimeoutExpired: ['rsync','-az','-e','ssh ... -p <port>', --exclude __pycache__ --exclude .venv
+  --exclude *.pt --exclude artifacts --exclude .git, './', 'root@<vast-host>:/root/labkit_run'] timed out after 600s
   remote.py:207 rsync_up -> remote.py:182 _run_checked
 ```
 

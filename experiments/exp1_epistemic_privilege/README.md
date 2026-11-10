@@ -8,7 +8,8 @@ concept from that output** — a literal symbol-counter, the model's own interna
 **Headline.** A dumb character n-gram counter recovers the injected concept from word-free output above its
 shuffle floor at every scale (original series **0.83 / 0.79 / 0.73**, 1.5→7B): random-looking output *does*
 leak the concept. The original "weakens with scale" reading of that series is **retracted** — the 7B run was
-under-injected, and at criterion-matched dose the symbol-counter reads **0.86** at 7B (dose correction at the
+under-injected, and at a dose passing the nameability criterion the symbol-counter reads **0.86** at 7B (s140; 0.83 at the
+capability-passing s124) (dose correction at the
 top of [`reports/experiment.md`](reports/experiment.md); exp2's `scale14b_verdict.md` extends the corrected,
 non-closing curve to 14B). What genuinely shrinks with scale is the raw character-histogram shift, not
 recoverability. A clean copy's internal read does not beat the symbol-counter; the prefill probe carries
