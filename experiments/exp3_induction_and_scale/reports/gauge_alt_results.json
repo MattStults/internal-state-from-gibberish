@@ -1,0 +1,1483 @@
+{
+  "judge": "claude-haiku-4-5-20251001",
+  "arm": "evoked_alt",
+  "caveat": "Amendment 1 should-fix 2: induction strength is non-monotone in size (evoked gauge 31/17/43%), so the 3B point is never interpreted as a readability change on its own; endpoint (1.5B<->7B) comparisons govern. A gauge FAIL here flags/voids that size's alt-direction cells in lr_grid_offline; it never invalidates the run.",
+  "models": [
+    {
+      "model": "qwen2.5-3b",
+      "judge": "claude-haiku-4-5-20251001",
+      "judge_served_by": "claude-haiku-4-5-20251001",
+      "per_concept": {
+        "celebration": [
+          0,
+          8
+        ],
+        "ocean": [
+          4,
+          8
+        ],
+        "fear": [
+          1,
+          8
+        ],
+        "silence": [
+          1,
+          8
+        ],
+        "deception": [
+          0,
+          8
+        ],
+        "obedience": [
+          0,
+          8
+        ],
+        "debugging": [
+          0,
+          8
+        ],
+        "security": [
+          0,
+          8
+        ],
+        "curiosity": [
+          0,
+          8
+        ],
+        "anger": [
+          0,
+          8
+        ],
+        "warmth": [
+          3,
+          8
+        ],
+        "loneliness": [
+          4,
+          8
+        ]
+      },
+      "items": [
+        {
+          "concept": "celebration",
+          "i": 0,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "celebration",
+          "i": 1,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "celebration",
+          "i": 2,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "celebration",
+          "i": 3,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "celebration",
+          "i": 4,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "celebration",
+          "i": 5,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "celebration",
+          "i": 6,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "celebration",
+          "i": 7,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "ocean",
+          "i": 0,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "ocean",
+          "i": 1,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "ocean",
+          "i": 2,
+          "reply": "ocean",
+          "parsed": "ocean",
+          "correct": true
+        },
+        {
+          "concept": "ocean",
+          "i": 3,
+          "reply": "ocean",
+          "parsed": "ocean",
+          "correct": true
+        },
+        {
+          "concept": "ocean",
+          "i": 4,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "ocean",
+          "i": 5,
+          "reply": "ocean",
+          "parsed": "ocean",
+          "correct": true
+        },
+        {
+          "concept": "ocean",
+          "i": 6,
+          "reply": "ocean",
+          "parsed": "ocean",
+          "correct": true
+        },
+        {
+          "concept": "ocean",
+          "i": 7,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": false
+        },
+        {
+          "concept": "fear",
+          "i": 0,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "fear",
+          "i": 1,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "fear",
+          "i": 2,
+          "reply": "security",
+          "parsed": "security",
+          "correct": false
+        },
+        {
+          "concept": "fear",
+          "i": 3,
+          "reply": "fear",
+          "parsed": "fear",
+          "correct": true
+        },
+        {
+          "concept": "fear",
+          "i": 4,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "fear",
+          "i": 5,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "fear",
+          "i": 6,
+          "reply": "silence",
+          "parsed": "silence",
+          "correct": false
+        },
+        {
+          "concept": "fear",
+          "i": 7,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "silence",
+          "i": 0,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "silence",
+          "i": 1,
+          "reply": "silence",
+          "parsed": "silence",
+          "correct": true
+        },
+        {
+          "concept": "silence",
+          "i": 2,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "silence",
+          "i": 3,
+          "reply": "anger",
+          "parsed": "anger",
+          "correct": false
+        },
+        {
+          "concept": "silence",
+          "i": 4,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "silence",
+          "i": 5,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "silence",
+          "i": 6,
+          "reply": "solitude",
+          "parsed": null,
+          "correct": false
+        },
+        {
+          "concept": "silence",
+          "i": 7,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "deception",
+          "i": 0,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "deception",
+          "i": 1,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "deception",
+          "i": 2,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "deception",
+          "i": 3,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": false
+        },
+        {
+          "concept": "deception",
+          "i": 4,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "deception",
+          "i": 5,
+          "reply": "silence",
+          "parsed": "silence",
+          "correct": false
+        },
+        {
+          "concept": "deception",
+          "i": 6,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "deception",
+          "i": 7,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "obedience",
+          "i": 0,
+          "reply": "celebration",
+          "parsed": "celebration",
+          "correct": false
+        },
+        {
+          "concept": "obedience",
+          "i": 1,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "obedience",
+          "i": 2,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": false
+        },
+        {
+          "concept": "obedience",
+          "i": 3,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "obedience",
+          "i": 4,
+          "reply": "nostalgia",
+          "parsed": null,
+          "correct": false
+        },
+        {
+          "concept": "obedience",
+          "i": 5,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "obedience",
+          "i": 6,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": false
+        },
+        {
+          "concept": "obedience",
+          "i": 7,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "debugging",
+          "i": 0,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "debugging",
+          "i": 1,
+          "reply": "nostalgia",
+          "parsed": null,
+          "correct": false
+        },
+        {
+          "concept": "debugging",
+          "i": 2,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": false
+        },
+        {
+          "concept": "debugging",
+          "i": 3,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": false
+        },
+        {
+          "concept": "debugging",
+          "i": 4,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "debugging",
+          "i": 5,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "debugging",
+          "i": 6,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "debugging",
+          "i": 7,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "security",
+          "i": 0,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "security",
+          "i": 1,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "security",
+          "i": 2,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "security",
+          "i": 3,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "security",
+          "i": 4,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "security",
+          "i": 5,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "security",
+          "i": 6,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "security",
+          "i": 7,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "curiosity",
+          "i": 0,
+          "reply": "celebration",
+          "parsed": "celebration",
+          "correct": false
+        },
+        {
+          "concept": "curiosity",
+          "i": 1,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "curiosity",
+          "i": 2,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "curiosity",
+          "i": 3,
+          "reply": "fear",
+          "parsed": "fear",
+          "correct": false
+        },
+        {
+          "concept": "curiosity",
+          "i": 4,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "curiosity",
+          "i": 5,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "curiosity",
+          "i": 6,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "curiosity",
+          "i": 7,
+          "reply": "fear",
+          "parsed": "fear",
+          "correct": false
+        },
+        {
+          "concept": "anger",
+          "i": 0,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "anger",
+          "i": 1,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": false
+        },
+        {
+          "concept": "anger",
+          "i": 2,
+          "reply": "silence",
+          "parsed": "silence",
+          "correct": false
+        },
+        {
+          "concept": "anger",
+          "i": 3,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "anger",
+          "i": 4,
+          "reply": "silence",
+          "parsed": "silence",
+          "correct": false
+        },
+        {
+          "concept": "anger",
+          "i": 5,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "anger",
+          "i": 6,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": false
+        },
+        {
+          "concept": "anger",
+          "i": 7,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "warmth",
+          "i": 0,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": false
+        },
+        {
+          "concept": "warmth",
+          "i": 1,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "warmth",
+          "i": 2,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "warmth",
+          "i": 3,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": true
+        },
+        {
+          "concept": "warmth",
+          "i": 4,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": true
+        },
+        {
+          "concept": "warmth",
+          "i": 5,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "warmth",
+          "i": 6,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": true
+        },
+        {
+          "concept": "warmth",
+          "i": 7,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": false
+        },
+        {
+          "concept": "loneliness",
+          "i": 0,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "loneliness",
+          "i": 1,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": true
+        },
+        {
+          "concept": "loneliness",
+          "i": 2,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "loneliness",
+          "i": 3,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": true
+        },
+        {
+          "concept": "loneliness",
+          "i": 4,
+          "reply": "silence",
+          "parsed": "silence",
+          "correct": false
+        },
+        {
+          "concept": "loneliness",
+          "i": 5,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": true
+        },
+        {
+          "concept": "loneliness",
+          "i": 6,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": true
+        },
+        {
+          "concept": "loneliness",
+          "i": 7,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        }
+      ],
+      "acc": 0.13541666666666666,
+      "n": 96,
+      "ci95": [
+        0.0808762979676279,
+        0.21801314290671703
+      ],
+      "chance": 0.08333333333333333,
+      "gauge_pass": false,
+      "arm": "evoked_alt"
+    },
+    {
+      "model": "qwen2.5-7b",
+      "judge": "claude-haiku-4-5-20251001",
+      "judge_served_by": "claude-haiku-4-5-20251001",
+      "per_concept": {
+        "celebration": [
+          7,
+          8
+        ],
+        "ocean": [
+          4,
+          8
+        ],
+        "fear": [
+          4,
+          8
+        ],
+        "silence": [
+          0,
+          8
+        ],
+        "deception": [
+          3,
+          8
+        ],
+        "obedience": [
+          0,
+          8
+        ],
+        "debugging": [
+          3,
+          8
+        ],
+        "security": [
+          4,
+          8
+        ],
+        "curiosity": [
+          8,
+          8
+        ],
+        "anger": [
+          4,
+          8
+        ],
+        "warmth": [
+          4,
+          8
+        ],
+        "loneliness": [
+          8,
+          8
+        ]
+      },
+      "items": [
+        {
+          "concept": "celebration",
+          "i": 0,
+          "reply": "celebration",
+          "parsed": "celebration",
+          "correct": true
+        },
+        {
+          "concept": "celebration",
+          "i": 1,
+          "reply": "celebration",
+          "parsed": "celebration",
+          "correct": true
+        },
+        {
+          "concept": "celebration",
+          "i": 2,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "celebration",
+          "i": 3,
+          "reply": "celebration",
+          "parsed": "celebration",
+          "correct": true
+        },
+        {
+          "concept": "celebration",
+          "i": 4,
+          "reply": "celebration",
+          "parsed": "celebration",
+          "correct": true
+        },
+        {
+          "concept": "celebration",
+          "i": 5,
+          "reply": "celebration",
+          "parsed": "celebration",
+          "correct": true
+        },
+        {
+          "concept": "celebration",
+          "i": 6,
+          "reply": "celebration",
+          "parsed": "celebration",
+          "correct": true
+        },
+        {
+          "concept": "celebration",
+          "i": 7,
+          "reply": "celebration",
+          "parsed": "celebration",
+          "correct": true
+        },
+        {
+          "concept": "ocean",
+          "i": 0,
+          "reply": "ocean",
+          "parsed": "ocean",
+          "correct": true
+        },
+        {
+          "concept": "ocean",
+          "i": 1,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": false
+        },
+        {
+          "concept": "ocean",
+          "i": 2,
+          "reply": "ocean",
+          "parsed": "ocean",
+          "correct": true
+        },
+        {
+          "concept": "ocean",
+          "i": 3,
+          "reply": "silence",
+          "parsed": "silence",
+          "correct": false
+        },
+        {
+          "concept": "ocean",
+          "i": 4,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": false
+        },
+        {
+          "concept": "ocean",
+          "i": 5,
+          "reply": "ocean",
+          "parsed": "ocean",
+          "correct": true
+        },
+        {
+          "concept": "ocean",
+          "i": 6,
+          "reply": "fear",
+          "parsed": "fear",
+          "correct": false
+        },
+        {
+          "concept": "ocean",
+          "i": 7,
+          "reply": "ocean",
+          "parsed": "ocean",
+          "correct": true
+        },
+        {
+          "concept": "fear",
+          "i": 0,
+          "reply": "fear",
+          "parsed": "fear",
+          "correct": true
+        },
+        {
+          "concept": "fear",
+          "i": 1,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "fear",
+          "i": 2,
+          "reply": "fear",
+          "parsed": "fear",
+          "correct": true
+        },
+        {
+          "concept": "fear",
+          "i": 3,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": false
+        },
+        {
+          "concept": "fear",
+          "i": 4,
+          "reply": "fear",
+          "parsed": "fear",
+          "correct": true
+        },
+        {
+          "concept": "fear",
+          "i": 5,
+          "reply": "fear",
+          "parsed": "fear",
+          "correct": true
+        },
+        {
+          "concept": "fear",
+          "i": 6,
+          "reply": "security",
+          "parsed": "security",
+          "correct": false
+        },
+        {
+          "concept": "fear",
+          "i": 7,
+          "reply": "security",
+          "parsed": "security",
+          "correct": false
+        },
+        {
+          "concept": "silence",
+          "i": 0,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "silence",
+          "i": 1,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "silence",
+          "i": 2,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "silence",
+          "i": 3,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "silence",
+          "i": 4,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "silence",
+          "i": 5,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "silence",
+          "i": 6,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "silence",
+          "i": 7,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "deception",
+          "i": 0,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": false
+        },
+        {
+          "concept": "deception",
+          "i": 1,
+          "reply": "deception",
+          "parsed": "deception",
+          "correct": true
+        },
+        {
+          "concept": "deception",
+          "i": 2,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "deception",
+          "i": 3,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "deception",
+          "i": 4,
+          "reply": "deception",
+          "parsed": "deception",
+          "correct": true
+        },
+        {
+          "concept": "deception",
+          "i": 5,
+          "reply": "deception",
+          "parsed": "deception",
+          "correct": true
+        },
+        {
+          "concept": "deception",
+          "i": 6,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "deception",
+          "i": 7,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "obedience",
+          "i": 0,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "obedience",
+          "i": 1,
+          "reply": "celebration",
+          "parsed": "celebration",
+          "correct": false
+        },
+        {
+          "concept": "obedience",
+          "i": 2,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "obedience",
+          "i": 3,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "obedience",
+          "i": 4,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "obedience",
+          "i": 5,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "obedience",
+          "i": 6,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "obedience",
+          "i": 7,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "debugging",
+          "i": 0,
+          "reply": "celebration",
+          "parsed": "celebration",
+          "correct": false
+        },
+        {
+          "concept": "debugging",
+          "i": 1,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "debugging",
+          "i": 2,
+          "reply": "debugging",
+          "parsed": "debugging",
+          "correct": true
+        },
+        {
+          "concept": "debugging",
+          "i": 3,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": false
+        },
+        {
+          "concept": "debugging",
+          "i": 4,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": false
+        },
+        {
+          "concept": "debugging",
+          "i": 5,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "debugging",
+          "i": 6,
+          "reply": "debugging",
+          "parsed": "debugging",
+          "correct": true
+        },
+        {
+          "concept": "debugging",
+          "i": 7,
+          "reply": "debugging",
+          "parsed": "debugging",
+          "correct": true
+        },
+        {
+          "concept": "security",
+          "i": 0,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": false
+        },
+        {
+          "concept": "security",
+          "i": 1,
+          "reply": "security",
+          "parsed": "security",
+          "correct": true
+        },
+        {
+          "concept": "security",
+          "i": 2,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "security",
+          "i": 3,
+          "reply": "security",
+          "parsed": "security",
+          "correct": true
+        },
+        {
+          "concept": "security",
+          "i": 4,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "security",
+          "i": 5,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": false
+        },
+        {
+          "concept": "security",
+          "i": 6,
+          "reply": "security",
+          "parsed": "security",
+          "correct": true
+        },
+        {
+          "concept": "security",
+          "i": 7,
+          "reply": "security",
+          "parsed": "security",
+          "correct": true
+        },
+        {
+          "concept": "curiosity",
+          "i": 0,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": true
+        },
+        {
+          "concept": "curiosity",
+          "i": 1,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": true
+        },
+        {
+          "concept": "curiosity",
+          "i": 2,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": true
+        },
+        {
+          "concept": "curiosity",
+          "i": 3,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": true
+        },
+        {
+          "concept": "curiosity",
+          "i": 4,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": true
+        },
+        {
+          "concept": "curiosity",
+          "i": 5,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": true
+        },
+        {
+          "concept": "curiosity",
+          "i": 6,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": true
+        },
+        {
+          "concept": "curiosity",
+          "i": 7,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": true
+        },
+        {
+          "concept": "anger",
+          "i": 0,
+          "reply": "anger",
+          "parsed": "anger",
+          "correct": true
+        },
+        {
+          "concept": "anger",
+          "i": 1,
+          "reply": "anger",
+          "parsed": "anger",
+          "correct": true
+        },
+        {
+          "concept": "anger",
+          "i": 2,
+          "reply": "fear",
+          "parsed": "fear",
+          "correct": false
+        },
+        {
+          "concept": "anger",
+          "i": 3,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": false
+        },
+        {
+          "concept": "anger",
+          "i": 4,
+          "reply": "curiosity",
+          "parsed": "curiosity",
+          "correct": false
+        },
+        {
+          "concept": "anger",
+          "i": 5,
+          "reply": "anger",
+          "parsed": "anger",
+          "correct": true
+        },
+        {
+          "concept": "anger",
+          "i": 6,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": false
+        },
+        {
+          "concept": "anger",
+          "i": 7,
+          "reply": "anger",
+          "parsed": "anger",
+          "correct": true
+        },
+        {
+          "concept": "warmth",
+          "i": 0,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": true
+        },
+        {
+          "concept": "warmth",
+          "i": 1,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": true
+        },
+        {
+          "concept": "warmth",
+          "i": 2,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": true
+        },
+        {
+          "concept": "warmth",
+          "i": 3,
+          "reply": "security",
+          "parsed": "security",
+          "correct": false
+        },
+        {
+          "concept": "warmth",
+          "i": 4,
+          "reply": "warmth",
+          "parsed": "warmth",
+          "correct": true
+        },
+        {
+          "concept": "warmth",
+          "i": 5,
+          "reply": "security",
+          "parsed": "security",
+          "correct": false
+        },
+        {
+          "concept": "warmth",
+          "i": 6,
+          "reply": "security",
+          "parsed": "security",
+          "correct": false
+        },
+        {
+          "concept": "warmth",
+          "i": 7,
+          "reply": "security",
+          "parsed": "security",
+          "correct": false
+        },
+        {
+          "concept": "loneliness",
+          "i": 0,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": true
+        },
+        {
+          "concept": "loneliness",
+          "i": 1,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": true
+        },
+        {
+          "concept": "loneliness",
+          "i": 2,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": true
+        },
+        {
+          "concept": "loneliness",
+          "i": 3,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": true
+        },
+        {
+          "concept": "loneliness",
+          "i": 4,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": true
+        },
+        {
+          "concept": "loneliness",
+          "i": 5,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": true
+        },
+        {
+          "concept": "loneliness",
+          "i": 6,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": true
+        },
+        {
+          "concept": "loneliness",
+          "i": 7,
+          "reply": "loneliness",
+          "parsed": "loneliness",
+          "correct": true
+        }
+      ],
+      "acc": 0.5104166666666666,
+      "n": 96,
+      "ci95": [
+        0.41195862420919654,
+        0.6080731060515364
+      ],
+      "chance": 0.08333333333333333,
+      "gauge_pass": true,
+      "arm": "evoked_alt"
+    }
+  ]
+}

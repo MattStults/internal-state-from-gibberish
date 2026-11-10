@@ -21,7 +21,7 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
-REPO = Path(__file__).resolve().parent.parent
+REPO = Path(__file__).resolve().parents[3]
 MODELS = ["qwen2.5-1.5b", "qwen2.5-3b", "qwen2.5-7b"]
 NS = [5, 8, 12, 16, 20, 25, 30]   # streams/concept to sub-sample
 DRAWS = 6                          # random sub-samples per N (for a mean +/- spread)

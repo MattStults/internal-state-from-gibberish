@@ -25,7 +25,7 @@ setup-driver:
 	python3 -m venv .venv-driver && .venv-driver/bin/pip install -r requirements-driver.txt
 
 test:
-	@for t in $(EXP1)/tests/test_injection_hook.py $(EXP1)/tests/test_calibrate_floor.py $(EXP1)/tests/test_sweep_probe.py $(EXP2)/tests/test_*.py $(EXP3)/tests/test_*.py; do \
+	@for t in $(EXP1)/tests/test_injection_hook.py $(EXP1)/tests/test_calibrate_floor.py $(EXP1)/tests/test_sweep_probe.py $(EXP1)/tests/test_analysis_repo_root.py $(EXP2)/tests/test_*.py $(EXP3)/tests/test_*.py; do \
 		echo "=== $$t ==="; .venv/bin/python $$t || exit 1; done
 	@echo "=== $(EXP1)/tests/test_driver_wiring.py (driver venv) ===" ; .venv-driver/bin/python $(EXP1)/tests/test_driver_wiring.py
 

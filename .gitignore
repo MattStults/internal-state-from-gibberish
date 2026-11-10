@@ -42,6 +42,8 @@ runs/exp3_bundles.tar
 # ...EXCEPT the small headline results behind the published arm + gauge tables (committed; see above).
 !experiments/exp3_induction_and_scale/reports/induction_results.json
 !experiments/exp3_induction_and_scale/reports/gauge_results.json
+# ...and the paraphrase-arm gauge, which the grid and extension scorers read to void cells.
+!experiments/exp3_induction_and_scale/reports/gauge_alt_results.json
 runs/exp2_bundles.tar
 runs/reanalysis_box/
 runs/reanalysis_resume/

@@ -37,7 +37,7 @@ pre-registered verdicts + corrections: [`reports/experiment.md`](reports/experim
 | `gauge_judge.py` | the manipulation-check gauge — a pinned blind judge (`claude-haiku-4-5-20251001`) reads the persona's free-association and picks the concept. |
 | `box_analyze.py` | on-box entrypoint (extract embeds from HF, run exp3 + exp2 analysis into `out/`). |
 | `tests/` | offline unit tests (RED-first), CPU only. |
-| `reports/` | `experiment.md` (tracked); generated `induction_results.json` / `gauge_results.json` / `induction_curves.png` live on HF. |
+| `reports/` | `experiment.md` (tracked); `induction_results.json`, `gauge_results.json` and `gauge_alt_results.json` are tracked here (and on HF); the generated `induction_curves.png` lives on HF. |
 
 ## Reproduce (offline, from the released bundles)
 

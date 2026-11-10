@@ -1013,10 +1013,17 @@ def amendment2_named_calls(expressed_public, expressed_self, run2):
                            "data) as amended by Amendment 3 (2b withdrawn)"))
 
 
+def portable_path(path):
+    """`path` relative to the repo when it lies inside it, else unchanged -- so the results JSON does
+    not record the runner's home directory."""
+    rel = os.path.relpath(os.path.abspath(path), os.path.abspath(REPO))
+    return path if rel.startswith(os.pardir) else rel
+
+
 # ------------------------------------------------------------------ main
 def main(box_dir=BOX_DIR, out_json=OUT_JSON, smoke=False, evoked=False):
     gdir = _grid_dir(box_dir)
-    res = dict(box_dir=box_dir, smoke=bool(smoke))
+    res = dict(box_dir=portable_path(box_dir), smoke=bool(smoke))
     res["scope_note"] = SCOPE_NOTE          # fix 14: the registered multiplicity disclosure
     res["anchor"] = anchor_check(gdir)
     anchor_ok = res["anchor"].get("ok")

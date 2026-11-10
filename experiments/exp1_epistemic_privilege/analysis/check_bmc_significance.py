@@ -6,7 +6,7 @@ from pathlib import Path
 
 import numpy as np
 
-REPO = Path(__file__).resolve().parent.parent
+REPO = Path(__file__).resolve().parents[3]
 
 for slug in ["qwen2.5-1.5b", "qwen2.5-3b", "qwen2.5-7b"]:
     try:

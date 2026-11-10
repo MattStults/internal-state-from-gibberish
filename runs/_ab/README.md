@@ -57,7 +57,7 @@ layer/strength calibration. See the repo README Acknowledgements.
 | `qwen2.5-7b-all.pt`  | Qwen2.5-7B  | all-position | 0, 62, 93 |
 | `qwen2.5-7b-gen.pt`  | Qwen2.5-7B  | generation-only | 0, 124, 140 — same bytes as `-gen-matched` below |
 | `qwen2.5-7b-gen-s93.pt` | Qwen2.5-7B | generation-only, the original under-dosed capture | 0, 62, 93 |
-| `qwen2.5-7b-gen-matched.pt` | Qwen2.5-7B | generation-only, nameability-matched | 0, 124, 140 |
+| `qwen2.5-7b-gen-matched.pt` | Qwen2.5-7B | generation-only, criterion-dose re-run | 0, 124, 140 |
 
 - **all-position**: concept vector added at every token position (prompt + each generated token) — the
   original method.

@@ -91,6 +91,24 @@ the large files), taken from the Hugging Face API.
 | same-model reader shards `runs/{lr_box/lr,mc_box/mc,elicit_box/elicit}/*.pt` | same paths |
 | **70B chain** — generated streams `runs/llama70b_scout/streams_llama70b.json`; full-sweep raw batch output `runs/llama70b_scout/lr_raw_batch_output.jsonl`; scored records `runs/llama70b_scout/lr_records_llama70b.json`; faithful-template rescore `runs/rescore_llama70b/{rescore_lr_records.json, rescore_raw_file-*.jsonl, rescore_meta.json, rescore_validation.json}` | same paths (the small 70B records/streams are also committed in-repo; the official-adapter confirmation is `experiments/exp2_output_monitorability/reports/lr_72b_rescore_confirmation.json`, in git) |
 
+### What cannot be regenerated from this repo
+
+- **Three results have no committed generator script.** In `experiments/exp2_output_monitorability/reports/`,
+  `e4_trajectory_verdict.json` and `e2_e5_verdict.json` (the confound suite's E2, E4 and E5
+  verdicts) were computed with one-off code that was not kept; their raw inputs are in the dataset
+  under `runs/confound_box/` and `confound/bundles/`. The templating shares for 1.5B / 3B / 7B
+  (1.6 / 4.8 / 14.1%) are recorded in `lr_scale_grid_verdicts.md` and typed into
+  `analysis/make_blog_figs.py`; no script writes them, though `top3_prefix4_share` in
+  `analysis/lr_extend_offline.py` implements the same measure, and their inputs are the
+  `secret_word` bundles (`runs/_ind/<slug>/data/<slug>-secret_word.pt`, on HF as `exp3/bundles/`).
+- **Experiment 1's original-series accuracies** (0.83 / 0.79 / 0.73) are recorded only in
+  `experiments/exp1_epistemic_privilege/reports/ab_results.md`; no results JSON holds them.
+- **GPU collection** needs the private `labkit` harness, so new streams cannot be collected from
+  this repo alone. The scripts under `experiments/*/analysis` run on CPU from the released data, with
+  three caveats: some fetch model weights or tokenizers from Hugging Face, the nested-CV reader
+  analyses take hours and were run on rented Linux boxes (see the scipy note in `requirements.txt`),
+  and the three results above have no script to run.
+
 ## Acknowledgements
 
 Builds directly on the **open-introspection** introspection-at-scale work by

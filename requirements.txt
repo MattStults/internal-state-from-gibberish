@@ -5,14 +5,26 @@
 #   python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 #
 # GPU-side collection (src/covert_collect.py) runs on a remote box; its heavier
-# deps (transformers, accelerate, wordfreq) are installed there by the harness
+# deps (accelerate, wordfreq) are installed there by the harness
 # (harness/run_labkit.py) — see requirements-driver.txt for the driver itself.
 # Pinned: the bits-recovered numbers come from sklearn nested-CV, so the analysis env is version-locked
-# (the versions the committed results were produced with). The char reader additionally needs `transformers`
-# for the tokenizer when re-running the readers (the box installs it; add it here if running readers locally).
+# to the versions the committed results were produced with.
+#
+# scipy is the one platform split. The results were produced with scipy 1.15.3, and the rented Linux
+# boxes pin it too (harness/run_reanalysis.py): scipy 1.17.1 was seen to fail "SVD did not converge" in
+# the 3B reader nested-CV. But the 1.15.3 macOS wheels do not load on macOS 27, so on macOS this file
+# installs 1.17.1. Under 1.17.1 the test suite passes and the likelihood-reader scorers (lr_reader,
+# mc, elicit, lr_grid, lr_extend) reproduce the committed results JSONs to 1e-9. The nested-CV reader
+# analyses (run_budget, run_induction, dose_titration, full_stream_convergence) were NOT re-verified
+# under 1.17.1; run those on Linux with 1.15.3.
+# transformers (tokenizers for the char reader; 4.46.3 is the version the boxes used) and
+# huggingface_hub (data download) are needed to re-run the readers and scorers.
 numpy==1.26.4
-scipy==1.15.3
+scipy==1.15.3; sys_platform != "darwin"
+scipy==1.17.1; sys_platform == "darwin"
 scikit-learn==1.7.2
 joblib==1.5.3
 matplotlib==3.10.9
 torch==2.2.2
+transformers==4.46.3
+huggingface_hub==0.36.2

@@ -676,3 +676,4 @@ except Exception as e:
 
 for name, ok, note in checks:
     print(f"  [{'PASS' if ok else 'FAIL'}] {name}" + (f"  -- {note}" if note and not ok else ""))
+sys.exit(0 if all(ok for _, ok, _ in checks) and checks else 1)

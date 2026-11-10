@@ -1,5 +1,5 @@
 # Manifest of the public Hugging Face dataset ErrareHumanumEst/internal-state-from-gibberish
-# dataset revision 3b45493fb98a0dfd48045a9b2454a18246f3e76d (lastModified 2026-11-10T00:07:48.000Z); 664 files, 6837182019 bytes
+# dataset revision a5712ba2000eb6b8bdc14fe9d75c15b0f901e250 (lastModified 2026-11-10T00:31:49.000Z); 664 files, 6837182021 bytes
 # generated from the HF API, no local hashing:
 #   GET https://huggingface.co/api/datasets/ErrareHumanumEst/internal-state-from-gibberish?blobs=true
 # columns: size_bytes  checksum  path
@@ -8,7 +8,7 @@
 # The repo path each file corresponds to is in the README section 'Data layout: repo path -> HF path'.
 # Note: qwen2.5-7b-gen.pt and qwen2.5-7b-gen-matched.pt are the same bytes (see the dataset card).
        2786  git:fbdd8f6904f70e8a24d91c29e37913d1072709be  .gitattributes
-       9674  git:c3570e21ff2e041373eb7eadcb660304484a484c  README.md
+       9676  git:0edddb1e3cee2afceb090993b199928ee4897229  README.md
   531773478  sha256:b312b94510c788af6cc01f3b0a9408812343ca8cd368c9aa29bf18076ea71028  confound-e1-gen.pt
    32067260  sha256:4fdfa42b451582838d2d2825b749ab716cf827cf2b9443c02bb10293ed17939b  confound/bundles/qwen2.5-1.5b-maintained_secret.pt
       73325  sha256:14d17bf305088b5a33252c81e211fc1073b6699ed3add89c86297c0823ed4700  exp2/budget_curves.png
